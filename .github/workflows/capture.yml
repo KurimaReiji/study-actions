@@ -8,6 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: checkout
+        uses: actions/checkout@v2
       - name: Hello world
         uses: actions/hello-world-javascript-action@v1
         with:
@@ -17,3 +19,7 @@ jobs:
         uses: "lannonbr/puppeteer-screenshot-action@1.0.0"
         with:
           url: https://github.com
+      - name: commit and push
+        run: |
+          git add .
+          git commit -m 'captured'
