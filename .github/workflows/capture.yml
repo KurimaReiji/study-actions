@@ -21,5 +21,7 @@ jobs:
           url: https://github.com
       - name: commit and push
         run: |
+          git config --global user.email "kurimareiji@kurimail.com"
+          git config --global user.name "Reiji"
           git add .
           git commit -m 'captured'
