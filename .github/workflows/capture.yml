@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello world
-          uses: actions/hello-world-javascript-action@v1
-          with:
-            who-to-greet: 'Mona the Octocat'
-          id: hello
+        uses: actions/hello-world-javascript-action@v1
+        with:
+          who-to-greet: 'Mona the Octocat'
+        id: hello
       - name: Take photo of github.com
         uses: "lannonbr/puppeteer-screenshot-action@1.0.0"
         with:
