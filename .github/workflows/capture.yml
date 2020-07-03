@@ -25,3 +25,4 @@ jobs:
           git config --global user.name "Reiji"
           git add .
           git commit -m 'captured'
+          git push
