@@ -1,0 +1,22 @@
+name: RUN puppeteer
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '12'
+      - name: make
+        run: node study1.js
+      - name: use artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: json

@@ -1,0 +1,25 @@
+{
+  "name": "study-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurimaReiji/study-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurimaReiji/study-actions/issues"
+  },
+  "homepage": "https://github.com/KurimaReiji/study-actions#readme",
+  "dependencies": {
+    "puppeteer-core": "^5.0.0",
+    "@actions/core": "^1.0.0",
+    "@actions/io": "^1.0.0"
+  }
+}
