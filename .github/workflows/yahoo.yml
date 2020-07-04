@@ -14,8 +14,7 @@ jobs:
         with:
           node-version: '12'
       - run: npm install
-      - name: make
-      - run: node study1.js
+      - run: npm run build
       - name: use artifact
         uses: actions/upload-artifact@v2
         with:
