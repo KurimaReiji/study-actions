@@ -1,8 +1,6 @@
 //const core = require("@actions/core");
 const puppeteer = require("puppeteer-core");
 //const io = require("@actions/io");
-const os = require("os");
-const path = require("path");
 
 const errHandler = (err) => console.log(err);
 const browserPath = "/usr/bin/google-chrome";
@@ -121,7 +119,7 @@ const scraper = () => {
   await page._client.send('Page.setDownloadBehavior',
     {
       behavior: 'allow',
-      downloadPath: './myAwesomeDownloadFolder'
+      downloadPath: targetDir,
     }
   );
   await page.goto(`https://baseball.yahoo.co.jp/npb/schedule/?date=${date}`);
