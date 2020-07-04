@@ -10,7 +10,7 @@ const date = `2020-07-03`;
 const targetDir = `${process.env.GITHUB_WORKSPACE}/json/`;
 
 const scraper_get_targets = () => {
-  return Array.from(document.querySelectorAll("#gm_card a")).map((a) => a.href.replace("index", "text"));
+  return Array.from(document.querySelectorAll("#gm_card a")).filter((a) => a.querySelector(".bb-score__link").textContent.includes("試合終了")).map((a) => a.href.replace("index", "text"));
 };
 
 const scraper = () => {
