@@ -13,6 +13,7 @@ jobs:
       - uses: actions/setup-node@v2-beta
         with:
           node-version: '12'
+        run: npm install
       - name: make
         run: node study1.js
       - name: use artifact
