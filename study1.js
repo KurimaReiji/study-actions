@@ -1,6 +1,6 @@
-const core = require("@actions/core");
+//const core = require("@actions/core");
 const puppeteer = require("puppeteer-core");
-const io = require("@actions/io");
+//const io = require("@actions/io");
 const os = require("os");
 const path = require("path");
 
@@ -111,8 +111,6 @@ const scraper = () => {
 
 
 (async () => {
-
-  await io.mkdirP(targetDir);
 
   const browser = await puppeteer.launch({
     headless: true,
