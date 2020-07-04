@@ -19,10 +19,8 @@ jobs:
         uses: "lannonbr/puppeteer-screenshot-action@1.0.0"
         with:
           url: https://github.com
-      - name: commit and push
-        run: |
-          git config --global user.email "kurimareiji@kurimail.com"
-          git config --global user.name "Reiji"
-          git add .
-          git commit -m 'captured'
-          git push
+      - name: use artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: screenshots
