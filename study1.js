@@ -2,7 +2,7 @@ const puppeteer = require("puppeteer-core");
 
 const errHandler = (err) => console.log(err);
 const browserPath = "/usr/bin/google-chrome";
-const date = `2020-07-04`;
+const date = `${process.env.TODAY}`;
 const targetDir = `${process.env.GITHUB_WORKSPACE}/json/`;
 
 const scraper_get_targets = () => {

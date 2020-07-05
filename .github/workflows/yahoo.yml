@@ -8,13 +8,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
         uses: actions/checkout@v2
       - uses: actions/setup-node@v2-beta
         with:
           node-version: '12'
       - run: npm ci
       - run: npm run build
+        env:
+          TODAY: 2020-07-02
       - name: use artifact
         uses: actions/upload-artifact@v2
         with:
