@@ -1,10 +1,8 @@
-//const core = require("@actions/core");
 const puppeteer = require("puppeteer-core");
-//const io = require("@actions/io");
 
 const errHandler = (err) => console.log(err);
 const browserPath = "/usr/bin/google-chrome";
-const date = `2020-07-03`;
+const date = `2020-07-04`;
 const targetDir = `${process.env.GITHUB_WORKSPACE}/json/`;
 
 const scraper_get_targets = () => {
@@ -123,12 +121,12 @@ const scraper = () => {
     }
   );
   await page.goto(`https://baseball.yahoo.co.jp/npb/schedule/?date=${date}`);
-  await page.waitForSelector("#gm_card");
+  await page.waitForSelector("#gm_card", { timeout: 5000 });
   const targets = await page.evaluate(scraper_get_targets);
 
   for (let target of targets) {
     await page.goto(target);
-    await page.waitForSelector("section.bb-liveText");
+    await page.waitForSelector("section.bb-liveText", { timeout: 5000 });
     await page.evaluate(scraper);
   };
 
