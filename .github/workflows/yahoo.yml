@@ -2,7 +2,7 @@ name: RUN puppeteer
 
 on:
   schedule:
-    - cron: '45 * * * *'
+    - cron: '45 * * 1 *'
 
 jobs:
   build:
