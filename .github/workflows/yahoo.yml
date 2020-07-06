@@ -1,8 +1,8 @@
 name: RUN puppeteer
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: '*/15 * * * *'
 
 jobs:
   build:
@@ -15,7 +15,8 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          TODAY: 2020-07-02
+          TODAY: 2020-06-30
+      - run: date
       - name: use artifact
         uses: actions/upload-artifact@v2
         with:
