@@ -1,12 +1,13 @@
 const fs = require("fs");
 const path = require("path");
-const puppeteer = require('puppeteer-core');
-const errHandler = (err) => console.log(err);
+const puppeteer = require("puppeteer-core");
 
-const chromePath = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
+const errHandler = (err) => console.log(err);
+const chromePath = "/usr/bin/google-chrome";
+const targetDir = `${process.env.GITHUB_WORKSPACE}/json/`;
 
 const date = (new Date((new Date()).toUTCString())).toISOString().slice(0,10);
-const outfile = path.resolve(__dirname, `${date}.json`);
+const outfile = path.resolve(__dirname, `${targetDir}/${date}.json`);
 
 const scraper_get_targets = ()=>{
   return Array.from(document.querySelectorAll("#score_live_basic a"))
@@ -472,11 +473,9 @@ let yahoo = [];
   await page.waitFor(1200);
   await browser.close();
 
-  
-    fs.writeFileSync("./npbjp.json", JSON.stringify(npbjp, null, 2));
-    fs.writeFileSync("./yahoo.json", JSON.stringify(yahoo, null, 2));
+  fs.writeFileSync(path.resolve(__dirname, `${targetDir}/npbjp.json`, JSON.stringify(npbjp, null, 2));
+  fs.writeFileSync(path.resolve(__dirname, `${targetDir}/yahoo.json`, JSON.stringify(yahoo, null, 2));
  
-
   const npb = npbjp
     .map(add_attemptId)
     ;
