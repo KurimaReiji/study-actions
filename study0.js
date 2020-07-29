@@ -473,8 +473,8 @@ let yahoo = [];
   await page.waitFor(1200);
   await browser.close();
 
-  fs.writeFileSync(path.resolve(__dirname, `${targetDir}/npbjp.json`, JSON.stringify(npbjp, null, 2)));
-  fs.writeFileSync(path.resolve(__dirname, `${targetDir}/yahoo.json`, JSON.stringify(yahoo, null, 2)));
+  fs.writeFileSync(path.resolve(__dirname, `${targetDir}/npbjp.json`), JSON.stringify(npbjp, null, 2));
+  fs.writeFileSync(path.resolve(__dirname, `${targetDir}/yahoo.json`), JSON.stringify(yahoo, null, 2));
  
   const npb = npbjp
     .map(add_attemptId)
