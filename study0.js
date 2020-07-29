@@ -434,7 +434,7 @@ let yahoo = [];
 
 (async () => {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
     executablePath: chromePath,
   });
   const page = await browser.newPage();
