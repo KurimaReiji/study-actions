@@ -2,7 +2,7 @@ name: RUN puppeteer
 
 on:
   schedule:
-    - cron: '8,18,58 16-18 * 1 *'
+    - cron: '35 13-15 * 7-11 *'
 
 jobs:
   build:
@@ -15,7 +15,6 @@ jobs:
       - run: npm ci
       - run: make
       - run: date
-      - run: cp 2020-07*json my-artifact/
       - name: use artifact
         uses: actions/upload-artifact@v2
         with:
