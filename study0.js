@@ -4,7 +4,7 @@ const puppeteer = require("puppeteer-core");
 
 const errHandler = (err) => console.log(err);
 const chromePath = "/usr/bin/google-chrome";
-const targetDir = `${process.env.GITHUB_WORKSPACE}/json`;
+const targetDir = `${process.env.GITHUB_WORKSPACE}/artifact`;
 
 const date = (new Date((new Date()).toUTCString())).toISOString().slice(0,10);
 const outfile = `${targetDir}/${date}.json`;
@@ -460,6 +460,7 @@ let yahoo = [];
   await page.goto(`https://baseball.yahoo.co.jp/npb/schedule/?date=${date}`);
   await page.waitForSelector("#gm_card");
   const yTargets = await page.evaluate(scraper_get_targets_from_yahoo);
+  console.log(yTargets);
 
   for (let gameUrl of yTargets) {
     await page.goto(gameUrl);
@@ -488,65 +489,25 @@ let yahoo = [];
     })
     ;
 
-  const add = [
-    {
-      "attempt": "2020-06-28=L=H=b4==CS=2",
-      "credit": "0",
-      "memo": "投球前"
-    },
-    {
-      "attempt": "2020-07-03=S=DB=b8==CS=2",
-      "credit": "0",
-      "memo": "投球前"
-    },
-    {
-      "attempt": "2020-07-04=S=DB=b7=SB==2",
-      "credit": "0",
-      "memo": "投手悪送球"
-    },
-    {
-      "attempt": "2020-07-12=B=F=b2==CS=2",
-      "credit": "0",
-      "memo": "投球前"
-    },
-    {
-      "attempt": "2020-07-15=B=H=t1==CS=2",
-      "credit": "0",
-      "memo": "投球前"
-    },
-    {
-      "attempt": "2020-07-15=D=DB=b7=SB==2",
-      "credit": "0",
-      "memo": "投球前"
-    },
-    {
-      "attempt": "2020-07-16=F=M=t9==CS=2",
-      "credit": "0",
-      "memo": "投球前"
-    },
-    {
-      "attempt": "2020-07-19=C=S=t7==CS=1",
-      "credit": "0",
-      "memo": "投球前"
-    }
-  ];
-
   let data = [];
 
   try {
     data = npb
       .map((obj) => {
-        const ysb = yah.find((o) => o.attempt == obj.attempt);
-        if (!ysb) console.log(obj);
         if (obj.catchers.length == 1) {
           obj.catcher = obj.catchers[0];
-        } else {
-          obj.catcher = obj.catchers.find((c) => c.split("｜")[0] == ysb.catcher.split("｜")[0]);
-        }
-        obj.credit = ysb.credit;
-        const o = add.find((k) => k.attempt == obj.attempt);
-        if (o) {
-          obj = Object.assign({}, obj, o);
+        } 
+        return obj;
+      })
+      .map((obj) => {
+        const ysb = yah.find((o) => o.attempt == obj.attempt);
+        if (ysb) {
+          if (obj.catchers.length > 1) {
+            obj.catcher = obj.catchers.find((c) => c.split("｜")[0] == ysb.catcher.split("｜")[0]);
+          }
+          obj.credit = ysb.credit;
+        }else{
+          console.log(`${obj.attempt}`);
         }
         return obj;
       })

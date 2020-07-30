@@ -1,4 +1,4 @@
-name: RUN puppeteer
+name: RUN puppeteer on schedule
 
 on:
   schedule:
