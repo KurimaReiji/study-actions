@@ -2,7 +2,7 @@ name: RUN puppeteer on push
 
 on:
   push:
-    branches: [ master ]
+    branches: [ xmaster ]
 
 jobs:
   build:
@@ -14,6 +14,8 @@ jobs:
           node-version: '12'
       - run: npm ci
       - run: make
+        env:
+          VM: azure
       - run: date
       - name: use artifact
         uses: actions/upload-artifact@v2

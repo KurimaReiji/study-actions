@@ -450,6 +450,7 @@ let yahoo = [];
     const d = await page.evaluate(scraper_get_stolenbases, catchers);
     npbjp = npbjp.concat(d);
   };
+  console.log(`npbjp: ${npbjp.length}`);
 
   await page.goto(`https://baseball.yahoo.co.jp/npb/schedule/?date=${date}`);
   await page.waitForSelector("#gm_card");
@@ -464,6 +465,7 @@ let yahoo = [];
     await page.waitFor(800);
     yahoo = yahoo.concat(d);
   }
+  console.log(`yahoo: ${yahoo.length}`);
 
   await page.waitFor(1200);
   await browser.close();
@@ -517,6 +519,5 @@ let yahoo = [];
   }
   const output = JSON.stringify(data, null, 2);
   fs.writeFileSync(outfile, output);
-  console.log(`npbjp: ${npbjp.length}`);
-  console.log(`yahoo: ${yahoo.length}`);
+
 })();

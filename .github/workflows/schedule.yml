@@ -1,8 +1,8 @@
-name: RUN puppeteer on schedule
+name: Collect today's SB on schedule
 
 on:
   schedule:
-    - cron: '35 13-15 * 7-11 *'
+    - cron: '5,35 13-15 * 7-11 *'
 
 jobs:
   build:
@@ -21,4 +21,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: my-artifact
-          path: json
+          path: artifact
