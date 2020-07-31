@@ -1,0 +1,8 @@
+{
+  "azure": {
+    "chromePath": "/usr/bin/google-chrome"
+  },
+  "win": {
+
+  }
+}

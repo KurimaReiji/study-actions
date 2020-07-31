@@ -1,10 +1,14 @@
 const fs = require("fs");
 const path = require("path");
-const puppeteer = require("puppeteer-core");
-
+const puppeteer = require('puppeteer-core');
 const errHandler = (err) => console.log(err);
-const chromePath = "/usr/bin/google-chrome";
-const targetDir = `${process.env.GITHUB_WORKSPACE}/artifact`;
+
+const VM = process.env.VM == "azure" ? "azure" : "win";
+const params = require(path.resolve(__dirname, "./params.json"))[VM];
+
+const chromePath = VM == "azure" ? params["azure"].chromePath : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
+
+const targetDir = VM == "azure" ? `${process.env.GITHUB_WORKSPACE}/artifact` : "./artifact";
 
 const date = (new Date((new Date()).toUTCString())).toISOString().slice(0, 10);
 const outfile = `${targetDir}/${date}.json`;
@@ -298,7 +302,7 @@ const scraper_get_stolenbases_from_yahoo = () => {
     return item;
   };
 
-  const re_stealattempts = RegExp(/盗塁|スチール|三振！スタートを切っていた\S+走者|走者スタート！その間に/);
+  const re_stealattempts = RegExp(/盗塁|スチール|三振！スタートを切っていた\S+走者|走者スタート！その間に|走者スタート！.*?飛び出して/);
 
   const RoB = (str) => {
     return ['-', '-', '-'].map((s, i) => {
@@ -376,7 +380,7 @@ const scraper_get_stolenbases_from_yahoo = () => {
     .filter((item) => re_stealattempts.test(item.text))
     .map((item, idx, ary) => {
       const msb = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:盗塁|スチール)成功/);
-      const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗|本塁突入をねらうもタッチアウト)/);
+      const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗|本塁突入をねらうもタッチアウト|も飛び出しておりタッチアウト)/);
       const mkc = item.text.match(/三振！スタートを切っていた([一二三])塁走者[\s\S]+〔(\S+)〕.*もアウト/);
 
       if (msb) {
@@ -424,7 +428,7 @@ let yahoo = [];
 
 (async () => {
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: VM == "azure",
     executablePath: chromePath,
   });
   const page = await browser.newPage();
@@ -496,6 +500,7 @@ let yahoo = [];
             obj.catcher = obj.catchers.find((c) => c.split("｜")[0] == ysb.catcher.split("｜")[0]);
           }
           obj.credit = ysb.credit;
+          obj.ytext = ysb.text;
         } else {
           console.log(`${obj.attempt}`);
         }

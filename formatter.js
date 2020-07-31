@@ -2,9 +2,10 @@ const path = require("path");
 const fs = require("fs");
 const ejs = require("ejs");
 
-const targetDir = `${process.env.GITHUB_WORKSPACE}/artifact`;
-//const targetDir = `artifact`;
+const VM = process.env.VM == "azure" ? "azure" : "win";
+const params = require(path.resolve(__dirname, "./params.json"))[VM];
 
+const targetDir = VM == "azure" ? `${process.env.GITHUB_WORKSPACE}/artifact` : `artifact`;
 
 const templateFile = path.resolve(__dirname, "./templates/daily.ejs");
 const template = fs.readFileSync(templateFile, "utf-8");

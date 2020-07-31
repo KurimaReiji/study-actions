@@ -3,9 +3,13 @@
     .map((obj)=>{
       obj.liner = [
         [obj.sb, obj.cs].join(""), 
-        obj.credit, 
+        obj.credit,
+        obj.inning,
+        obj.inning[0] == "t" ? obj.road : obj.home,
         obj.runners.map((str)=>str.replace(/｜\d+/,"")).join(" & "),
+        obj.inning[0] == "t" ? obj.home : obj.road,
         obj.pitcher.replace(/｜\d+/,""),
+        "-",
         obj.catcher.replace(/｜\d+/,"")
       ].join(" ");
       return obj;
