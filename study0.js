@@ -6,7 +6,7 @@ const errHandler = (err) => console.log(err);
 const VM = process.env.VM == "azure" ? "azure" : "win";
 const params = require(path.resolve(__dirname, "./params.json"))[VM];
 
-const chromePath = VM == "azure" ? params["azure"].chromePath : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
+const chromePath = VM == "azure" ? "/usr/bin/google-chrome" : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
 
 const targetDir = VM == "azure" ? `${process.env.GITHUB_WORKSPACE}/artifact` : "./artifact";
 
