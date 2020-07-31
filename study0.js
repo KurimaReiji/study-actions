@@ -6,18 +6,28 @@ const errHandler = (err) => console.log(err);
 const chromePath = "/usr/bin/google-chrome";
 const targetDir = `${process.env.GITHUB_WORKSPACE}/artifact`;
 
-const date = (new Date((new Date()).toUTCString())).toISOString().slice(0,10);
+const date = (new Date((new Date()).toUTCString())).toISOString().slice(0, 10);
 const outfile = `${targetDir}/${date}.json`;
 
-const scraper_get_targets = ()=>{
+const scraper_get_targets = () => {
   return Array.from(document.querySelectorAll("#score_live_basic a"))
-    .filter((a)=>a.href.includes("scores/2020") && a.querySelector(".state").textContent.includes("試合終了"))
-    .map((a)=>`${a.href}index.html`)
+    .filter((a) => a.href.includes("scores/2020"))
+    .filter((a) => {
+      const text = a.querySelector(".state").textContent;
+      return /試合終了|回(?:表|裏)/.test(text);
+    })
+    .map((a) => `${a.href}index.html`)
     ;
 };
 
-const scraper_get_targets_from_yahoo = ()=>{
-  return Array.from(document.querySelectorAll("#gm_card a")).filter((a) => a.querySelector(".bb-score__link").textContent.includes("試合終了")).map((a) => a.href.replace("index", "text"));
+const scraper_get_targets_from_yahoo = () => {
+  return Array.from(document.querySelectorAll("#gm_card a"))
+    .filter((a) => {
+      const text = a.querySelector(".bb-score__link").textContent;
+      return /試合終了|回(?:表|裏)/.test(text);
+    })
+    .map((a) => a.href.replace("index", "text"))
+    ;
 };
 
 const scraper_get_catchers = () => {
@@ -55,20 +65,6 @@ const scraper_get_catchers = () => {
 };
 
 const scraper_get_stolenbases = (catchers = { t: ["home"], b: ["road"] }) => {
-  const outfile = `npb-${location.pathname.split("/").slice(-4).join("-").replace(/(\d{4})-(\d{4})/, "$1$2").replace("playbyplay.html", "sbcs.json")}`;
-
-  const output_json = (data, outfile) => {
-    const $json = JSON.stringify(data, null, 2);
-    const bb = new Blob([$json]);
-
-    document.body.insertAdjacentHTML('beforeend', `<a id="jsDownloader">Download</a>`);
-
-    const dl = document.getElementById("jsDownloader");
-    dl.href = window.URL.createObjectURL(bb);
-    dl.setAttribute("download", outfile);
-    dl.click();
-    document.body.removeChild(dl);
-  };
 
   const scraper = (catchers = { t: ["home"], b: ["road"] }) => {
     const set_playersId = () => {
@@ -221,26 +217,10 @@ const scraper_get_stolenbases = (catchers = { t: ["home"], b: ["road"] }) => {
   };
 
   const data = scraper(catchers);
-
-  //output_json(data, outfile);
   return data;
 };
 
 const scraper_get_stolenbases_from_yahoo = () => {
-  const outfile = `yahoo-${location.pathname.match(/(\d+)/)[0]}-sbcs.json`;
-
-  const output_json = (data, outfile) => {
-    const $json = JSON.stringify(data, null, 2);
-    const bb = new Blob([$json]);
-
-    document.body.insertAdjacentHTML('beforeend', `<a id="jsDownloader">Download</a>`);
-
-    const dl = document.getElementById("jsDownloader");
-    dl.href = window.URL.createObjectURL(bb);
-    dl.setAttribute("download", outfile);
-    dl.click();
-    document.body.removeChild(dl);
-  };
 
   const set_playersId = () => {
     Array.from(document.querySelectorAll("a"))
@@ -341,6 +321,7 @@ const scraper_get_stolenbases_from_yahoo = () => {
       const lis = Array.from(item.element.querySelectorAll(".bb-liveText__item"))
         .filter((li) => li.querySelector(".bb-liveText__player"))
         .map((li) => {
+          const order = item.inning[0] != "0" ? li.querySelector(".bb-liveText__number").textContent.trim() : "00";
           return {
             batter: item.inning[0] != "0" ? li.querySelector(".bb-liveText__player").textContent.trim().replace(/〔|〕/g, "") : undefined,
             state: item.inning[0] != "0" ? li.querySelector(".bb-liveText__state").textContent.trim() : undefined,
@@ -353,11 +334,21 @@ const scraper_get_stolenbases_from_yahoo = () => {
                 return text;
               }),
             inning: item.inning,
+            order: `${item.inning.replace(/t|b/, "")}${item.inning}${order}`,
           };
         })
       return lis;
     })
     .reduce((acc, cur) => acc.concat(cur))
+    .sort((a, b) => {
+      if (a.order > b.order) {
+        return 1;
+      } else if (a.order < b.order) {
+        return -1;
+      } else {
+        return 0;
+      }
+    })
     .map(add_starting_batteries)
     .map((obj) => {
       return obj.summary.map((text) => {
@@ -385,7 +376,7 @@ const scraper_get_stolenbases_from_yahoo = () => {
     .filter((item) => re_stealattempts.test(item.text))
     .map((item, idx, ary) => {
       const msb = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:盗塁|スチール)成功/);
-      const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗)/);
+      const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗|本塁突入をねらうもタッチアウト)/);
       const mkc = item.text.match(/三振！スタートを切っていた([一二三])塁走者[\s\S]+〔(\S+)〕.*もアウト/);
 
       if (msb) {
@@ -418,7 +409,6 @@ const scraper_get_stolenbases_from_yahoo = () => {
     .map((item) => Object.assign({}, gameInfo, item))
     ;
 
-  //output_json(data, outfile);
   return data;
 };
 
@@ -476,7 +466,7 @@ let yahoo = [];
 
   fs.writeFileSync(`${targetDir}/npbjp.json`, JSON.stringify(npbjp, null, 2));
   fs.writeFileSync(`${targetDir}/yahoo.json`, JSON.stringify(yahoo, null, 2));
- 
+
   const npb = npbjp
     .map(add_attemptId)
     ;
@@ -496,7 +486,7 @@ let yahoo = [];
       .map((obj) => {
         if (obj.catchers.length == 1) {
           obj.catcher = obj.catchers[0];
-        } 
+        }
         return obj;
       })
       .map((obj) => {
@@ -506,9 +496,13 @@ let yahoo = [];
             obj.catcher = obj.catchers.find((c) => c.split("｜")[0] == ysb.catcher.split("｜")[0]);
           }
           obj.credit = ysb.credit;
-        }else{
+        } else {
           console.log(`${obj.attempt}`);
         }
+        return obj;
+      })
+      .map((obj) => {
+        delete obj.attempt;
         return obj;
       })
       ;
@@ -518,5 +512,6 @@ let yahoo = [];
   }
   const output = JSON.stringify(data, null, 2);
   fs.writeFileSync(outfile, output);
-  console.log(data.length);
+  console.log(`npbjp: ${npb.length}`);
+  console.log(`yahoo: ${ysb.length}`);
 })();

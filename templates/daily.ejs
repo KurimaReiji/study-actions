@@ -1,0 +1,19 @@
+<% 
+  const inputs = data
+    .map((obj)=>{
+      obj.liner = [
+        [obj.sb, obj.cs].join(""), 
+        obj.credit, 
+        obj.runners.map((str)=>str.replace(/｜\d+/,"")).join(" & "),
+        obj.pitcher.replace(/｜\d+/,""),
+        obj.catcher.replace(/｜\d+/,"")
+      ].join(" ");
+      return obj;
+    })
+    ;
+  const sb = data.filter((obj)=>obj.sb=="SB");
+  const cs = data.filter((obj)=>obj.cs=="CS");
+
+  sb.concat(cs).forEach((obj)=>{ -%>
+<%= obj.liner %>
+<% }); -%>
