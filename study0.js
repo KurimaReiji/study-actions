@@ -512,6 +512,6 @@ let yahoo = [];
   }
   const output = JSON.stringify(data, null, 2);
   fs.writeFileSync(outfile, output);
-  console.log(`npbjp: ${npb.length}`);
-  console.log(`yahoo: ${ysb.length}`);
+  console.log(`npbjp: ${npbjp.length}`);
+  console.log(`yahoo: ${yahoo.length}`);
 })();
