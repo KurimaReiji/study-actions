@@ -1,10 +1,10 @@
 const fs = require("fs");
 const path = require("path");
+const os = require("os");
 const puppeteer = require('puppeteer-core');
 const errHandler = (err) => console.log(err);
 
-const VM = process.env.VM != "azure" ? "win" : "azure";
-const params = require(path.resolve(__dirname, "./params.json"))[VM];
+const VM = os.type() === "Linux" ? "azure" : "win";
 
 const chromePath = VM == "azure" ? "/usr/bin/google-chrome" : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
 
