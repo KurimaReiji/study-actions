@@ -5,10 +5,19 @@ const puppeteer = require('puppeteer-core');
 const errHandler = (err) => console.log(err);
 
 const VM = os.type() === "Linux" ? "azure" : "win";
+const params = {
+  "azure": {
+    chromePath: "/usr/bin/google-chrome",
+    targetDir: `${process.env.GITHUB_WORKSPACE}/artifact`,
+  },
+  "win": {
+    chromePath: "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    targetDir: path.resolve(__dirname, "./artifact"),
+  }
+}
 
-const chromePath = VM == "azure" ? "/usr/bin/google-chrome" : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
-
-const targetDir = VM == "azure" ? `${process.env.GITHUB_WORKSPACE}/artifact` : "./artifact";
+const chromePath = params[VM].chromePath;
+const targetDir = params[VM].targetDir;
 
 const date = (new Date((new Date()).toUTCString())).toISOString().slice(0, 10);
 const outfile = `${targetDir}/${date}.json`;
@@ -502,7 +511,7 @@ let yahoo = [];
             obj.catcher = obj.catchers.find((c) => c.split("｜")[0] == ysb.catcher.split("｜")[0]);
           }
           obj.credit = ysb.credit;
-          obj.ytext = ysb.text;
+          obj.ytext = [ysb.pickoff, ysb.text].join("\n");
         } else {
           console.log(`${obj.attempt}`);
         }
