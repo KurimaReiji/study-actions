@@ -2,7 +2,7 @@ name: RUN puppeteer on push
 
 on:
   push:
-    branches: [ xmaster ]
+    branches: [ master ]
 
 jobs:
   build:
