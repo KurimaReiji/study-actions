@@ -16,7 +16,13 @@ const targetDir = params[VM].targetDir;
 const templateFile = path.resolve(__dirname, "./templates/daily.ejs");
 const template = fs.readFileSync(templateFile, "utf-8");
 
-const date = (new Date((new Date()).toUTCString())).toISOString().slice(0, 10);
+const date = (() => {
+  if (process.argv.length == 3) {
+    return process.argv.slice(2)[0];
+  } else {
+    return (new Date((new Date()).toUTCString())).toISOString().slice(0, 10);
+  }
+})();
 
 const inputs = require(path.resolve(__dirname, `${targetDir}/${date}.json`));
 const data = inputs;
