@@ -37,7 +37,7 @@ const scraper_get_targets_from_yahoo = () => {
   return Array.from(document.querySelectorAll("#gm_card a"))
     .filter((a) => {
       const text = a.querySelector(".bb-score__link").textContent;
-      return /試合終了|回(?:表|裏)/.test(text);
+      return /試合前|試合終了|回(?:表|裏)/.test(text);
     })
     .map((a) => a.href.replace("index", "text"))
     ;
