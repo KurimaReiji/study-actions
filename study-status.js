@@ -29,8 +29,8 @@ const date = (() => {
   }
 })();
 
-const statusfile = `${targetDir}/${date}-status.json`;
-const status = require(statusfile);
+const dbfile = `${targetDir}/${date}-status.json`;
+const db = require(dbfile);
 
 const scraper_get_games_from_today = () => {
   return Array.from(document.querySelectorAll("#score_live_basic a"))
@@ -52,6 +52,7 @@ const scraper_get_games_of_the_day_from_npbjp = (date) => {
   const mmdd = date.split("-").slice(-2).join("");
   return Array.from(document.querySelectorAll(".summary_table a"))
     .filter((a) => a.href.includes(`scores/2020/${mmdd}`))
+    .filter((a) => a.querySelector(".state"))
     .map((a) => {
       return {
         id: a.href.match(/([bcdefghlmst]{1,2}-[bcdefghlmst]{1,2}-\d\d)/)[1].toUpperCase(),
@@ -463,6 +464,9 @@ const scraper_get_stolenbases_from_yahoo = () => {
   return data;
 };
 
+const npbUrl = today ? `https://npb.jp/games/2020/` : `https://npb.jp/games/2020/schedule_${date.split("-")[1]}_detail.html`;
+const npbscr = today ? scraper_get_games_from_today : scraper_get_games_of_the_day_from_npbjp;
+
 (async () => {
   const browser = await puppeteer.launch({
     headless: VM == "azure",
@@ -471,20 +475,16 @@ const scraper_get_stolenbases_from_yahoo = () => {
   const page = await browser.newPage();
   page.setViewport({ width: 1200, height: 800 })
 
-  if (!status.hasOwnProperty("games")) {
-    if (today) {
-      await page.goto(`https://npb.jp/games/2020/`);
-      await page.waitForSelector(".state");
-      status.games = await page.evaluate(scraper_get_games_from_today);
-    } else {
-      const mm = date.split("-")[1];
-      await page.goto(`https://npb.jp/games/2020/schedule_${mm}_detail.html`);
-      await page.waitForSelector(".state");
-      status.games = await page.evaluate(scraper_get_games_of_the_day_from_npbjp);
-    }
+
+
+  if (!db.hasOwnProperty("numOfGames")) {
+    await page.goto(npbUrl);
+    await page.waitForSelector(".state");
+    db.games = await page.evaluate(npbscr, date);
+    db["numOfGames"] = db.games.length;
   }
 
-  let targets = status.games
+  let targets = db.games
     .filter((obj) => obj.npbjp.status !== "Final")
     .filter((obj) => /-|試合終了|回(?:表|裏)/.test(obj.npbjp.status))
     ;
@@ -501,17 +501,17 @@ const scraper_get_stolenbases_from_yahoo = () => {
     const d = await page.evaluate(scraper_get_stolenbases, catchers);
     game.npbjp.attempts = d.attempts;
     if (d.status) game.npbjp.status = "Final";
-    const idx = status.games.findIndex((obj) => obj.id == game.id);
-    status.games[idx] = game;
+    const idx = db.games.findIndex((obj) => obj.id == game.id);
+    db.games[idx] = game;
   };
 
   let yTargets = [];
-  if (!status.games[0].hasOwnProperty("yahoo")) {
+  if (db.games.length > 0 && !db.games[0].hasOwnProperty("yahoo")) {
     await page.goto(`https://baseball.yahoo.co.jp/npb/schedule/?date=${date}`);
     await page.waitForSelector("#gm_card");
     yTargets = await page.evaluate(scraper_get_targets_from_yahoo);
   } else {
-    yTargets = status.games
+    yTargets = db.games
       .filter((obj) => obj.yahoo.status != "Final")
       .map((obj) => obj.yahoo.url)
       ;
@@ -527,11 +527,11 @@ const scraper_get_stolenbases_from_yahoo = () => {
     const yahoo = { url: gameUrl, attempts: d.attempts, status: d.status };
     if (d.status) yahoo.status = "Final";
 
-    const idx = status.games.findIndex((obj) => obj.id == d.id);
+    const idx = db.games.findIndex((obj) => obj.id == d.id);
 
     if (idx > -1) {
       console.log([idx, d.id]);
-      status.games[idx].yahoo = yahoo;
+      db.games[idx].yahoo = yahoo;
     } else {
       console.log(d);
       console.log(yahoo);
@@ -541,7 +541,7 @@ const scraper_get_stolenbases_from_yahoo = () => {
   await page.waitFor(1200);
   await browser.close();
 
-  const output = JSON.stringify(status, null, 2);
-  fs.writeFileSync(statusfile, output);
+  const output = JSON.stringify(db, null, 2);
+  fs.writeFileSync(dbfile, output);
 
 })();
