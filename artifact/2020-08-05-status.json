@@ -4,7 +4,7 @@
       "id": "S-C-07",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0805/s-c-07/index.html",
-        "status": "（神　宮）\n                    8回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0805/s-c-07/playbyplay.html",
@@ -58,14 +58,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "DB-D-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0805/db-d-08/index.html",
-        "status": "（横　浜）\n                    8回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0805/db-d-08/playbyplay.html",
@@ -167,14 +167,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-G-06",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0805/t-g-06/index.html",
-        "status": "（甲子園）\n                    9回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0805/t-g-06/playbyplay.html",
@@ -260,6 +260,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔外崎｜41245130〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0805/f-l-05/playbyplay.html",
+            "date": "2020-08-05",
+            "home": "F",
+            "road": "L",
+            "inning": "t8",
+            "pitcher": "金子｜41345110",
+            "catchers": [
+              "石川亮｜81185139",
+              "宇佐見｜61365132"
+            ],
+            "batter": "鈴木｜31035134",
+            "runners": [
+              "木村｜41745114"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔木村｜41745114〕）二塁盗塁失敗"
           }
         ]
       },
@@ -288,6 +312,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-05",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020080504/text",
+            "title": "8月5日（水） 日本ハム vs. 西武 5回戦",
+            "home": "F",
+            "road": "L",
+            "gameNo": "05",
+            "inning": "t8",
+            "batter": "鈴木 将平｜1600130",
+            "state": "一死1塁",
+            "text": "一塁走者 〔木村｜700078〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "金子｜500027",
+            "catcher": "宇佐見｜1500049",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "木村｜700078"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -297,7 +344,7 @@
       "id": "E-H-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0805/e-h-08/index.html",
-        "status": "（楽天生命パーク）\n                    8回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0805/e-h-08/playbyplay.html",
@@ -307,7 +354,8 @@
             "inning": "b3",
             "pitcher": "和田｜11815117",
             "catchers": [
-              "髙谷｜41045114"
+              "髙谷｜41045114",
+              "九鬼｜31735134"
             ],
             "batter": "鈴木大｜81985135",
             "runners": [
@@ -330,7 +378,8 @@
             "inning": "b6",
             "pitcher": "椎野｜51955136",
             "catchers": [
-              "髙谷｜41045114"
+              "髙谷｜41045114",
+              "九鬼｜31735134"
             ],
             "batter": "鈴木大｜81985135",
             "runners": [
@@ -344,6 +393,30 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "1アウト｜1・3塁｜｜｜（走者・〔小深田｜61965151〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0805/e-h-08/playbyplay.html",
+            "date": "2020-08-05",
+            "home": "E",
+            "road": "H",
+            "inning": "b8",
+            "pitcher": "川原｜11715131",
+            "catchers": [
+              "髙谷｜41045114",
+              "九鬼｜31735134"
+            ],
+            "batter": "小深田｜61965151",
+            "runners": [
+              "田中｜11215134"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔田中｜11215134〕）二塁盗塁成功"
           }
         ]
       },
@@ -395,16 +468,39 @@
             "base": 2,
             "outs": 1,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-08-05",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020080505/text",
+            "title": "8月5日（水） 楽天 vs. ソフトバンク 8回戦",
+            "home": "E",
+            "road": "H",
+            "gameNo": "08",
+            "inning": "b8",
+            "batter": "小深田 大翔｜1900112",
+            "state": "無死1塁",
+            "text": "一塁走者 〔田中｜1600094〕 :盗塁成功 2塁",
+            "pitcher": "川原｜1000036",
+            "catcher": "九鬼｜1600166",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "田中｜1600094"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-M-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0805/b-m-08/index.html",
-        "status": "（京セラD大阪）\n                    8回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0805/b-m-08/playbyplay.html",
@@ -458,7 +554,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
