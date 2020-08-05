@@ -13,6 +13,7 @@ $(DIR)/$(TODAY).json: $(DIR)/$(TODAY)-status.json
 	git add docs/data.json 
 	git commit -m '$(TODAY)'
 	git push
+	touch $(DIR)/$(TODAY)-status.json
 
 $(DIR)/$(TODAY)-status.json: 
 	test -e $(DIR)/$(TODAY)-status.json || echo '{}' > $(DIR)/$(TODAY)-status.json
