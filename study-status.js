@@ -31,6 +31,7 @@ const date = (() => {
 
 const dbfile = `${targetDir}/${date}-status.json`;
 const db = require(dbfile);
+const oldValue = JSON.stringify(db,null,2);
 
 const scraper_get_games_from_today = () => {
   return Array.from(document.querySelectorAll("#score_live_basic a"))
@@ -542,6 +543,8 @@ const npbscr = today ? scraper_get_games_from_today : scraper_get_games_of_the_d
   await browser.close();
 
   const output = JSON.stringify(db, null, 2);
-  fs.writeFileSync(dbfile, output);
+  if(output !== oldValue) {
+    fs.writeFileSync(dbfile, output);
+  };
 
 })();
