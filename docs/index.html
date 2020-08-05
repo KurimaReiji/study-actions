@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stolen Bases / NPB 2020</title>
+  <style>
+    #today {
+      margin: 1rem;
+      white-space: pre;
+      font-family: Consolas, Meiryo, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <div id="today"></div>
+  <script>
+    const proc = (inputs)=>{
+      const data = inputs.map((obj)=>{
+        obj.liner = [
+          [obj.sb, obj.cs].join(""), 
+          obj.credit,
+          obj.inning,
+          (`${obj.inning[0] == "t" ? obj.road : obj.home} `).slice(0,2),
+          (`${obj.runners.map((str)=>str.replace(/｜\d+/,"")).join(" & ")}　　　　　　　　　`).slice(0,10),
+          obj.inning[0] == "t" ? obj.home : obj.road,
+          obj.pitcher.replace(/｜\d+/,""),
+          "-",
+          obj.catcher.replace(/｜\d+/,"")
+        ].join(" ");
+        return obj;
+      })
+      ;
+      const sb = data.filter((obj)=>obj.sb=="SB");
+      const cs = data.filter((obj)=>obj.cs=="CS");
+      const output = sb.concat(cs).map((obj)=>obj.liner).join("\n");
+      document.getElementById("today").innerText = `${data[0].date}\n${output}`;
+    }
+
+    fetch("data.json")   
+      .then(function(response) {
+        return response.json();
+      })
+      .then((json)=>{
+        proc(json);
+      });
+
+  </script>
+</body>
+</html>
