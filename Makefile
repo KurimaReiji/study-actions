@@ -1,7 +1,7 @@
 TODAY :=$(shell date +%F)
 DIR := artifact
 
-docs/data.json: $(DIR)/$(TODAY).json
+docs/data.json: $(DIR)/$(TODAY).json $(DIR)/$(TODAY)-status.json
 	jq -s '.|add' data/2020-??-??.json > docs/data.json
 	git config user.name "kurimareiji"
 	git config user.email "kurimareiji@kurimai.com"
