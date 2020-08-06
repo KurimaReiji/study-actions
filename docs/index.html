@@ -15,8 +15,11 @@
 <body>
   <div id="today"></div>
   <script>
+    const today = (new Date((new Date()).toUTCString())).toISOString().slice(0, 10);
     const proc = (inputs)=>{
-      const data = inputs.map((obj)=>{
+      const data = inputs
+    .filter((obj) => obj.date == today)
+.map((obj)=>{
         obj.liner = [
           [obj.sb, obj.cs].join(""), 
           obj.credit,
