@@ -14,6 +14,7 @@ $(DIR)/$(TODAY).json: $(DIR)/$(TODAY)-status.json
 	node merge.js
 	cp $(DIR)/$(TODAY).json data/$(TODAY).json
 
-$(DIR)/$(TODAY)-status.json: 
+.PHONY: scraper
+scraper: 
 	test -e $(DIR)/$(TODAY)-status.json || echo '{}' > $(DIR)/$(TODAY)-status.json
 	node study-status.js
