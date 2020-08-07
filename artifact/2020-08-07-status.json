@@ -4,7 +4,7 @@
       "id": "S-DB-07",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0807/s-db-07/index.html",
-        "status": "（神　宮）\n                    8回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0807/s-db-07/playbyplay.html",
@@ -104,20 +104,20 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-G-07",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0807/d-g-07/index.html",
-        "status": "（ナゴヤドーム）\n                    9回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020080702/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -186,7 +186,7 @@
       "id": "F-L-07",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0807/f-l-07/index.html",
-        "status": "（札幌ドーム）\n                    8回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0807/f-l-07/playbyplay.html",
@@ -240,20 +240,68 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "E-H-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0807/e-h-10/index.html",
-        "status": "（楽天生命パーク）\n                    7回裏",
-        "attempts": []
+        "status": "Final",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0807/e-h-10/playbyplay.html",
+            "date": "2020-08-07",
+            "home": "E",
+            "road": "H",
+            "inning": "t9",
+            "pitcher": "ブセニッツ｜03305138",
+            "catchers": [
+              "太田｜71375138"
+            ],
+            "batter": "柳田｜31835133",
+            "runners": [
+              "上林｜91395139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔上林｜91395139〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020080705/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-08-07",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020080705/text",
+            "title": "8月7日（金） 楽天 vs. ソフトバンク 10回戦",
+            "home": "E",
+            "road": "H",
+            "gameNo": "10",
+            "inning": "t9",
+            "batter": "柳田 悠岐｜1000128",
+            "state": "二死1塁",
+            "text": "一塁走者 〔上林｜1300079〕 :盗塁成功 2塁",
+            "pitcher": "ブセニッツ｜1800129",
+            "catcher": "太田｜1800118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "上林｜1300079"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {

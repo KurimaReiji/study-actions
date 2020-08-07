@@ -100,6 +100,31 @@
     "ytext": "一塁走者 〔松本｜1100095〕 :盗塁成功 2,3塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/0807/e-h-10/playbyplay.html",
+    "date": "2020-08-07",
+    "home": "E",
+    "road": "H",
+    "inning": "t9",
+    "pitcher": "ブセニッツ｜03305138",
+    "catchers": [
+      "太田｜71375138"
+    ],
+    "batter": "柳田｜31835133",
+    "runners": [
+      "上林｜91395139"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔上林｜91395139〕）二塁盗塁成功",
+    "catcher": "太田｜71375138",
+    "ytext": "一塁走者 〔上林｜1300079〕 :盗塁成功 2塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0807/b-m-10/playbyplay.html",
     "date": "2020-08-07",
     "home": "B",
