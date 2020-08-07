@@ -124,7 +124,7 @@
       "id": "C-T-06",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0807/c-t-06/index.html",
-        "status": "（マツダスタジアム）\n                    6回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0807/c-t-06/playbyplay.html",
@@ -179,7 +179,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -308,7 +308,7 @@
       "id": "B-M-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0807/b-m-10/index.html",
-        "status": "（京セラD大阪）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0807/b-m-10/playbyplay.html",
@@ -362,7 +362,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
