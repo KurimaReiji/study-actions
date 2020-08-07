@@ -619,6 +619,25 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-06",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020080606/text",
+            "title": "8月6日（木） オリックス vs. ロッテ 9回戦",
+            "home": "B",
+            "road": "M",
+            "gameNo": "09",
+            "inning": "b8",
+            "batter": "福田 周平｜1700111",
+            "state": "一死3塁",
+            "text": "3塁走者 〔宗｜1400196〕 は塁を飛び出しておりアウト 2アウト",
+            "pitcher": "小野｜1400140",
+            "catcher": "田村｜1200096",
+            "credit": 0,
+            "sb": "",
+            "cs": "CS",
+            "outs": 1,
+            "RoB": "--3"
           }
         ],
         "status": "Final"

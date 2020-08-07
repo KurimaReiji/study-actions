@@ -347,7 +347,7 @@ const scraper_get_stolenbases_from_yahoo = () => {
     return item;
   };
 
-  const re_stealattempts = RegExp(/盗塁|スチール|三振！スタートを切っていた\S+走者|走者スタート！その間に|走者スタート！.*?飛び出して/);
+  const re_stealattempts = RegExp(/盗塁|スチール|三振！スタートを切っていた\S+走者|走者スタート！その間に|走者スタート！.*?飛び出して|飛び出しておりアウト/);
 
   const RoB = (str) => {
     return ['-', '-', '-'].map((s, i) => {
@@ -425,7 +425,7 @@ const scraper_get_stolenbases_from_yahoo = () => {
     .filter((item) => re_stealattempts.test(item.text))
     .map((item, idx, ary) => {
       const msb = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:盗塁|スチール)成功/);
-      const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗|本塁突入をねらうもタッチアウト|ホームスチールをねらうもタッチアウト|も飛び出しておりタッチアウト)/);
+      const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗|本塁突入をねらうもタッチアウト|ホームスチールをねらうもタッチアウト|も飛び出しておりタッチアウト|飛び出しておりアウト)/);
       const mkc = item.text.match(/三振！スタートを切っていた([一二三])塁走者[\s\S]+〔(\S+)〕.*もアウト/);
 
       if (msb) {
