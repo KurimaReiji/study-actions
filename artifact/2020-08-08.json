@@ -50,6 +50,31 @@
     "ytext": "一塁走者 〔神里｜1700059〕 :盗塁成功 2塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/0808/s-db-08/playbyplay.html",
+    "date": "2020-08-08",
+    "home": "S",
+    "road": "DB",
+    "inning": "t8",
+    "pitcher": "久保｜71775138",
+    "catchers": [
+      "西田｜41245133"
+    ],
+    "batter": "梶谷｜61565114",
+    "runners": [
+      "大和｜61465112"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔大和｜61465112〕）二塁盗塁失敗",
+    "catcher": "西田｜41245133",
+    "ytext": "一塁走者 〔大和｜600003〕 :盗塁を試みるもアウト 3アウトチェンジ"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0808/d-g-08/playbyplay.html",
     "date": "2020-08-08",
     "home": "D",

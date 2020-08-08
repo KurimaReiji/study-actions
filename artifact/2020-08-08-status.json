@@ -51,6 +51,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔神里｜71575136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0808/s-db-08/playbyplay.html",
+            "date": "2020-08-08",
+            "home": "S",
+            "road": "DB",
+            "inning": "t8",
+            "pitcher": "久保｜71775138",
+            "catchers": [
+              "西田｜41245133"
+            ],
+            "batter": "梶谷｜61565114",
+            "runners": [
+              "大和｜61465112"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔大和｜61465112〕）二塁盗塁失敗"
           }
         ]
       },
@@ -101,6 +124,29 @@
             ],
             "base": 2,
             "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-08",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020080801/text",
+            "title": "8月8日（土） ヤクルト vs. ＤｅＮＡ 8回戦",
+            "home": "S",
+            "road": "DB",
+            "gameNo": "08",
+            "inning": "t8",
+            "batter": "梶谷 隆幸｜700027",
+            "state": "二死1塁",
+            "text": "一塁走者 〔大和｜600003〕 :盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "久保｜1800039",
+            "catcher": "西田｜1000134",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "大和｜600003"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           }
         ],
@@ -218,7 +264,7 @@
       "id": "C-T-07",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0808/c-t-07/index.html",
-        "status": "（マツダスタジアム）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0808/c-t-07/playbyplay.html",
@@ -272,7 +318,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -388,7 +434,7 @@
       "id": "E-H-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0808/e-h-11/index.html",
-        "status": "（楽天生命パーク）\n                    7回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0808/e-h-11/playbyplay.html",
@@ -490,7 +536,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
