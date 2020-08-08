@@ -4,7 +4,7 @@
       "id": "S-DB-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0808/s-db-08/index.html",
-        "status": "（神　宮）\n                    6回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0808/s-db-08/playbyplay.html",
@@ -150,7 +150,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
