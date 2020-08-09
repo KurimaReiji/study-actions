@@ -30,7 +30,7 @@
       "id": "C-T-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0809/c-t-08/index.html",
-        "status": "（マツダスタジアム）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0809/c-t-08/playbyplay.html",
@@ -84,7 +84,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
