@@ -321,6 +321,29 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-09",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020080905/text",
+            "title": "8月9日（日） 楽天 vs. ソフトバンク 12回戦",
+            "home": "E",
+            "road": "H",
+            "gameNo": "12",
+            "inning": "t6",
+            "batter": "柳田 悠岐｜1000128",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔周東｜1700135〕 :盗塁成功 2塁（暴投）",
+            "pitcher": "福井｜1000096",
+            "catcher": "太田｜1800118",
+            "credit": 0,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
