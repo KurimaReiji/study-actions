@@ -4,13 +4,13 @@
       "id": "S-DB-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0809/s-db-09/index.html",
-        "status": "（神　宮）\n                    7回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020080901/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
