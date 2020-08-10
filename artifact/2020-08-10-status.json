@@ -58,14 +58,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-D-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0810/c-d-10/index.html",
-        "status": "（マツダスタジアム）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0810/c-d-10/playbyplay.html",
