@@ -1345,6 +1345,31 @@
     "ytext": "一塁走者 〔田中｜1600094〕 :盗塁成功 2塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/0811/l-e-06/playbyplay.html",
+    "date": "2020-08-11",
+    "home": "L",
+    "road": "E",
+    "inning": "t8",
+    "pitcher": "今井｜31335134",
+    "catchers": [
+      "森｜91495139"
+    ],
+    "batter": "ロメロ｜73975134",
+    "runners": [
+      "茂木｜61865132"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "2アウト｜1・3塁｜｜｜（走者・〔茂木｜61865132〕）二塁盗塁成功",
+    "catcher": "森｜91495139",
+    "ytext": "一塁走者 〔茂木｜1600003〕 :盗塁成功 2,3塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0811/m-f-07/playbyplay.html",
     "date": "2020-08-11",
     "home": "M",
