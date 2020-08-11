@@ -4,7 +4,7 @@
       "id": "DB-T-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0811/db-t-11/index.html",
-        "status": "（横　浜）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0811/db-t-11/playbyplay.html",
@@ -113,7 +113,7 @@
       "id": "C-D-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0811/c-d-11/index.html",
-        "status": "（マツダスタジアム）\n                    6回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0811/c-d-11/playbyplay.html",
@@ -220,7 +220,7 @@
       "id": "L-E-06",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0811/l-e-06/index.html",
-        "status": "（メットライフ）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0811/l-e-06/playbyplay.html",
@@ -397,6 +397,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0811/m-f-07/playbyplay.html",
+            "date": "2020-08-11",
+            "home": "M",
+            "road": "F",
+            "inning": "b8",
+            "pitcher": "金子｜41345110",
+            "catchers": [
+              "宇佐見｜61365132"
+            ],
+            "batter": "井上｜11315139",
+            "runners": [
+              "和田｜33335136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
           }
         ]
       },
@@ -450,7 +473,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -467,7 +490,8 @@
             "inning": "b2",
             "pitcher": "山本｜53355134",
             "catchers": [
-              "若月｜41645139"
+              "若月｜41645139",
+              "松井雅｜51455131"
             ],
             "batter": "柳田｜31835133",
             "runners": [
@@ -490,7 +514,8 @@
             "inning": "b5",
             "pitcher": "山本｜53355134",
             "catchers": [
-              "若月｜41645139"
+              "若月｜41645139",
+              "松井雅｜51455131"
             ],
             "batter": "柳田｜31835133",
             "runners": [
@@ -504,6 +529,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0811/h-b-07/playbyplay.html",
+            "date": "2020-08-11",
+            "home": "H",
+            "road": "B",
+            "inning": "t8",
+            "pitcher": "モイネロ｜63965134",
+            "catchers": [
+              "甲斐｜91595133",
+              "髙谷｜41045114"
+            ],
+            "batter": "山足｜13115136",
+            "runners": [
+              "小田｜31535130"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔小田｜31535130〕）二塁盗塁失敗"
           }
         ]
       },
@@ -554,6 +603,29 @@
             ],
             "base": 2,
             "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-11",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081105/text",
+            "title": "8月11日（火） ソフトバンク vs. オリックス 7回戦",
+            "home": "H",
+            "road": "B",
+            "gameNo": "07",
+            "inning": "t8",
+            "batter": "山足 達也｜1700116",
+            "state": "二死1塁",
+            "text": "一塁走者 〔小田｜1400202〕 :盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "モイネロ｜1700011",
+            "catcher": "髙谷｜700099",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "小田｜1400202"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           }
         ],
