@@ -66,7 +66,7 @@
       "id": "DB-T-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0812/db-t-12/index.html",
-        "status": "（横　浜）\n                    6回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0812/db-t-12/playbyplay.html",
@@ -121,7 +121,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -248,13 +248,13 @@
       "id": "M-F-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0812/m-f-08/index.html",
-        "status": "（ZOZOマリン）\n                    7回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081205/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
