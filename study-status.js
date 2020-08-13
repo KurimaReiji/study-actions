@@ -268,6 +268,7 @@ const scraper_get_stolenbases = (catchers = { t: ["home"], b: ["road"] }) => {
 };
 
 const scraper_get_stolenbases_from_yahoo = () => {
+  document.querySelector(`[for="js-reloadToggle02"]`).click();
 
   const set_playersId = () => {
     Array.from(document.querySelectorAll("a"))
