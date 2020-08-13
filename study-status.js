@@ -31,7 +31,7 @@ const date = (() => {
 
 const dbfile = `${targetDir}/${date}-status.json`;
 const db = require(dbfile);
-const oldValue = JSON.stringify(db,null,2);
+const oldValue = JSON.stringify(db, null, 2);
 
 const scraper_get_games_from_today = () => {
   return Array.from(document.querySelectorAll("#score_live_basic a"))
@@ -363,101 +363,106 @@ const scraper_get_stolenbases_from_yahoo = () => {
   };
 
   set_playersId();
-  const attempts = Array.from(document.querySelectorAll(".bb-liveText__head, .bb-liveText__orderedList"))
-    .map(create_inning_object)
-    .map(add_inning_property)
-    .filter(remove_inning_object)
-    .map((item) => {
-      const lis = Array.from(item.element.querySelectorAll(".bb-liveText__item"))
-        .filter((li) => li.querySelector(".bb-liveText__player"))
-        .map((li) => {
-          const order = item.inning[0] != "0" ? li.querySelector(".bb-liveText__number").textContent.trim() : "00";
+  try {
+    let attempts;
+    attempts = Array.from(document.querySelectorAll(".bb-liveText__head, .bb-liveText__orderedList"))
+      .map(create_inning_object)
+      .map(add_inning_property)
+      .filter(remove_inning_object)
+      .map((item) => {
+        const lis = Array.from(item.element.querySelectorAll(".bb-liveText__item"))
+          .filter((li) => li.querySelector(".bb-liveText__player"))
+          .map((li) => {
+            const order = item.inning[0] != "0" ? li.querySelector(".bb-liveText__number").textContent.trim() : "00";
+            return {
+              batter: item.inning[0] != "0" ? li.querySelector(".bb-liveText__player").textContent.trim().replace(/〔|〕/g, "") : undefined,
+              state: item.inning[0] != "0" ? li.querySelector(".bb-liveText__state").textContent.trim() : undefined,
+              summary: Array.from(li.querySelectorAll(".bb-liveText__summary"))
+                .map((p) => {
+                  let text = p.textContent.split("\n").map((line) => line.trim()).filter((s) => s).join(" ");
+                  if (p.classList.contains("bb-liveText__summary--change")) {
+                    text = `SUBSTITUTE: ${text}`;
+                  }
+                  return text;
+                }),
+              inning: item.inning,
+              order: `${item.inning.replace(/t|b/, "")}${item.inning}${order}`,
+            };
+          })
+        return lis;
+      })
+      .reduce((acc, cur) => acc.concat(cur))
+      .sort((a, b) => {
+        if (a.order > b.order) {
+          return 1;
+        } else if (a.order < b.order) {
+          return -1;
+        } else {
+          return 0;
+        }
+      })
+      .map(add_starting_batteries)
+      .map((obj) => {
+        return obj.summary.map((text) => {
           return {
-            batter: item.inning[0] != "0" ? li.querySelector(".bb-liveText__player").textContent.trim().replace(/〔|〕/g, "") : undefined,
-            state: item.inning[0] != "0" ? li.querySelector(".bb-liveText__state").textContent.trim() : undefined,
-            summary: Array.from(li.querySelectorAll(".bb-liveText__summary"))
-              .map((p) => {
-                let text = p.textContent.split("\n").map((line) => line.trim()).filter((s) => s).join(" ");
-                if (p.classList.contains("bb-liveText__summary--change")) {
-                  text = `SUBSTITUTE: ${text}`;
-                }
-                return text;
-              }),
-            inning: item.inning,
-            order: `${item.inning.replace(/t|b/, "")}${item.inning}${order}`,
+            inning: obj.inning,
+            batter: obj.batter,
+            state: obj.state,
+            text,
+            pitchers: obj.pitchers,
+            catchers: obj.catchers,
           };
         })
-      return lis;
-    })
-    .reduce((acc, cur) => acc.concat(cur))
-    .sort((a, b) => {
-      if (a.order > b.order) {
-        return 1;
-      } else if (a.order < b.order) {
-        return -1;
-      } else {
-        return 0;
-      }
-    })
-    .map(add_starting_batteries)
-    .map((obj) => {
-      return obj.summary.map((text) => {
-        return {
-          inning: obj.inning,
-          batter: obj.batter,
-          state: obj.state,
-          text,
-          pitchers: obj.pitchers,
-          catchers: obj.catchers,
-        };
       })
-    })
-    .reduce((acc, cur) => acc.concat(cur))
-    .map(updat_batteries)
-    .map((item, idx, ary) => {
-      if (idx != 0 && ary[idx - 1].text.match(/けん制:ランナー 〔(\S+)〕 スタート/)) {
-        item.pickoff = ary[idx - 1].text;
-        item.credit = 0;
-      } else {
-        item.credit = 1;
-      }
-      return item;
-    })
-    .filter((item) => re_stealattempts.test(item.text))
-    .map((item, idx, ary) => {
-      const msb = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:盗塁|スチール)成功/);
-      const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗|本塁突入をねらうもタッチアウト|ホームスチールをねらうもタッチアウト|も飛び出しておりタッチアウト|飛び出しておりアウト)/);
-      const mkc = item.text.match(/三振！スタートを切っていた([一二三])塁走者[\s\S]+〔(\S+)〕.*もアウト/);
-
-      if (msb) {
-        item.sb = "SB";
-        item.cs = "";
-        item.runners = [msb[2]];
-        item.base = 2 + ["一", "二", "三"].indexOf(msb[1]);
-
-        const mds = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*([一二三])塁走者[\s\S]+〔(\S+)〕.*成功/);
-        if (mds) {
-          item.ds = "DS";
-          item.runners = mds.slice(1).filter((s) => s.includes("｜")).reverse();
-          item.base = mds.slice(1).map((s) => 2 + ["一", "二", "三"].indexOf(s)).filter((i) => i > 1).sort().join("");
+      .reduce((acc, cur) => acc.concat(cur))
+      .map(updat_batteries)
+      .map((item, idx, ary) => {
+        if (idx != 0 && ary[idx - 1].text.match(/けん制:ランナー 〔(\S+)〕 スタート/)) {
+          item.pickoff = ary[idx - 1].text;
+          item.credit = 0;
+        } else {
+          item.credit = 1;
         }
-      } else if (mcs) {
-        item.sb = "";
-        item.cs = "CS";
-        item.runners = [mcs[2]];
-        item.base = 2 + ["一", "二", "三"].indexOf(mcs[1]);
-      } else if (mkc) {
-        item.sb = "";
-        item.cs = "CS";
-        item.runners = [mkc[2]];
-        item.base = 2 + ["一", "二", "三"].indexOf(mkc[1]);
-      }
-      item.outs = ["無", "一", "二"].indexOf(item.state.match(/(\S)死/)[1]);
-      item.RoB = RoB(item.state.match(/([\d,]+)塁/)[1])
-      return item;
-    })
-    .map((item) => Object.assign({}, gameInfo, item))
-    ;
+        return item;
+      })
+      .filter((item) => re_stealattempts.test(item.text))
+      .map((item, idx, ary) => {
+        const msb = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:盗塁|スチール)成功/);
+        const mcs = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*(?:本塁突入を試みるもタッチアウト|盗塁を試みるもアウト|盗塁失敗|本塁突入をねらうもタッチアウト|ホームスチールをねらうもタッチアウト|も飛び出しておりタッチアウト|飛び出しておりアウト)/);
+        const mkc = item.text.match(/三振！スタートを切っていた([一二三])塁走者[\s\S]+〔(\S+)〕.*もアウト/);
+
+        if (msb) {
+          item.sb = "SB";
+          item.cs = "";
+          item.runners = [msb[2]];
+          item.base = 2 + ["一", "二", "三"].indexOf(msb[1]);
+
+          const mds = item.text.match(/([一二三])塁走者[\s\S]+〔(\S+)〕.*([一二三])塁走者[\s\S]+〔(\S+)〕.*成功/);
+          if (mds) {
+            item.ds = "DS";
+            item.runners = mds.slice(1).filter((s) => s.includes("｜")).reverse();
+            item.base = mds.slice(1).map((s) => 2 + ["一", "二", "三"].indexOf(s)).filter((i) => i > 1).sort().join("");
+          }
+        } else if (mcs) {
+          item.sb = "";
+          item.cs = "CS";
+          item.runners = [mcs[2]];
+          item.base = 2 + ["一", "二", "三"].indexOf(mcs[1]);
+        } else if (mkc) {
+          item.sb = "";
+          item.cs = "CS";
+          item.runners = [mkc[2]];
+          item.base = 2 + ["一", "二", "三"].indexOf(mkc[1]);
+        }
+        item.outs = ["無", "一", "二"].indexOf(item.state.match(/(\S)死/)[1]);
+        item.RoB = RoB(item.state.match(/([\d,]+)塁/)[1])
+        return item;
+      })
+      .map((item) => Object.assign({}, gameInfo, item))
+      ;
+  } catch (error) {
+    attempts = [];
+  };
 
   const data = { attempts };
   data.status = Array.from(document.querySelectorAll(".bb-liveText__summary")).some((el) => el.textContent.includes("試合終了"));
@@ -544,7 +549,7 @@ const npbscr = today ? scraper_get_games_from_today : scraper_get_games_of_the_d
   await browser.close();
 
   const output = JSON.stringify(db, null, 2);
-  if(output !== oldValue) {
+  if (output !== oldValue) {
     fs.writeFileSync(dbfile, output);
   };
 
