@@ -363,8 +363,8 @@ const scraper_get_stolenbases_from_yahoo = () => {
   };
 
   set_playersId();
+  let attempts;
   try {
-    let attempts;
     attempts = Array.from(document.querySelectorAll(".bb-liveText__head, .bb-liveText__orderedList"))
       .map(create_inning_object)
       .map(add_inning_property)
