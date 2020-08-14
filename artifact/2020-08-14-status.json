@@ -236,7 +236,7 @@
       "id": "L-E-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0814/l-e-09/index.html",
-        "status": "（メットライフ）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0814/l-e-09/playbyplay.html",
@@ -338,14 +338,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-F-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0814/m-f-10/index.html",
-        "status": "（ZOZOマリン）\n                    5回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
