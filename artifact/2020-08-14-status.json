@@ -65,7 +65,7 @@
       "id": "DB-S-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0814/db-s-10/index.html",
-        "status": "（横　浜）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0814/db-s-10/playbyplay.html",
@@ -351,7 +351,7 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081405/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
