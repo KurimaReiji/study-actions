@@ -4,7 +4,7 @@
       "id": "G-D-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0814/g-d-10/index.html",
-        "status": "（東京ドーム）\n                    7回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0814/g-d-10/playbyplay.html",
@@ -58,7 +58,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -120,14 +120,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-C-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0814/t-c-09/index.html",
-        "status": "（京セラD大阪）\n                    8回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0814/t-c-09/playbyplay.html",
@@ -229,7 +229,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
