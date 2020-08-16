@@ -113,7 +113,7 @@
       "id": "DB-S-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0816/db-s-12/index.html",
-        "status": "（横　浜）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0816/db-s-12/playbyplay.html",
@@ -284,13 +284,13 @@
       "id": "L-E-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0816/l-e-11/index.html",
-        "status": "（メットライフ）\n                    6回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081604/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
