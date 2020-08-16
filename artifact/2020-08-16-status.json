@@ -123,7 +123,8 @@
             "inning": "t3",
             "pitcher": "平良｜01905139",
             "catchers": [
-              "戸柱｜41245132"
+              "戸柱｜41245132",
+              "嶺井｜71475139"
             ],
             "batter": "廣岡｜21625132",
             "runners": [
@@ -146,7 +147,8 @@
             "inning": "t6",
             "pitcher": "武藤｜61665133",
             "catchers": [
-              "戸柱｜41245132"
+              "戸柱｜41245132",
+              "嶺井｜71475139"
             ],
             "batter": "青木｜31135119",
             "runners": [
@@ -250,31 +252,7 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081603/text",
-        "attempts": [
-          {
-            "date": "2020-08-16",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020081603/text",
-            "title": "8月16日（日） 阪神 vs. 広島 11回戦",
-            "home": "T",
-            "road": "C",
-            "gameNo": "11",
-            "inning": "b6",
-            "batter": "大山 悠輔｜1600113",
-            "state": "無死1塁",
-            "text": "空振り三振！一塁走者 〔サンズ｜1900148〕 も盗塁失敗でダブルプレー 2アウト",
-            "pitcher": "遠藤｜1700072",
-            "catcher": "坂倉｜1600124",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "サンズ｜1900148"
-            ],
-            "base": 2,
-            "outs": 0,
-            "RoB": "1--"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
@@ -295,7 +273,7 @@
       "id": "M-F-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0816/m-f-12/index.html",
-        "status": "（ZOZOマリン）\n                    8回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0816/m-f-12/playbyplay.html",
