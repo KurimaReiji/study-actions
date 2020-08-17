@@ -62,6 +62,9 @@ const data = games
           obj.credit = ysb.credit;
           obj.ytext = [ysb.pickoff, ysb.text].filter((s) => s).join("\n");
         } else {
+          if (!obj.hasOwnProperty("catcher") && obj.catchers.length > 1) {
+            obj.catcher = `${obj.catchers.map((c) => c.split("｜")[0]).join(" or ")}｜99`;
+          }
           console.log(`${obj.attempt}`);
         }
         return obj;
@@ -73,7 +76,7 @@ const data = games
       ;
     return npbjp;
   })
-  .reduce((acc, cur) => acc.concat(cur))
+  .reduce((acc, cur) => acc.concat(cur), [])
   ;
 
 const output = JSON.stringify(data, null, 2);
