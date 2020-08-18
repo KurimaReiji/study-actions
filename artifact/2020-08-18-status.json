@@ -4,13 +4,13 @@
       "id": "G-T-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0818/g-t-08/index.html",
-        "status": "（東京ドーム）\n                    8回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081801/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -152,7 +152,31 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0818/m-h-04/index.html",
         "status": "（ZOZOマリン）\n                    7回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0818/m-h-04/playbyplay.html",
+            "date": "2020-08-18",
+            "home": "M",
+            "road": "H",
+            "inning": "t8",
+            "pitcher": "美馬｜01605133",
+            "catchers": [
+              "田村｜41945137"
+            ],
+            "batter": "柳田｜31835133",
+            "runners": [
+              "上林｜91395139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔上林｜91395139〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081805/text",
