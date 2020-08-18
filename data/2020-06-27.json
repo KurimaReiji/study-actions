@@ -1,0 +1,274 @@
+[
+  {
+    "url": "https://npb.jp/scores/2020/0627/db-t-02/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "DB",
+    "road": "T",
+    "inning": "t1",
+    "pitcher": "ピープルズ｜73775151",
+    "catchers": [
+      "伊藤光｜81185116",
+      "嶺井｜71475139"
+    ],
+    "batter": "マルテ｜63365138",
+    "runners": [
+      "糸井｜91195119"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "1アウト｜1・3塁｜｜｜（走者・〔糸井｜91195119〕）二塁盗塁成功",
+    "catcher": "伊藤光｜81185116"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/db-t-02/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "DB",
+    "road": "T",
+    "inning": "t1",
+    "pitcher": "ピープルズ｜73775151",
+    "catchers": [
+      "伊藤光｜81185116",
+      "嶺井｜71475139"
+    ],
+    "batter": "サンズ｜63365151",
+    "runners": [
+      "ボーア｜63765151"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔ボーア｜63765151〕）二塁盗塁成功",
+    "catcher": "伊藤光｜81185116"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/db-t-02/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "DB",
+    "road": "T",
+    "inning": "t8",
+    "pitcher": "国吉｜01705131",
+    "catchers": [
+      "伊藤光｜81185116",
+      "嶺井｜71475139"
+    ],
+    "batter": "梅野｜21325139",
+    "runners": [
+      "上本｜01305118"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "2アウト｜1・3塁｜｜｜（走者・〔上本｜01305118〕）二塁盗塁成功",
+    "catcher": "嶺井｜71475139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/db-t-02/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "DB",
+    "road": "T",
+    "inning": "t9",
+    "pitcher": "山﨑｜41845130",
+    "catchers": [
+      "伊藤光｜81185116",
+      "嶺井｜71475139"
+    ],
+    "batter": "大山｜21325134",
+    "runners": [
+      "植田｜01305130"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔植田｜01305130〕）二塁盗塁成功",
+    "catcher": "嶺井｜71475139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/e-f-05/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "E",
+    "road": "F",
+    "inning": "t2",
+    "pitcher": "松井｜81285139",
+    "catchers": [
+      "太田｜71375138"
+    ],
+    "batter": "清水｜61965130",
+    "runners": [
+      "杉谷｜81785118"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔杉谷｜81785118〕）二塁盗塁成功",
+    "catcher": "太田｜71375138"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/e-f-05/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "E",
+    "road": "F",
+    "inning": "b2",
+    "pitcher": "加藤｜41545132",
+    "catchers": [
+      "清水｜61965130",
+      "郡｜91795134"
+    ],
+    "batter": "ロメロ｜73975134",
+    "runners": [
+      "浅村｜51155118"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔浅村｜51155118〕）二塁盗塁失敗",
+    "catcher": "清水｜61965130"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/e-f-05/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "E",
+    "road": "F",
+    "inning": "b4",
+    "pitcher": "加藤｜41545132",
+    "catchers": [
+      "清水｜61965130",
+      "郡｜91795134"
+    ],
+    "batter": "銀次｜71375112",
+    "runners": [
+      "島内｜71975135"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔島内｜71975135〕）二塁盗塁成功",
+    "catcher": "清水｜61965130"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/m-b-05/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "M",
+    "road": "B",
+    "inning": "b1",
+    "pitcher": "田嶋｜41045136",
+    "catchers": [
+      "松井雅｜51455131"
+    ],
+    "batter": "岡｜11515139",
+    "runners": [
+      "荻野｜71575131"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "3",
+    "ds": "",
+    "outs": "0",
+    "RoB": "-2-",
+    "credit": 0,
+    "text": "0アウト｜2塁｜｜｜（走者・〔荻野｜71575131〕）三塁盗塁成功",
+    "catcher": "松井雅｜51455131",
+    "memo": "牽制飛び出し"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/m-b-05/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "M",
+    "road": "B",
+    "inning": "b7",
+    "pitcher": "田嶋｜41045136",
+    "catchers": [
+      "松井雅｜51455131"
+    ],
+    "batter": "マーティン｜23725138",
+    "runners": [
+      "和田｜33335136"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功",
+    "catcher": "松井雅｜51455131"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/m-b-05/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "M",
+    "road": "B",
+    "inning": "t9",
+    "pitcher": "益田｜71675135",
+    "catchers": [
+      "柿沼｜21525132",
+      "田村｜41945137"
+    ],
+    "batter": "ロドリゲス｜13915151",
+    "runners": [
+      "佐野｜91995130"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔佐野｜91995130〕）二塁盗塁成功",
+    "catcher": "柿沼｜21525132"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0627/m-b-05/playbyplay.html",
+    "date": "2020-06-27",
+    "home": "M",
+    "road": "B",
+    "inning": "b9",
+    "pitcher": "ディクソン｜51855137",
+    "catchers": [
+      "松井雅｜51455131"
+    ],
+    "batter": "レアード｜23525130",
+    "runners": [
+      "和田｜33335136"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功",
+    "catcher": "松井雅｜51455131"
+  }
+]

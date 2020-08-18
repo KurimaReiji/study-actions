@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://npb.jp/scores/2020/0626/e-f-04/playbyplay.html",
+    "date": "2020-06-26",
+    "home": "E",
+    "road": "F",
+    "inning": "t1",
+    "pitcher": "則本昂｜51055137",
+    "catchers": [
+      "太田｜71375138"
+    ],
+    "batter": "茂木｜61865132",
+    "runners": [
+      "西川｜21225133"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁失敗",
+    "catcher": "太田｜71375138"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0626/l-h-04/playbyplay.html",
+    "date": "2020-06-26",
+    "home": "L",
+    "road": "H",
+    "inning": "t2",
+    "pitcher": "ニール｜13315138",
+    "catchers": [
+      "森｜91495139"
+    ],
+    "batter": "甲斐｜91595133",
+    "runners": [
+      "牧原｜61465133"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔牧原｜61465133〕）二塁盗塁成功",
+    "catcher": "森｜91495139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0626/l-h-04/playbyplay.html",
+    "date": "2020-06-26",
+    "home": "L",
+    "road": "H",
+    "inning": "t3",
+    "pitcher": "ニール｜13315138",
+    "catchers": [
+      "森｜91495139"
+    ],
+    "batter": "柳田｜31835133",
+    "runners": [
+      "今宮｜31335131"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔今宮｜31335131〕）二塁盗塁成功",
+    "catcher": "森｜91495139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0626/l-h-04/playbyplay.html",
+    "date": "2020-06-26",
+    "home": "L",
+    "road": "H",
+    "inning": "t7",
+    "pitcher": "ニール｜13315138",
+    "catchers": [
+      "森｜91495139"
+    ],
+    "batter": "甲斐｜91595133",
+    "runners": [
+      "牧原｜61465133"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "1アウト｜1・3塁｜｜｜（走者・〔牧原｜61465133〕）二塁盗塁成功",
+    "catcher": "森｜91495139"
+  }
+]

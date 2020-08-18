@@ -1,0 +1,248 @@
+[
+  {
+    "url": "https://npb.jp/scores/2020/0717/b-h-04/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "B",
+    "road": "H",
+    "inning": "t3",
+    "pitcher": "榊原｜81785134",
+    "catchers": [
+      "若月｜41645139"
+    ],
+    "batter": "柳田｜31835133",
+    "runners": [
+      "周東｜21925136"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁失敗",
+    "catcher": "若月｜41645139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/c-s-03/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "C",
+    "road": "S",
+    "inning": "b3",
+    "pitcher": "吉田大喜｜43145151",
+    "catchers": [
+      "古賀｜01705134"
+    ],
+    "batter": "松山｜01405116",
+    "runners": [
+      "鈴木誠｜81785137"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "0アウト｜1・3塁｜｜｜（走者・〔鈴木誠｜81785137〕）二塁盗塁成功",
+    "catcher": "古賀｜01705134"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/db-g-04/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "DB",
+    "road": "G",
+    "inning": "t1",
+    "pitcher": "井納｜61165137",
+    "catchers": [
+      "戸柱｜41245132"
+    ],
+    "batter": "丸｜21425116",
+    "runners": [
+      "亀井｜81385110"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "3",
+    "ds": "",
+    "outs": "0",
+    "RoB": "12-",
+    "credit": 1,
+    "text": "0アウト｜1・2塁｜｜｜（走者・〔亀井｜81385110〕）三塁盗塁失敗",
+    "catcher": "戸柱｜41245132"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/e-l-03/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "E",
+    "road": "L",
+    "inning": "b3",
+    "pitcher": "ニール｜13315138",
+    "catchers": [
+      "森｜91495139"
+    ],
+    "batter": "鈴木大｜81985135",
+    "runners": [
+      "小深田｜61965151"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "2アウト｜1・3塁｜｜｜（走者・〔小深田｜61965151〕）二塁盗塁成功",
+    "catcher": "森｜91495139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/e-l-03/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "E",
+    "road": "L",
+    "inning": "t7",
+    "pitcher": "辛島｜01505118",
+    "catchers": [
+      "太田｜71375138",
+      "山下｜71875133"
+    ],
+    "batter": "鈴木｜31035134",
+    "runners": [
+      "木村｜41745114"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 0,
+    "text": "2アウト｜1塁｜｜｜（走者・〔木村｜41745114〕）二塁盗塁失敗",
+    "catcher": "太田｜71375138",
+    "memo": "牽制飛び出し"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/e-l-03/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "E",
+    "road": "L",
+    "inning": "b8",
+    "pitcher": "ギャレット｜03305151",
+    "catchers": [
+      "森｜91495139"
+    ],
+    "batter": "浅村｜51155118",
+    "runners": [
+      "茂木｜61865132"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔茂木｜61865132〕）二塁盗塁成功",
+    "catcher": "森｜91495139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/f-m-04/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "F",
+    "road": "M",
+    "inning": "t2",
+    "pitcher": "有原｜51155130",
+    "catchers": [
+      "石川亮｜81185139"
+    ],
+    "batter": "田村｜41945137",
+    "runners": [
+      "岡｜11515139"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔岡｜11515139〕）二塁盗塁成功",
+    "catcher": "石川亮｜81185139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/f-m-04/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "F",
+    "road": "M",
+    "inning": "b7",
+    "pitcher": "石川｜41145139",
+    "catchers": [
+      "田村｜41945137",
+      "柿沼｜21525132",
+      "佐藤｜71075151"
+    ],
+    "batter": "西川｜21225133",
+    "runners": [
+      "中島卓也｜11215118"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔中島卓也｜11215118〕）二塁盗塁成功",
+    "catcher": "柿沼｜21525132"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/t-d-04/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "T",
+    "road": "D",
+    "inning": "b4",
+    "pitcher": "大野雄｜11515133",
+    "catchers": [
+      "木下拓｜31735132",
+      "A.マルティネス｜73975136"
+    ],
+    "batter": "木浪｜31735138",
+    "runners": [
+      "梅野｜21325139"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔梅野｜21325139〕）二塁盗塁失敗",
+    "catcher": "木下拓｜31735132"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0717/t-d-04/playbyplay.html",
+    "date": "2020-07-17",
+    "home": "T",
+    "road": "D",
+    "inning": "b7",
+    "pitcher": "大野雄｜11515133",
+    "catchers": [
+      "木下拓｜31735132",
+      "A.マルティネス｜73975136"
+    ],
+    "batter": "青柳｜71175132",
+    "runners": [
+      "近本｜71075138"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔近本｜71075138〕）二塁盗塁成功",
+    "catcher": "木下拓｜31735132"
+  }
+]

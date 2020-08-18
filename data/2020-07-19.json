@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://npb.jp/scores/2020/0719/c-s-05/playbyplay.html",
+    "date": "2020-07-19",
+    "home": "C",
+    "road": "S",
+    "inning": "b1",
+    "pitcher": "高梨｜21925139",
+    "catchers": [
+      "古賀｜01705134",
+      "井野｜81185112"
+    ],
+    "batter": "鈴木誠｜81785137",
+    "runners": [
+      "菊池涼｜61565135"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔菊池涼｜61565135〕）二塁盗塁失敗",
+    "catcher": "古賀｜01705134"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0719/c-s-05/playbyplay.html",
+    "date": "2020-07-19",
+    "home": "C",
+    "road": "S",
+    "inning": "t2",
+    "pitcher": "遠藤｜71375136",
+    "catchers": [
+      "會澤｜31135114"
+    ],
+    "batter": "古賀｜01705134",
+    "runners": [
+      "雄平｜01005117"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "2アウト｜1・3塁｜｜｜（走者・〔雄平｜01005117〕）二塁盗塁成功",
+    "catcher": "會澤｜31135114"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0719/c-s-05/playbyplay.html",
+    "date": "2020-07-19",
+    "home": "C",
+    "road": "S",
+    "inning": "t7",
+    "pitcher": "一岡｜21125135",
+    "catchers": [
+      "會澤｜31135114"
+    ],
+    "batter": "村上｜41845136",
+    "runners": [
+      "山田哲｜91895133"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": "0",
+    "text": "1アウト｜1塁｜｜｜（走者・〔山田哲｜91895133〕）二塁盗塁失敗",
+    "catcher": "會澤｜31135114",
+    "memo": "投球前"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0719/db-g-06/playbyplay.html",
+    "date": "2020-07-19",
+    "home": "DB",
+    "road": "G",
+    "inning": "t9",
+    "pitcher": "山﨑｜41845130",
+    "catchers": [
+      "戸柱｜41245132"
+    ],
+    "batter": "ウィーラー｜03105130",
+    "runners": [
+      "増田大｜51855132"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁成功",
+    "catcher": "戸柱｜41245132"
+  }
+]

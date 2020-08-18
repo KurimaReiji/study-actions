@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://npb.jp/scores/2020/0723/d-g-06/playbyplay.html",
+    "date": "2020-07-23",
+    "home": "D",
+    "road": "G",
+    "inning": "t7",
+    "pitcher": "ゴンサレス｜43345151",
+    "catchers": [
+      "加藤｜41545130"
+    ],
+    "batter": "吉川尚｜73375134",
+    "runners": [
+      "増田大｜51855132"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁失敗",
+    "catcher": "加藤｜41545130"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0723/e-b-06/playbyplay.html",
+    "date": "2020-07-23",
+    "home": "E",
+    "road": "B",
+    "inning": "b5",
+    "pitcher": "山﨑福｜21825130",
+    "catchers": [
+      "伏見｜61065137"
+    ],
+    "batter": "小深田｜61965151",
+    "runners": [
+      "ブラッシュ｜23325138"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔ブラッシュ｜23325138〕）二塁盗塁失敗",
+    "catcher": "伏見｜61065137"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0723/e-b-06/playbyplay.html",
+    "date": "2020-07-23",
+    "home": "E",
+    "road": "B",
+    "inning": "t9",
+    "pitcher": "森原｜93195134",
+    "catchers": [
+      "太田｜71375138"
+    ],
+    "batter": "宗｜11815130",
+    "runners": [
+      "山足｜13115136"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "1アウト｜1・3塁｜｜｜（走者・〔山足｜13115136〕）二塁盗塁成功",
+    "catcher": "太田｜71375138"
+  }
+]

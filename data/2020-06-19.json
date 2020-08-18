@@ -1,0 +1,196 @@
+[
+  {
+    "url": "https://npb.jp/scores/2020/0619/b-e-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "B",
+    "road": "E",
+    "inning": "t5",
+    "pitcher": "山岡｜83185134",
+    "catchers": [
+      "若月｜41645139",
+      "松井雅｜51455131"
+    ],
+    "batter": "太田｜71375138",
+    "runners": [
+      "銀次｜71375112"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔銀次｜71375112〕）二塁盗塁失敗",
+    "catcher": "若月｜41645139"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0619/db-c-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "DB",
+    "road": "C",
+    "inning": "t2",
+    "pitcher": "今永｜01305132",
+    "catchers": [
+      "伊藤光｜81185116"
+    ],
+    "batter": "會澤｜31135114",
+    "runners": [
+      "メヒア｜43945132"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔メヒア｜43945132〕）二塁盗塁成功",
+    "catcher": "伊藤光｜81185116"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0619/db-c-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "DB",
+    "road": "C",
+    "inning": "t8",
+    "pitcher": "パットン｜03705134",
+    "catchers": [
+      "伊藤光｜81185116"
+    ],
+    "batter": "メヒア｜43945132",
+    "runners": [
+      "鈴木誠｜81785137"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔鈴木誠｜81785137〕）二塁盗塁失敗",
+    "catcher": "伊藤光｜81185116"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0619/h-m-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "H",
+    "road": "M",
+    "inning": "t3",
+    "pitcher": "東浜｜01005137",
+    "catchers": [
+      "甲斐｜91595133"
+    ],
+    "batter": "角中｜41545114",
+    "runners": [
+      "福田秀｜11615114"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "2アウト｜1・3塁｜｜｜（走者・〔福田秀｜11615114〕）二塁盗塁失敗",
+    "catcher": "甲斐｜91595133"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0619/h-m-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "H",
+    "road": "M",
+    "inning": "b8",
+    "pitcher": "ジャクソン｜13515132",
+    "catchers": [
+      "田村｜41945137"
+    ],
+    "batter": "バレンティン｜13315133",
+    "runners": [
+      "栗原｜01705130"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔栗原｜01705130〕）二塁盗塁成功",
+    "catcher": "田村｜41945137"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0619/h-m-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "H",
+    "road": "M",
+    "inning": "t9",
+    "pitcher": "森｜01405139",
+    "catchers": [
+      "甲斐｜91595133"
+    ],
+    "batter": "マーティン｜23725138",
+    "runners": [
+      "和田｜33335136"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功",
+    "catcher": "甲斐｜91595133"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0619/l-f-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "L",
+    "road": "F",
+    "inning": "b7",
+    "pitcher": "堀｜51855134",
+    "catchers": [
+      "宇佐見｜61365132",
+      "清水｜61965130"
+    ],
+    "batter": "スパンジェンバーグ｜23525151",
+    "runners": [
+      "木村｜41745114"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔木村｜41745114〕）二塁盗塁成功",
+    "catcher": "宇佐見｜61365132"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0619/l-f-01/playbyplay.html",
+    "date": "2020-06-19",
+    "home": "L",
+    "road": "F",
+    "inning": "t8",
+    "pitcher": "ギャレット｜03305151",
+    "catchers": [
+      "森｜91495139"
+    ],
+    "batter": "大田｜41345118",
+    "runners": [
+      "西川｜21225133"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功",
+    "catcher": "森｜91495139"
+  }
+]
