@@ -118,7 +118,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -131,27 +131,27 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081803/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "F-E-07",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0818/f-e-07/index.html",
-        "status": "（札幌ドーム）\n                    6回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081804/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-H-04",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0818/m-h-04/index.html",
-        "status": "（ZOZOマリン）\n                    7回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0818/m-h-04/playbyplay.html",
@@ -181,7 +181,7 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081805/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -189,12 +189,60 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0818/b-l-07/index.html",
         "status": "（京セラD大阪）\n                    8回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0818/b-l-07/playbyplay.html",
+            "date": "2020-08-18",
+            "home": "B",
+            "road": "L",
+            "inning": "b8",
+            "pitcher": "ギャレット｜03305151",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "T-岡田｜61365112",
+            "runners": [
+              "佐野｜91995130"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔佐野｜91995130〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081806/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-08-18",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081806/text",
+            "title": "8月18日（火） オリックス vs. 西武 7回戦",
+            "home": "B",
+            "road": "L",
+            "gameNo": "07",
+            "inning": "b8",
+            "batter": "Ｔ－岡田｜600024",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔佐野｜1400197〕 :盗塁成功 2,3塁",
+            "pitcher": "ギャレット｜1900152",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "佐野｜1400197"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          }
+        ],
+        "status": "Final"
       }
     }
   ],
