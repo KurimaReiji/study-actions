@@ -14,7 +14,8 @@
             "inning": "t4",
             "pitcher": "田中豊｜81085132",
             "catchers": [
-              "大城｜21325136"
+              "大城｜21325136",
+              "岸田｜91595136"
             ],
             "batter": "中谷｜51255133",
             "runners": [
@@ -60,7 +61,8 @@
             "inning": "t6",
             "pitcher": "大竹｜11515115",
             "catchers": [
-              "大城｜21325136"
+              "大城｜21325136",
+              "岸田｜91595136"
             ],
             "batter": "サンズ｜63365151",
             "runners": [
@@ -74,6 +76,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔上本｜01305118〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0819/g-t-09/playbyplay.html",
+            "date": "2020-08-19",
+            "home": "G",
+            "road": "T",
+            "inning": "b7",
+            "pitcher": "望月｜81885132",
+            "catchers": [
+              "梅野｜21325139"
+            ],
+            "batter": "松原｜21825134",
+            "runners": [
+              "増田大｜51855132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "3",
+            "ds": "",
+            "outs": "1",
+            "RoB": "-2-",
+            "credit": "1",
+            "text": "1アウト｜2塁｜｜｜（走者・〔増田大｜51855132〕）三塁盗塁成功"
           }
         ]
       },
@@ -148,6 +173,29 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081901/text",
+            "title": "8月19日（水） 巨人 vs. 阪神 9回戦",
+            "home": "G",
+            "road": "T",
+            "gameNo": "09",
+            "inning": "b7",
+            "batter": "松原 聖弥｜1600070",
+            "state": "一死2塁",
+            "text": "二塁走者 〔増田大｜1500054〕 :すかさず初球から走って盗塁成功 3塁",
+            "pitcher": "望月｜1500089",
+            "catcher": "梅野｜1300073",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "増田大｜1500054"
+            ],
+            "base": 3,
+            "outs": 1,
+            "RoB": "-2-"
           }
         ],
         "status": false
@@ -186,31 +234,7 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081902/text",
-        "attempts": [
-          {
-            "date": "2020-08-19",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020081902/text",
-            "title": "8月19日（水） ヤクルト vs. 中日 11回戦",
-            "home": "S",
-            "road": "D",
-            "gameNo": "11",
-            "inning": "b2",
-            "batter": "濱田 太貴｜1800036",
-            "state": "二死1塁",
-            "text": "一塁走者 〔宮本｜1700089〕 :盗塁成功 2塁",
-            "pitcher": "福谷｜1200055",
-            "catcher": "郡司｜1900040",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "宮本｜1700089"
-            ],
-            "base": 2,
-            "outs": 2,
-            "RoB": "1--"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
@@ -316,6 +340,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0819/m-h-05/playbyplay.html",
+            "date": "2020-08-19",
+            "home": "M",
+            "road": "H",
+            "inning": "b7",
+            "pitcher": "泉｜01105138",
+            "catchers": [
+              "髙谷｜41045114"
+            ],
+            "batter": "中村奨｜51455130",
+            "runners": [
+              "和田｜33335136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
           }
         ]
       },
@@ -343,6 +390,29 @@
             ],
             "base": 2,
             "outs": 2,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081905/text",
+            "title": "8月19日（水） ロッテ vs. ソフトバンク 5回戦",
+            "home": "M",
+            "road": "H",
+            "gameNo": "05",
+            "inning": "b7",
+            "batter": "中村 奨吾｜1400188",
+            "state": "一死1塁",
+            "text": "一塁走者 〔和田｜1700098〕 :盗塁成功 2塁",
+            "pitcher": "泉｜1800111",
+            "catcher": "髙谷｜700099",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "和田｜1700098"
+            ],
+            "base": 2,
+            "outs": 1,
             "RoB": "1--"
           }
         ],
@@ -400,6 +470,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔スパンジェンバーグ｜23525151〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0819/b-l-08/playbyplay.html",
+            "date": "2020-08-19",
+            "home": "B",
+            "road": "L",
+            "inning": "t8",
+            "pitcher": "ヒギンス｜03705151",
+            "catchers": [
+              "若月｜41645139"
+            ],
+            "batter": "中村｜81085115",
+            "runners": [
+              "森｜91495139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔森｜91495139〕）二塁盗塁成功"
           }
         ]
       },
@@ -451,6 +544,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081906/text",
+            "title": "8月19日（水） オリックス vs. 西武 8回戦",
+            "home": "B",
+            "road": "L",
+            "gameNo": "08",
+            "inning": "t8",
+            "batter": "中村 剛也｜12101",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔森｜1300100〕 :盗塁成功 2,3塁",
+            "pitcher": "ヒギンス｜1900145",
+            "catcher": "若月｜1300109",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "森｜1300100"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
           }
         ],
         "status": false
