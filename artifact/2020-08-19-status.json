@@ -4,7 +4,7 @@
       "id": "G-T-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0819/g-t-09/index.html",
-        "status": "（東京ドーム）\n                    7回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0819/g-t-09/playbyplay.html",
@@ -38,7 +38,8 @@
             "inning": "b4",
             "pitcher": "ガルシア｜33535136",
             "catchers": [
-              "梅野｜21325139"
+              "梅野｜21325139",
+              "坂本｜11915132"
             ],
             "batter": "大城｜21325136",
             "runners": [
@@ -85,7 +86,8 @@
             "inning": "b7",
             "pitcher": "望月｜81885132",
             "catchers": [
-              "梅野｜21325139"
+              "梅野｜21325139",
+              "坂本｜11915132"
             ],
             "batter": "松原｜21825134",
             "runners": [
@@ -198,14 +200,14 @@
             "RoB": "-2-"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "S-D-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0819/s-d-11/index.html",
-        "status": "（神　宮）\n                    8回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0819/s-d-11/playbyplay.html",
@@ -234,8 +236,32 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081902/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-08-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081902/text",
+            "title": "8月19日（水） ヤクルト vs. 中日 11回戦",
+            "home": "S",
+            "road": "D",
+            "gameNo": "11",
+            "inning": "b2",
+            "batter": "濱田 太貴｜1800036",
+            "state": "二死1塁",
+            "text": "一塁走者 〔宮本｜1700089〕 :盗塁成功 2塁",
+            "pitcher": "福谷｜1200055",
+            "catcher": "郡司｜1900040",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "宮本｜1700089"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
@@ -293,6 +319,29 @@
             ],
             "base": 2,
             "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081903/text",
+            "title": "8月19日（水） 広島 vs. ＤｅＮＡ 10回戦",
+            "home": "C",
+            "road": "DB",
+            "gameNo": "10",
+            "inning": "b9",
+            "batter": "菊池 涼介｜1100082",
+            "state": "一死1塁",
+            "text": "一塁走者 〔野間｜1400173〕 :盗塁成功 2塁",
+            "pitcher": "エスコバー｜1700006",
+            "catcher": "戸柱｜1500064",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "野間｜1400173"
+            ],
+            "base": 2,
+            "outs": 1,
             "RoB": "1--"
           }
         ],
@@ -363,6 +412,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0819/m-h-05/playbyplay.html",
+            "date": "2020-08-19",
+            "home": "M",
+            "road": "H",
+            "inning": "t8",
+            "pitcher": "ハーマン｜93795134",
+            "catchers": [
+              "田村｜41945137"
+            ],
+            "batter": "中村晃｜11215116",
+            "runners": [
+              "柳田｜31835133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔柳田｜31835133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0819/m-h-05/playbyplay.html",
+            "date": "2020-08-19",
+            "home": "M",
+            "road": "H",
+            "inning": "b8",
+            "pitcher": "モイネロ｜63965134",
+            "catchers": [
+              "髙谷｜41045114"
+            ],
+            "batter": "菅野｜41945136",
+            "runners": [
+              "岡｜11515139"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔岡｜11515139〕）二塁盗塁失敗"
           }
         ]
       },
@@ -413,6 +508,53 @@
             ],
             "base": 2,
             "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081905/text",
+            "title": "8月19日（水） ロッテ vs. ソフトバンク 5回戦",
+            "home": "M",
+            "road": "H",
+            "gameNo": "05",
+            "inning": "b8",
+            "batter": "菅野 剛士｜1700095",
+            "state": "二死1塁",
+            "text": "一塁走者 〔岡｜1300044〕 :盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "モイネロ｜1700011",
+            "catcher": "髙谷｜700099",
+            "pickoff": "1塁けん制:ランナー 〔岡｜1300044〕 スタート",
+            "credit": 0,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "岡｜1300044"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020081905/text",
+            "title": "8月19日（水） ロッテ vs. ソフトバンク 5回戦",
+            "home": "M",
+            "road": "H",
+            "gameNo": "05",
+            "inning": "t8",
+            "batter": "中村 晃｜800081",
+            "state": "二死1塁",
+            "text": "一塁走者 〔柳田｜1000128〕 :盗塁成功 2塁",
+            "pitcher": "ハーマン｜1600091",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "柳田｜1000128"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           }
         ],
@@ -569,7 +711,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
