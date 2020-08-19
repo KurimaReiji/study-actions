@@ -268,7 +268,7 @@
       "id": "C-DB-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0819/c-db-10/index.html",
-        "status": "（マツダスタジアム）\n                    6回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0819/c-db-10/playbyplay.html",
@@ -376,13 +376,13 @@
       "id": "F-E-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0819/f-e-08/index.html",
-        "status": "（札幌ドーム）\n                    6回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020081904/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -502,7 +502,7 @@
             "batter": "マーティン｜1900014",
             "state": "二死1塁",
             "text": "一塁走者 〔和田｜1700098〕 :盗塁成功 2塁",
-            "pitcher": "大竹｜1700137",
+            "pitcher": "板東｜1800109",
             "catcher": "髙谷｜700099",
             "credit": 1,
             "sb": "SB",
@@ -585,7 +585,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
