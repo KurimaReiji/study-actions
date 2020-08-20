@@ -17,7 +17,7 @@
       "id": "S-D-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0820/s-d-12/index.html",
-        "status": "（神　宮）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0820/s-d-12/playbyplay.html",
@@ -72,8 +72,57 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082002/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-08-20",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082002/text",
+            "title": "8月20日（木） ヤクルト vs. 中日 12回戦",
+            "home": "S",
+            "road": "D",
+            "gameNo": "12",
+            "inning": "b3",
+            "batter": "宮本 丈｜1700089",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔西浦｜1300095〕 :盗塁成功 2,3塁",
+            "pitcher": "柳｜1600106",
+            "catcher": "木下拓｜1500076",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西浦｜1300095"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-08-20",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082002/text",
+            "title": "8月20日（木） ヤクルト vs. 中日 12回戦",
+            "home": "S",
+            "road": "D",
+            "gameNo": "12",
+            "inning": "b6",
+            "batter": "西浦 直亨｜1300095",
+            "state": "無死1,2塁",
+            "text": "一塁走者 〔村上｜1700084〕 、二塁走者 〔上田｜700020〕 ダブルスチール成功！ 2,3塁",
+            "pitcher": "木下雄｜1600112",
+            "catcher": "木下拓｜1500076",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "上田｜700020",
+              "村上｜1700084"
+            ],
+            "base": "23",
+            "ds": "DS",
+            "outs": 0,
+            "RoB": "12-"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
@@ -142,20 +191,20 @@
       "id": "F-E-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0820/f-e-09/index.html",
-        "status": "（札幌ドーム）\n                    7回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082004/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-H-06",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0820/m-h-06/index.html",
-        "status": "（ZOZOマリン）\n                    7回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0820/m-h-06/playbyplay.html",
@@ -255,14 +304,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-L-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0820/b-l-09/index.html",
-        "status": "（京セラD大阪）\n                    6回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0820/b-l-09/playbyplay.html",
@@ -503,7 +552,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
