@@ -4,13 +4,13 @@
       "id": "G-T-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0820/g-t-10/index.html",
-        "status": "（東京ドーム）\n                    8回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082001/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -27,7 +27,8 @@
             "inning": "b3",
             "pitcher": "柳｜63165134",
             "catchers": [
-              "木下拓｜31735132"
+              "木下拓｜31735132",
+              "加藤｜41545130"
             ],
             "batter": "宮本｜01805136",
             "runners": [
@@ -50,7 +51,8 @@
             "inning": "b6",
             "pitcher": "木下雄｜41545134",
             "catchers": [
-              "木下拓｜31735132"
+              "木下拓｜31735132",
+              "加藤｜41545130"
             ],
             "batter": "西浦｜91095139",
             "runners": [
@@ -127,7 +129,7 @@
       "id": "C-DB-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0820/c-db-11/index.html",
-        "status": "（マツダスタジアム）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0820/c-db-11/playbyplay.html",
@@ -137,7 +139,8 @@
             "inning": "t1",
             "pitcher": "K.ジョンソン｜53355130",
             "catchers": [
-              "石原慶｜51355115"
+              "石原慶｜51355115",
+              "坂倉｜11915134"
             ],
             "batter": "宮﨑｜51455137",
             "runners": [
@@ -181,7 +184,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -202,11 +205,105 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0820/m-h-06/index.html",
         "status": "（ZOZOマリン）\n                    7回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0820/m-h-06/playbyplay.html",
+            "date": "2020-08-20",
+            "home": "M",
+            "road": "H",
+            "inning": "t10",
+            "pitcher": "フローレス｜43745151",
+            "catchers": [
+              "田村｜41945137"
+            ],
+            "batter": "周東｜21925136",
+            "runners": [
+              "柳田｜31835133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔柳田｜31835133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0820/m-h-06/playbyplay.html",
+            "date": "2020-08-20",
+            "home": "M",
+            "road": "H",
+            "inning": "t10",
+            "pitcher": "フローレス｜43745151",
+            "catchers": [
+              "田村｜41945137"
+            ],
+            "batter": "栗原｜01705130",
+            "runners": [
+              "周東｜21925136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082005/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-08-20",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082005/text",
+            "title": "8月20日（木） ロッテ vs. ソフトバンク 6回戦",
+            "home": "M",
+            "road": "H",
+            "gameNo": "06",
+            "inning": "t10",
+            "batter": "周東 佑京｜1700135",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔柳田｜1000128〕 :盗塁成功 2,3塁",
+            "pitcher": "フローレス｜1900151",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "柳田｜1000128"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-08-20",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082005/text",
+            "title": "8月20日（木） ロッテ vs. ソフトバンク 6回戦",
+            "home": "M",
+            "road": "H",
+            "gameNo": "06",
+            "inning": "t10",
+            "batter": "栗原 陵矢｜1400127",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔周東｜1700135〕 :盗塁成功 2,3塁",
+            "pitcher": "フローレス｜1900151",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          }
+        ],
         "status": false
       }
     },
@@ -307,6 +404,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "1アウト｜1・3塁｜｜｜（走者・〔スパンジェンバーグ｜23525151〕）本塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0820/b-l-09/playbyplay.html",
+            "date": "2020-08-20",
+            "home": "B",
+            "road": "L",
+            "inning": "t7",
+            "pitcher": "小林｜21725134",
+            "catchers": [
+              "松井雅｜51455131"
+            ],
+            "batter": "木村｜41745114",
+            "runners": [
+              "金子｜01505137"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔金子｜01505137〕）二塁盗塁失敗"
           }
         ]
       },
@@ -404,6 +524,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-08-20",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082006/text",
+            "title": "8月20日（木） オリックス vs. 西武 9回戦",
+            "home": "B",
+            "road": "L",
+            "gameNo": "09",
+            "inning": "t7",
+            "batter": "木村 文紀｜700078",
+            "state": "一死1塁",
+            "text": "一塁走者 〔金子｜1200083〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "小林｜1600154",
+            "catcher": "松井雅｜900411",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "金子｜1200083"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
