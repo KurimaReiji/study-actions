@@ -8,14 +8,19 @@ const params = {
   "azure": {
     chromePath: "/usr/bin/google-chrome",
     targetDir: `${process.env.GITHUB_WORKSPACE}/artifact`,
+    dataDir: `${process.env.GITHUB_WORKSPACE}/data`,
+    wwwDir: `${process.env.GITHUB_WORKSPACE}/docs`,
   },
   "win": {
     chromePath: "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
     targetDir: path.resolve(__dirname, "./artifact"),
+    dataDir: path.resolve(__dirname, "./data"),
+    wwwDir: path.resolve(__dirname, "./docs"),
   }
 }
 
 const targetDir = params[VM].targetDir;
+const dataDir = params[VM].dataDir;
 
 const date = (() => {
   if (process.argv.length == 3) {
@@ -27,7 +32,9 @@ const date = (() => {
 
 const db = require(`${targetDir}/${date}-status.json`);
 const games = db.games;
-const outfile = `${targetDir}/${date}.json`;
+const alldone = db.numOfGames == games.filter((g) => g.npbjp.status == "Final");
+
+const outfile = alldone ? `${targetDir}/${date}.json` : `${targetDir}/today.json`;
 
 const add_attemptId = (obj) => {
   const id = [
