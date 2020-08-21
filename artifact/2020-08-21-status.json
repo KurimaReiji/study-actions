@@ -10,14 +10,14 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082101/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-DB-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0821/d-db-10/index.html",
-        "status": "（ナゴヤドーム）\n                    8回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0821/d-db-10/playbyplay.html",
@@ -71,20 +71,20 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-G-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0821/c-g-10/index.html",
-        "status": "（マツダスタジアム）\n                    8回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082103/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
