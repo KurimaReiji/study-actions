@@ -4,6 +4,7 @@ WWW := docs
 DAILY := $(wildcard data/2020-??-??.json)
 
 $(WWW)/index.html: $(DIR)/$(TODAY)-status.json $(WWW)/data.json $(WWW)/today.json $(DIR)/today.json
+	echo 'foo' > $(DIR)/foo
 	touch $(WWW)/index.html
 	git config user.name "Actions"
 	git config user.email "kurimareiji@kurimai.com"
