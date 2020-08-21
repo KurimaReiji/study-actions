@@ -9,11 +9,10 @@ $(WWW)/index.html: $(DIR)/$(TODAY)-status.json $(WWW)/data.json $(WWW)/today.jso
 	git add $(DIR)/$(TODAY)-status.json data $(WWW)
 	git add docs/data.json 
 	git commit -m '$(TODAY)'
-	git push
-	touch docs/index.html
+	git push && touch $(WWW)/index.html
 
 $(WWW)/data.json: $(DAILY)
-	jq -s '.|add' data/2020-??-??.json > docs/data.json
+	jq -s '.|add' data/2020-??-??.json > $(WWW)/data.json
 
 $(DIR)/today.json: $(DIR)/$(TODAY)-status.json
 	node merge.js
