@@ -91,7 +91,7 @@
       "id": "F-E-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0821/f-e-10/index.html",
-        "status": "（札幌ドーム）\n                    7回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0821/f-e-10/playbyplay.html",
@@ -152,13 +152,13 @@
       "id": "M-H-07",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0821/m-h-07/index.html",
-        "status": "（ZOZOマリン）\n                    6回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082105/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
