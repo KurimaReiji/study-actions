@@ -19,7 +19,7 @@ $(DIR)/today.json: $(DIR)/$(TODAY)-status.json
 	node merge.js
 
 $(WWW)/today.json: $(DIR)/today.json
-	cp $(DIR)/today.json $(WWW)/today.json
+	mv $(DIR)/today.json $(WWW)/today.json
 
 $(DIR)/$(TODAY)-status.json:
 	test -e $(DIR)/$(TODAY)-status.json || echo '{}' > $(DIR)/$(TODAY)-status.json
