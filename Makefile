@@ -6,7 +6,7 @@ DAILY := $(wildcard data/2020-??-??.json)
 $(WWW)/index.html: $(DIR)/$(TODAY)-status.json $(WWW)/data.json
 	git config user.name "Actions"
 	git config user.email "kurimareiji@kurimai.com"
-	git add $(DIR)/$(TODAY)-status.json data/$(TODAY).json
+	git add $(DIR)/$(TODAY)-status.json data
 	git add docs/data.json 
 	git commit -m '$(TODAY)'
 	git push
