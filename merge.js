@@ -32,7 +32,7 @@ const date = (() => {
 
 const db = require(`${targetDir}/${date}-status.json`);
 const games = db.games;
-const alldone = db.numOfGames == games.filter((g) => g.npbjp.status == "Final");
+const alldone = db.numOfGames == games.filter((g) => g.npbjp.status == "Final").length;
 
 const outfile = alldone ? `${targetDir}/${date}.json` : `${targetDir}/today.json`;
 
@@ -88,3 +88,4 @@ const data = games
 
 const output = JSON.stringify(data, null, 2);
 fs.writeFileSync(outfile, output);
+console.log(`outfile: ${outfile}`);
