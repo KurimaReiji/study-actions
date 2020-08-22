@@ -1,54 +1,454 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Stolen Bases / NPB 2020</title>
-  <style>
-    #today {
-      margin: 1rem;
-      white-space: pre;
-      font-family: Consolas, Meiryo, sans-serif;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div id="today"></div>
-  <script>
-    const today = (new Date((new Date()).toUTCString())).toISOString().slice(0, 10);
-    const proc = (inputs)=>{
-      const data = inputs
-    .filter((obj) => obj.date == today)
-.map((obj)=>{
-        obj.liner = [
-          [obj.sb, obj.cs].join(""), 
-          obj.credit,
-          obj.inning,
-          (`${obj.inning[0] == "t" ? obj.road : obj.home} `).slice(0,2),
-          (`${obj.runners.map((str)=>str.replace(/｜\d+/,"")).join(" & ")}　　　　　　　　　`).slice(0,10),
-          obj.inning[0] == "t" ? obj.home : obj.road,
-          obj.pitcher.replace(/｜\d+/,""),
-          "-",
-          obj.catcher.replace(/｜\d+/,"")
-        ].join(" ");
-        return obj;
-      })
-      ;
-      const sb = data.filter((obj)=>obj.sb=="SB");
-      const cs = data.filter((obj)=>obj.cs=="CS");
-      const output = sb.concat(cs).map((obj)=>obj.liner).join("\n");
-      document.getElementById("today").innerText = `${data[0].date}\n${output}`;
-    }
+  <div id="teamStats">
 
+<h2>Team Stats order by Fielding Stolen Base Attempts</h2>
+<div class="both-league">
 
-    fetch("today.json")
-      .then(function(response) {
-        return response.json();
-      })
-      .then((json)=>{
-        proc(json);
-      });
+  <div class="pacific">
+  <h3>Pacific League</h3>
 
-  </script>
+  <table>
+    <tbody>
+      <tr><th></th><th colspan="3">Batting</th><th colspan="3">Fielding</th></tr>
+      <tr><th></th><th>SB</th><th>CS</th><th>SB%</th><th>SB</th><th>CS</th><th>CS%</th></tr>
+    <tr class="f">
+      <td class="f">Fighters</td>
+      <td>26</td>
+      <td>9</td>
+      <td>0.781</td>
+      <td>52</td>
+      <td>19</td>
+      <td>0.242</td>
+    </tr> 
+    <tr class="m">
+      <td class="m">Marines</td>
+      <td>46</td>
+      <td>16</td>
+      <td>0.772</td>
+      <td>42</td>
+      <td>13</td>
+      <td>0.200</td>
+    </tr> 
+    <tr class="b">
+      <td class="b">Buffaloes</td>
+      <td>39</td>
+      <td>22</td>
+      <td>0.655</td>
+      <td>36</td>
+      <td>15</td>
+      <td>0.239</td>
+    </tr> 
+    <tr class="l">
+      <td class="l">Lions</td>
+      <td>32</td>
+      <td>20</td>
+      <td>0.667</td>
+      <td>30</td>
+      <td>17</td>
+      <td>0.348</td>
+    </tr> 
+    <tr class="h">
+      <td class="h">Hawks</td>
+      <td>36</td>
+      <td>12</td>
+      <td>0.800</td>
+      <td>28</td>
+      <td>14</td>
+      <td>0.263</td>
+    </tr> 
+    <tr class="e">
+      <td class="e">Eagles</td>
+      <td>36</td>
+      <td>13</td>
+      <td>0.756</td>
+      <td>27</td>
+      <td>14</td>
+      <td>0.333</td>
+    </tr> 
+    <tr class="z">
+      <td class="z">Total: 307</td>
+      <td>215</td>
+      <td>92</td>
+      <td>0.733</td>
+      <td>215</td>
+      <td>92</td>
+      <td>0.267</td>
+    </tr> 
+    </tbody>
+  </table>
+
+  <a href="https://npb.jp/bis/2020/stats/tmb_p.html" target="_npb">Team Batting</a>
+  </div>
+
+  <div class="central">
+  <h3>Central League</h3>
+
+  <table>
+    <tbody>
+      <tr><th></th><th colspan="3">Batting</th><th colspan="3">Fielding</th></tr>
+      <tr><th></th><th>SB</th><th>CS</th><th>SB%</th><th>SB</th><th>CS</th><th>CS%</th></tr>
+    <tr class="d">
+      <td class="d">Dragons</td>
+      <td>13</td>
+      <td>8</td>
+      <td>0.667</td>
+      <td>35</td>
+      <td>18</td>
+      <td>0.320</td>
+    </tr> 
+    <tr class="db">
+      <td class="db">Baystars</td>
+      <td>10</td>
+      <td>8</td>
+      <td>0.588</td>
+      <td>33</td>
+      <td>16</td>
+      <td>0.333</td>
+    </tr> 
+    <tr class="s">
+      <td class="s">Swallows</td>
+      <td>34</td>
+      <td>22</td>
+      <td>0.620</td>
+      <td>23</td>
+      <td>10</td>
+      <td>0.207</td>
+    </tr> 
+    <tr class="c">
+      <td class="c">Carp</td>
+      <td>22</td>
+      <td>13</td>
+      <td>0.636</td>
+      <td>18</td>
+      <td>15</td>
+      <td>0.379</td>
+    </tr> 
+    <tr class="t">
+      <td class="t">Tigers</td>
+      <td>37</td>
+      <td>16</td>
+      <td>0.750</td>
+      <td>17</td>
+      <td>12</td>
+      <td>0.429</td>
+    </tr> 
+    <tr class="g">
+      <td class="g">Giants</td>
+      <td>28</td>
+      <td>13</td>
+      <td>0.700</td>
+      <td>18</td>
+      <td>9</td>
+      <td>0.320</td>
+    </tr> 
+    <tr class="z">
+      <td class="z">Total: 224</td>
+      <td>144</td>
+      <td>80</td>
+      <td>0.670</td>
+      <td>144</td>
+      <td>80</td>
+      <td>0.330</td>
+    </tr> 
+    </tbody>
+  </table>
+
+  <a href="https://npb.jp/bis/2020/stats/tmb_c.html" target="_npb">Team Batting</a>
+  </div>
+      
+</div>
+<div class="updated">After games of August 20, 2020</div>
+
+</div>
+  <div id="catchers">
+  <h2>Catcher Caught Stealing Percentage</h2>
+
+  <div class="both-league">
+
+  <div class="pacific">
+  <h3>Pacific League</h3>
+
+  <table>
+    <tbody>
+      <tr><th>Name</th><th>CS%</th><th>CS</th><th>SB</th></tr>
+    <tr>
+      <td class="l">森</td>
+      <td>0.357</td>
+      <td>15</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td class="f">宇佐見</td>
+      <td>0.314</td>
+      <td>11</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td class="b">若月</td>
+      <td>0.229</td>
+      <td>8</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td class="m">田村</td>
+      <td>0.161</td>
+      <td>5</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <td class="e">太田</td>
+      <td>0.379</td>
+      <td>11</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td class="h">甲斐</td>
+      <td>0.360</td>
+      <td>9</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td class="f">清水</td>
+      <td>0.190</td>
+      <td>4</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <td class="m">柿沼</td>
+      <td>0.222</td>
+      <td>4</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td class="h">髙谷</td>
+      <td>0.125</td>
+      <td>1</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td class="e">足立</td>
+      <td>0.125</td>
+      <td>1</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td class="b">松井雅</td>
+      <td>0.286</td>
+      <td>2</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td class="f">石川亮</td>
+      <td>0.143</td>
+      <td>1</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td class="b">伏見</td>
+      <td>0.250</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td class="l">岡田</td>
+      <td>0.250</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td class="h">九鬼</td>
+      <td>-</td>
+      <td>0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td class="f">鶴岡</td>
+      <td>-</td>
+      <td>0</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td class="e">山下</td>
+      <td>0.500</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td class="m">佐藤</td>
+      <td>1.000</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td class="h">栗原</td>
+      <td>-</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+      
+    </tbody>
+  </table>
+  </div>
+
+  <div class="central">
+  <h3>Central League</h3>
+
+  <table>
+    <tbody>
+      <tr><th>Name</th><th>CS%</th><th>CS</th><th>SB</th></tr>
+    <tr>
+      <td class="d">木下拓</td>
+      <td>0.458</td>
+      <td>11</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td class="db">戸柱</td>
+      <td>0.333</td>
+      <td>8</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td class="t">梅野</td>
+      <td>0.524</td>
+      <td>11</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td class="s">西田</td>
+      <td>0.294</td>
+      <td>5</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td class="d">A.マルティネス</td>
+      <td>0.188</td>
+      <td>3</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td class="g">大城</td>
+      <td>0.214</td>
+      <td>3</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td class="c">會澤</td>
+      <td>0.333</td>
+      <td>4</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td class="db">嶺井</td>
+      <td>0.500</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td class="g">炭谷</td>
+      <td>0.333</td>
+      <td>3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td class="c">坂倉</td>
+      <td>0.333</td>
+      <td>3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td class="c">磯村</td>
+      <td>0.429</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td class="db">伊藤光</td>
+      <td>0.333</td>
+      <td>2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td class="d">加藤</td>
+      <td>0.167</td>
+      <td>1</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td class="t">原口</td>
+      <td>0.200</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td class="s">古賀</td>
+      <td>0.200</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td class="db">髙城</td>
+      <td>-</td>
+      <td>0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td class="d">郡司</td>
+      <td>0.250</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td class="s">井野</td>
+      <td>-</td>
+      <td>0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td class="s">嶋</td>
+      <td>-</td>
+      <td>0</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td class="t">坂本</td>
+      <td>-</td>
+      <td>0</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td class="g">小林</td>
+      <td>1.000</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td class="g">岸田</td>
+      <td>1.000</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td class="c">石原慶</td>
+      <td>1.000</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+      
+    </tbody>
+  </table>
+  </div>
+      
+  </div>
+</div>
+
 </body>
 </html>
