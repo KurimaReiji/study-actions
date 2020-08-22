@@ -19,6 +19,9 @@ jobs:
       - run: make
         env:
           VM: azure
+      - run: make -n -f Makefile4www index
+        env:
+          VM: azure
       - run: date
       - name: use artifact
         uses: actions/upload-artifact@v2

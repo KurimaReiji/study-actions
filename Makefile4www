@@ -1,0 +1,29 @@
+SASS := npx node-sass
+
+.PHONY: css
+css: 
+	$(SASS) src/scss/main.scss docs/styles.css --output-style expanded
+
+$(WWW)/data.json: $(wildcard data/2020-??-??.json)
+	jq -s '.|add' data/2020-??-??.json > $(WWW)/data.json
+
+.PHONY: index
+index: $(wildcard fragments/*.html)
+	node create_index_html.js
+	git config user.name "Actions"
+	git config user.email "kurimareiji@kurimai.com"
+	git add docs fragments
+	git commit -m '$(TODAY) www'
+	git push
+
+data/teamStats.json: docs/data.json data2teamStats.js
+	node data2teamStats.js
+
+data/catchers.json: docs/data.json data2catchers.js
+	node data2catchers.js
+
+fragments/teamStats.html: data/teamStats.json templates/teamStats.ejs
+	node create_html.js fragments/teamStats.html
+
+fragments/catchers.html: data/catchers.json templates/catchers.ejs
+	node create_html.js fragments/catchers.html

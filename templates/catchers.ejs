@@ -1,0 +1,25 @@
+<div id="catchers">
+  <h2>Catcher Caught Stealing Percentage</h2>
+
+  <div class="both-league">
+<% ["Pacific","Central"].forEach((league)=>{ %>
+  <div class="<%= league.toLowerCase() %>">
+  <h3><%= league %> League</h3>
+
+  <table>
+    <tbody>
+      <tr><th>Name</th><th>CS%</th><th>CS</th><th>SB</th></tr>
+<% data.filter((c)=>c.league==league.toLowerCase()).forEach((c)=>{ -%>
+    <tr>
+      <td class="<%= c.team.toLowerCase() %>"><%= c.catcher %></td>
+      <td><%= c.csPct %></td>
+      <td><%= c.cs %></td>
+      <td><%= c.sb %></td>
+    </tr>
+<% }); -%>      
+    </tbody>
+  </table>
+  </div>
+<% }); -%>      
+  </div>
+</div>

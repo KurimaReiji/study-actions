@@ -1,0 +1,33 @@
+<div id="teamStats">
+
+<h2>Team Stats order by Fielding Stolen Base Attempts</h2>
+<div class="both-league">
+<% ["Pacific","Central"].forEach((league,idx)=>{ %>
+  <div class="<%= league.toLowerCase() %>">
+  <h3><%= league %> League</h3>
+
+  <table>
+    <tbody>
+      <tr><th></th><th colspan="3">Batting</th><th colspan="3">Fielding</th></tr>
+      <tr><th></th><th>SB</th><th>CS</th><th>SB%</th><th>SB</th><th>CS</th><th>CS%</th></tr>
+<% data.data.filter((o)=>o.league==league).forEach((t)=>{ -%>
+    <tr class="<%= t.team.toLowerCase() %>">
+      <td class="<%= t.team.toLowerCase() %>"><%= t.name.split(" ")[1] %><%- t.team=="Z" ? `: ${t.batting.sb + t.batting.cs}` : "" %></td>
+      <td><%= t.batting.sb %></td>
+      <td><%= t.batting.cs %></td>
+      <td><%= t.batting.sbPct %></td>
+      <td><%= t.fielding.sb %></td>
+      <td><%= t.fielding.cs %></td>
+      <td><%= t.fielding.csPct %></td>
+    </tr> 
+<% }); -%>
+    </tbody>
+  </table>
+
+  <a href="<%= `https://npb.jp/bis/2020/stats/tmb_${league[0].toLowerCase()}.html` %>" target="_npb">Team Batting</a>
+  </div>
+<% }); -%>      
+</div>
+<div class="updated">After games of <%= (new Date(`${data.updated} 09:00:00`).toLocaleDateString('en', { year: 'numeric', month: 'long', day: 'numeric'})) %></div>
+
+</div>
