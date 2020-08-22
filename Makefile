@@ -3,7 +3,7 @@ DIR := artifact
 WWW := docs
 DAILY := $(wildcard data/2020-??-??.json)
 
-$(WWW)/index.html: $(DIR)/$(TODAY)-status.json $(WWW)/data.json $(WWW)/today.json $(DIR)/today.json
+$(WWW)/index.html: $(DIR)/$(TODAY)-status.json $(WWW)/data.json $(WWW)/today.json
 	echo 'foo' >> $(WWW)/foo
 	touch $(WWW)/index.html
 	git config user.name "Actions"
