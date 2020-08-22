@@ -1,0 +1,267 @@
+{
+  "data": [
+    {
+      "team": "F",
+      "league": "Pacific",
+      "name": "Nippon-Ham Fighters",
+      "batting": {
+        "sb": 26,
+        "cs": 9,
+        "csb": 25,
+        "ccs": 7,
+        "sbPct": "0.781"
+      },
+      "fielding": {
+        "sb": 52,
+        "cs": 19,
+        "csb": 50,
+        "ccs": 16,
+        "csPct": "0.242"
+      }
+    },
+    {
+      "team": "M",
+      "league": "Pacific",
+      "name": "Lotte Marines",
+      "batting": {
+        "sb": 46,
+        "cs": 16,
+        "csb": 44,
+        "ccs": 13,
+        "sbPct": "0.772"
+      },
+      "fielding": {
+        "sb": 42,
+        "cs": 13,
+        "csb": 40,
+        "ccs": 10,
+        "csPct": "0.200"
+      }
+    },
+    {
+      "team": "D",
+      "league": "Central",
+      "name": "Chunichi Dragons",
+      "batting": {
+        "sb": 13,
+        "cs": 8,
+        "csb": 12,
+        "ccs": 6,
+        "sbPct": "0.667"
+      },
+      "fielding": {
+        "sb": 35,
+        "cs": 18,
+        "csb": 34,
+        "ccs": 16,
+        "csPct": "0.320"
+      }
+    },
+    {
+      "team": "B",
+      "league": "Pacific",
+      "name": "ORIX Buffaloes",
+      "batting": {
+        "sb": 39,
+        "cs": 22,
+        "csb": 38,
+        "ccs": 20,
+        "sbPct": "0.655"
+      },
+      "fielding": {
+        "sb": 36,
+        "cs": 15,
+        "csb": 35,
+        "ccs": 11,
+        "csPct": "0.239"
+      }
+    },
+    {
+      "team": "DB",
+      "league": "Central",
+      "name": "DeNA Baystars",
+      "batting": {
+        "sb": 10,
+        "cs": 8,
+        "csb": 10,
+        "ccs": 7,
+        "sbPct": "0.588"
+      },
+      "fielding": {
+        "sb": 33,
+        "cs": 16,
+        "csb": 30,
+        "ccs": 15,
+        "csPct": "0.333"
+      }
+    },
+    {
+      "team": "L",
+      "league": "Pacific",
+      "name": "Seibu Lions",
+      "batting": {
+        "sb": 32,
+        "cs": 20,
+        "csb": 32,
+        "ccs": 16,
+        "sbPct": "0.667"
+      },
+      "fielding": {
+        "sb": 30,
+        "cs": 17,
+        "csb": 30,
+        "ccs": 16,
+        "csPct": "0.348"
+      }
+    },
+    {
+      "team": "H",
+      "league": "Pacific",
+      "name": "SoftBank Hawks",
+      "batting": {
+        "sb": 36,
+        "cs": 12,
+        "csb": 36,
+        "ccs": 9,
+        "sbPct": "0.800"
+      },
+      "fielding": {
+        "sb": 28,
+        "cs": 14,
+        "csb": 28,
+        "ccs": 10,
+        "csPct": "0.263"
+      }
+    },
+    {
+      "team": "E",
+      "league": "Pacific",
+      "name": "Rakuten Eagles",
+      "batting": {
+        "sb": 36,
+        "cs": 13,
+        "csb": 34,
+        "ccs": 11,
+        "sbPct": "0.756"
+      },
+      "fielding": {
+        "sb": 27,
+        "cs": 14,
+        "csb": 26,
+        "ccs": 13,
+        "csPct": "0.333"
+      }
+    },
+    {
+      "team": "S",
+      "league": "Central",
+      "name": "Yakult Swallows",
+      "batting": {
+        "sb": 34,
+        "cs": 22,
+        "csb": 31,
+        "ccs": 19,
+        "sbPct": "0.620"
+      },
+      "fielding": {
+        "sb": 23,
+        "cs": 10,
+        "csb": 23,
+        "ccs": 6,
+        "csPct": "0.207"
+      }
+    },
+    {
+      "team": "C",
+      "league": "Central",
+      "name": "Hiroshima Carp",
+      "batting": {
+        "sb": 22,
+        "cs": 13,
+        "csb": 21,
+        "ccs": 12,
+        "sbPct": "0.636"
+      },
+      "fielding": {
+        "sb": 18,
+        "cs": 15,
+        "csb": 18,
+        "ccs": 11,
+        "csPct": "0.379"
+      }
+    },
+    {
+      "team": "T",
+      "league": "Central",
+      "name": "Hanshin Tigers",
+      "batting": {
+        "sb": 37,
+        "cs": 16,
+        "csb": 36,
+        "ccs": 12,
+        "sbPct": "0.750"
+      },
+      "fielding": {
+        "sb": 17,
+        "cs": 12,
+        "csb": 16,
+        "ccs": 12,
+        "csPct": "0.429"
+      }
+    },
+    {
+      "team": "G",
+      "league": "Central",
+      "name": "Yomiuri Giants",
+      "batting": {
+        "sb": 28,
+        "cs": 13,
+        "csb": 28,
+        "ccs": 12,
+        "sbPct": "0.700"
+      },
+      "fielding": {
+        "sb": 18,
+        "cs": 9,
+        "csb": 17,
+        "ccs": 8,
+        "csPct": "0.320"
+      }
+    },
+    {
+      "league": "Pacific",
+      "name": "League Total",
+      "team": "Z",
+      "batting": {
+        "attempt": 307,
+        "sb": 215,
+        "cs": 92,
+        "sbPct": "0.733"
+      },
+      "fielding": {
+        "attempt": 307,
+        "sb": 215,
+        "cs": 92,
+        "csPct": "0.267"
+      }
+    },
+    {
+      "league": "Central",
+      "name": "League Total",
+      "team": "Z",
+      "batting": {
+        "attempt": 224,
+        "sb": 144,
+        "cs": 80,
+        "sbPct": "0.670"
+      },
+      "fielding": {
+        "attempt": 224,
+        "sb": 144,
+        "cs": 80,
+        "csPct": "0.330"
+      }
+    }
+  ],
+  "updated": "2020-08-20"
+}
