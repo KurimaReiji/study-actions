@@ -153,7 +153,7 @@
       "id": "M-H-08",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0822/m-h-08/index.html",
-        "status": "（ZOZOマリン）\n                    9回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0822/m-h-08/playbyplay.html",
@@ -207,7 +207,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
