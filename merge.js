@@ -34,7 +34,8 @@ const db = require(`${targetDir}/${date}-status.json`);
 const games = db.games;
 const alldone = db.numOfGames == games.filter((g) => g.npbjp.status == "Final").length;
 
-const outfile = alldone ? `${targetDir}/${date}.json` : `${targetDir}/today.json`;
+const outfiles = [`${wwwDir}/today.json`];
+if (alldone) outfiles.push(`${dataDir}/${date}.json`);
 
 const add_attemptId = (obj) => {
   const id = [
@@ -87,5 +88,7 @@ const data = games
   ;
 
 const output = JSON.stringify(data, null, 2);
-fs.writeFileSync(outfile, output);
-console.log(`outfile: ${outfile}`);
+outfiles.forEach((outfile) => {
+  fs.writeFileSync(outfile, output);
+  console.log(`outfile: ${outfile}`);
+});

@@ -4,7 +4,7 @@ WWW := docs
 DAILY := $(wildcard data/2020-??-??.json)
 
 $(WWW)/index.html: $(DIR)/$(TODAY)-status.json $(WWW)/data.json $(WWW)/today.json $(DIR)/today.json
-	echo 'foo' > $(WWW)/foo
+	echo 'foo' >> $(WWW)/foo
 	touch $(WWW)/index.html
 	git config user.name "Actions"
 	git config user.email "kurimareiji@kurimai.com"
@@ -16,11 +16,8 @@ $(WWW)/index.html: $(DIR)/$(TODAY)-status.json $(WWW)/data.json $(WWW)/today.jso
 $(WWW)/data.json: $(DAILY)
 	jq -s '.|add' data/2020-??-??.json > $(WWW)/data.json
 
-$(DIR)/today.json: $(DIR)/$(TODAY)-status.json
+$(WWW)/today.json: $(DIR)/$(TODAY)-status.json
 	node merge.js
-
-$(WWW)/today.json: $(DIR)/today.json
-	mv $(DIR)/today.json $(WWW)/today.json
 
 $(DIR)/$(TODAY)-status.json:
 	test -e $(DIR)/$(TODAY)-status.json || echo '{}' > $(DIR)/$(TODAY)-status.json
