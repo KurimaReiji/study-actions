@@ -21,6 +21,7 @@ const params = {
 
 const targetDir = params[VM].targetDir;
 const dataDir = params[VM].dataDir;
+const wwwDir = params[VM].wwwDir;
 
 const date = (() => {
   if (process.argv.length == 3) {
