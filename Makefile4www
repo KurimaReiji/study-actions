@@ -1,4 +1,5 @@
 SASS := npx node-sass
+WWW  := docs
 
 .PHONY: css
 css: 
