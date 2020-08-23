@@ -172,7 +172,7 @@
       "id": "C-G-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0823/c-g-12/index.html",
-        "status": "（マツダスタジアム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0823/c-g-12/playbyplay.html",
@@ -272,7 +272,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
