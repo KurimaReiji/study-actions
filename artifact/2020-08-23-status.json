@@ -4,7 +4,7 @@
       "id": "S-T-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0823/s-t-12/index.html",
-        "status": "（神　宮）\n                    7回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0823/s-t-12/playbyplay.html",
@@ -58,7 +58,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -196,6 +196,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔堂林｜61965131〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0823/c-g-12/playbyplay.html",
+            "date": "2020-08-23",
+            "home": "C",
+            "road": "G",
+            "inning": "t8",
+            "pitcher": "塹江｜21625130",
+            "catchers": [
+              "會澤｜31135114"
+            ],
+            "batter": "モタ｜13515138",
+            "runners": [
+              "大城｜21325136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔大城｜21325136〕）二塁盗塁成功"
           }
         ]
       },
@@ -224,6 +247,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-23",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082303/text",
+            "title": "8月23日（日） 広島 vs. 巨人 12回戦",
+            "home": "C",
+            "road": "G",
+            "gameNo": "12",
+            "inning": "t8",
+            "batter": "モタ｜1800134",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔大城｜1700044〕 :盗塁成功 2,3塁",
+            "pitcher": "塹江｜1400175",
+            "catcher": "會澤｜700050",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "大城｜1700044"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -386,7 +432,7 @@
       "id": "M-H-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0823/m-h-09/index.html",
-        "status": "（ZOZOマリン）\n                    9回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0823/m-h-09/playbyplay.html",
@@ -487,7 +533,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
