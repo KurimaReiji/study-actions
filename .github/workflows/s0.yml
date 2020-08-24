@@ -16,7 +16,7 @@ jobs:
       - run: make
         env:
           VM: azure
-      - run: make -f Makefile4www
+      - run: make docs/index.html
         env:
           VM: azure
       - run: date
