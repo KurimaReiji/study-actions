@@ -9,8 +9,10 @@ const templateFile = path.resolve(__dirname, `templates/layout.ejs`);
 const template = fs.readFileSync(templateFile, "utf-8");
 
 const html = ejs.render(template, { filename: templateFile, data });
-const buf = fs.readFileSync(outfile, null, {encoding: 'utf-8'});
+const buf = fs.readFileSync(outfile, null, { encoding: 'utf-8' });
 
-if(html != buf) {
-  fs.writeFileSync(outfile, html);
+fs.writeFileSync(outfile, html);
+
+if (html == buf) {
+  console.log(`Nothing changed.`);
 }

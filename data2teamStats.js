@@ -1,6 +1,5 @@
 const fs = require("fs");
 const path = require("path");
-const { fileLoader } = require("ejs");
 
 const dbfile = path.resolve(__dirname, `./docs/data.json`);
 const outfile = path.resolve(__dirname, `./data/teamStats.json`);

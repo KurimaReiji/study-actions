@@ -14,13 +14,10 @@ jobs:
         with:
           node-version: '12'
       - run: npm ci
-      - run: make scraper
-        env:
-          VM: azure
       - run: make
         env:
           VM: azure
-      - run: make -f Makefile4www index
+      - run: make -f Makefile4www
         env:
           VM: azure
       - run: date
