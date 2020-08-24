@@ -6,7 +6,6 @@ $(WWW)/index.html: $(wildcard fragments/*.html)
 	node create_index_html.js
 	git config user.name "Actions"
 	git config user.email "kurimareiji@kurimai.com"
-	echo $(TODAY) >> fragments/dummy
 	git add $(WWW) data fragments
 	git commit -m '$(TODAY) www'
 	git push
