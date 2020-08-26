@@ -28,6 +28,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔松原｜21825134〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0826/s-g-12/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "S",
+            "road": "G",
+            "inning": "t6",
+            "pitcher": "長谷川｜11615134",
+            "catchers": [
+              "中村｜51255118"
+            ],
+            "batter": "吉川尚｜73375134",
+            "runners": [
+              "増田大｜51855132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0826/s-g-12/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "S",
+            "road": "G",
+            "inning": "t6",
+            "pitcher": "風張｜91595130",
+            "catchers": [
+              "中村｜51255118"
+            ],
+            "batter": "松原｜21825134",
+            "runners": [
+              "重信｜21925132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔重信｜21925132〕）二塁盗塁成功"
           }
         ]
       },
@@ -79,6 +125,29 @@
             ],
             "base": 2,
             "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082601/text",
+            "title": "8月26日（水） ヤクルト vs. 巨人 12回戦",
+            "home": "S",
+            "road": "G",
+            "gameNo": "12",
+            "inning": "t6",
+            "batter": "松原 聖弥｜1600070",
+            "state": "二死1塁",
+            "text": "一塁走者 〔重信｜1500047〕 :盗塁成功 2塁",
+            "pitcher": "風張｜1400149",
+            "catcher": "中村｜900044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "重信｜1500047"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           }
         ],
@@ -237,7 +306,7 @@
             "RoB": "-2-"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -271,11 +340,59 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0826/l-f-11/index.html",
         "status": "（メットライフ）\n                    4回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0826/l-f-11/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "L",
+            "road": "F",
+            "inning": "b6",
+            "pitcher": "加藤｜41545132",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "鈴木｜31035134",
+            "runners": [
+              "金子｜01505137"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔金子｜01505137〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082605/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082605/text",
+            "title": "8月26日（水） 西武 vs. 日本ハム 11回戦",
+            "home": "L",
+            "road": "F",
+            "gameNo": "11",
+            "inning": "b6",
+            "batter": "鈴木 将平｜1600130",
+            "state": "二死1塁",
+            "text": "一塁走者 〔金子｜1200083〕 :盗塁成功 2塁",
+            "pitcher": "加藤｜1500110",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "金子｜1200083"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
