@@ -48,20 +48,20 @@
     "league": "pacific"
   },
   {
-    "catcher": "戸柱",
-    "csPct": "0.370",
-    "cs": 10,
-    "sb": 17,
-    "team": "DB",
-    "league": "central"
-  },
-  {
     "catcher": "甲斐",
     "csPct": "0.385",
     "cs": 10,
     "sb": 16,
     "team": "H",
     "league": "pacific"
+  },
+  {
+    "catcher": "戸柱",
+    "csPct": "0.346",
+    "cs": 9,
+    "sb": 17,
+    "team": "DB",
+    "league": "central"
   },
   {
     "catcher": "木下拓",
