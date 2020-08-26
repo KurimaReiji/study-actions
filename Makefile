@@ -3,7 +3,7 @@ DIR := artifact
 WWW := docs
 DAILY := $(wildcard data/2020-??-??.json)
 
-data/$(TODAY).json: $(DIR)/$(TODAY)-status.json
+data/$(TODAY).json: merge.js
 	test -e $(DIR)/$(TODAY)-status.json || echo '{}' > $(DIR)/$(TODAY)-status.json
 	node study-status.js
 	node merge.js
