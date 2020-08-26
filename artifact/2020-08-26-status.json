@@ -74,6 +74,53 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔重信｜21925132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0826/s-g-12/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "S",
+            "road": "G",
+            "inning": "t6",
+            "pitcher": "風張｜91595130",
+            "catchers": [
+              "中村｜51255118"
+            ],
+            "batter": "丸｜21425116",
+            "runners": [
+              "岡本｜11515130"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔岡本｜11515130〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0826/s-g-12/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "S",
+            "road": "G",
+            "inning": "b6",
+            "pitcher": "高梨｜91095134",
+            "catchers": [
+              "岸田｜91595136",
+              "炭谷｜91995112"
+            ],
+            "batter": "坂口｜21925117",
+            "runners": [
+              "中村｜51255118"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔中村｜51255118〕）二塁盗塁失敗"
           }
         ]
       },
@@ -102,6 +149,29 @@
             ],
             "base": 2,
             "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082601/text",
+            "title": "8月26日（水） ヤクルト vs. 巨人 12回戦",
+            "home": "S",
+            "road": "G",
+            "gameNo": "12",
+            "inning": "b6",
+            "batter": "坂口 智隆｜20199",
+            "state": "二死1塁",
+            "text": "一塁走者 〔中村｜900044〕 :盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "高梨｜1600100",
+            "catcher": "炭谷｜600026",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "中村｜900044"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           },
           {
@@ -149,6 +219,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082601/text",
+            "title": "8月26日（水） ヤクルト vs. 巨人 12回戦",
+            "home": "S",
+            "road": "G",
+            "gameNo": "12",
+            "inning": "t6",
+            "batter": "丸 佳浩｜800043",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔岡本｜1400101〕 :盗塁成功 2,3塁",
+            "pitcher": "風張｜1400149",
+            "catcher": "中村｜900044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "岡本｜1400101"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -158,7 +251,7 @@
       "id": "DB-C-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0826/db-c-13/index.html",
-        "status": "（横　浜）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0826/db-c-13/playbyplay.html",
@@ -313,13 +406,13 @@
       "id": "T-D-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0826/t-d-11/index.html",
-        "status": "（甲子園）\n                    6回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082603/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -332,7 +425,7 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082604/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -363,6 +456,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔金子｜01505137〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0826/l-f-11/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "L",
+            "road": "F",
+            "inning": "t7",
+            "pitcher": "平良｜31035136",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "中島卓也｜11215118",
+            "runners": [
+              "ビヤヌエバ｜93395138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔ビヤヌエバ｜93395138〕）二塁盗塁成功"
           }
         ]
       },
@@ -391,6 +507,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082605/text",
+            "title": "8月26日（水） 西武 vs. 日本ハム 11回戦",
+            "home": "L",
+            "road": "F",
+            "gameNo": "11",
+            "inning": "t7",
+            "batter": "中島 卓也｜900069",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔ビヤヌエバ｜1800021〕 :盗塁成功 2,3塁",
+            "pitcher": "平良｜1700124",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "ビヤヌエバ｜1800021"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -401,12 +540,60 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0826/h-b-14/index.html",
         "status": "（PayPayドーム）\n                    3回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0826/h-b-14/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "H",
+            "road": "B",
+            "inning": "b8",
+            "pitcher": "ヒギンス｜03705151",
+            "catchers": [
+              "伏見｜61065137"
+            ],
+            "batter": "川瀬｜11715132",
+            "runners": [
+              "周東｜21925136"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁失敗"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082606/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082606/text",
+            "title": "8月26日（水） ソフトバンク vs. オリックス 14回戦",
+            "home": "H",
+            "road": "B",
+            "gameNo": "14",
+            "inning": "b8",
+            "batter": "川瀬 晃｜1500143",
+            "state": "一死1塁",
+            "text": "一塁走者 〔周東｜1700135〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "ヒギンス｜1900145",
+            "catcher": "伏見｜1200100",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     }
   ],
