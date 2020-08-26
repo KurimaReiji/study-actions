@@ -57,6 +57,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082601/text",
+            "title": "8月26日（水） ヤクルト vs. 巨人 12回戦",
+            "home": "S",
+            "road": "G",
+            "gameNo": "12",
+            "inning": "t6",
+            "batter": "吉川 尚輝｜1600059",
+            "state": "無死1塁",
+            "text": "一塁走者 〔増田大｜1500054〕 :積極的に初球から走って盗塁成功 2塁",
+            "pitcher": "長谷川｜1600169",
+            "catcher": "中村｜900044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "増田大｜1500054"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -99,7 +122,8 @@
             "inning": "t6",
             "pitcher": "濵口｜51655134",
             "catchers": [
-              "髙城｜51055135"
+              "髙城｜51055135",
+              "戸柱｜41245132"
             ],
             "batter": "鈴木誠｜81785137",
             "runners": [
@@ -113,6 +137,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔堂林｜61965131〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0826/db-c-13/playbyplay.html",
+            "date": "2020-08-26",
+            "home": "DB",
+            "road": "C",
+            "inning": "t8",
+            "pitcher": "パットン｜03705134",
+            "catchers": [
+              "髙城｜51055135",
+              "戸柱｜41245132"
+            ],
+            "batter": "堂林｜61965131",
+            "runners": [
+              "野間｜01405130"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "3",
+            "ds": "",
+            "outs": "1",
+            "RoB": "-2-",
+            "credit": "1",
+            "text": "1アウト｜2塁｜｜｜（走者・〔野間｜01405130〕）三塁盗塁失敗"
           }
         ]
       },
@@ -164,6 +212,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-08-26",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082602/text",
+            "title": "8月26日（水） ＤｅＮＡ vs. 広島 13回戦",
+            "home": "DB",
+            "road": "C",
+            "gameNo": "13",
+            "inning": "t8",
+            "batter": "堂林 翔太｜900430",
+            "state": "一死2塁",
+            "text": "二塁走者 〔野間｜1400173〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "パットン｜1600183",
+            "catcher": "戸柱｜1500064",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "野間｜1400173"
+            ],
+            "base": 3,
+            "outs": 1,
+            "RoB": "-2-"
           }
         ],
         "status": false
