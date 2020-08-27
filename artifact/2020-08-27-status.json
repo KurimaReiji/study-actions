@@ -4,13 +4,13 @@
       "id": "S-G-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0827/s-g-13/index.html",
-        "status": "（神　宮）\n                    4回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082701/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -79,7 +79,7 @@
       "id": "T-D-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0827/t-d-12/index.html",
-        "status": "（甲子園）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
