@@ -58,14 +58,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "DB-S-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0828/db-s-13/index.html",
-        "status": "（横　浜）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0828/db-s-13/playbyplay.html",
@@ -119,7 +119,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -127,19 +127,67 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0828/c-t-12/index.html",
         "status": "（マツダスタジアム）\n                    5回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0828/c-t-12/playbyplay.html",
+            "date": "2020-08-28",
+            "home": "C",
+            "road": "T",
+            "inning": "b8",
+            "pitcher": "馬場｜41445136",
+            "catchers": [
+              "梅野｜21325139"
+            ],
+            "batter": "鈴木誠｜81785137",
+            "runners": [
+              "堂林｜61965131"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔堂林｜61965131〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082803/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-08-28",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082803/text",
+            "title": "8月28日（金） 広島 vs. 阪神 12回戦",
+            "home": "C",
+            "road": "T",
+            "gameNo": "12",
+            "inning": "b8",
+            "batter": "鈴木 誠也｜1200069",
+            "state": "二死1塁",
+            "text": "一塁走者 〔堂林｜900430〕 :盗塁成功　1塁走者 〔堂林｜900430〕 はさらに3塁まで進塁 3塁",
+            "pitcher": "馬場｜1700077",
+            "catcher": "梅野｜1300073",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "堂林｜900430"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
       "id": "E-L-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0828/e-l-12/index.html",
-        "status": "（楽天生命パーク）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0828/e-l-12/playbyplay.html",
@@ -332,20 +380,20 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-M-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0828/b-m-13/index.html",
-        "status": "（京セラD大阪）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082805/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
