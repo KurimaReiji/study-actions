@@ -186,6 +186,53 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔島内｜71975135〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0828/e-l-12/playbyplay.html",
+            "date": "2020-08-28",
+            "home": "E",
+            "road": "L",
+            "inning": "b7",
+            "pitcher": "宮川｜51855151",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "小深田｜61965151",
+            "runners": [
+              "小郷｜81385138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔小郷｜81385138〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0828/e-l-12/playbyplay.html",
+            "date": "2020-08-28",
+            "home": "E",
+            "road": "L",
+            "inning": "t8",
+            "pitcher": "牧田｜41445133",
+            "catchers": [
+              "足立｜41145132",
+              "太田｜71375138"
+            ],
+            "batter": "栗山｜51755115",
+            "runners": [
+              "源田｜71775134"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔源田｜71775134〕）二塁盗塁成功"
           }
         ]
       },
@@ -236,6 +283,52 @@
             ],
             "base": 2,
             "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-08-28",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082804/text",
+            "title": "8月28日（金） 楽天 vs. 西武 12回戦",
+            "home": "E",
+            "road": "L",
+            "gameNo": "12",
+            "inning": "b7",
+            "batter": "小深田 大翔｜1900112",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔小郷｜1800123〕 :盗塁成功 2,3塁",
+            "pitcher": "宮川｜1900061",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "小郷｜1800123"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-08-28",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020082804/text",
+            "title": "8月28日（金） 楽天 vs. 西武 12回戦",
+            "home": "E",
+            "road": "L",
+            "gameNo": "12",
+            "inning": "t8",
+            "batter": "栗山 巧｜12102",
+            "state": "二死1塁",
+            "text": "一塁走者 〔源田｜1600129〕 :盗塁成功 2塁",
+            "pitcher": "牧田｜1000149",
+            "catcher": "太田｜1800118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "源田｜1600129"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           }
         ],
