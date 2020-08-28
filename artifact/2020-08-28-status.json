@@ -4,7 +4,7 @@
       "id": "G-D-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0828/g-d-13/index.html",
-        "status": "（東京ドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0828/g-d-13/playbyplay.html",
@@ -126,7 +126,7 @@
       "id": "C-T-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0828/c-t-12/index.html",
-        "status": "（マツダスタジアム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0828/c-t-12/playbyplay.html",
@@ -501,7 +501,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
