@@ -283,7 +283,7 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020082904/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
