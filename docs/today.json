@@ -100,6 +100,31 @@
     "ytext": "一塁走者 〔羽月｜1800078〕 :盗塁を試みるもアウト 3アウトチェンジ"
   },
   {
+    "url": "https://npb.jp/scores/2020/0829/c-t-13/playbyplay.html",
+    "date": "2020-08-29",
+    "home": "C",
+    "road": "T",
+    "inning": "b6",
+    "pitcher": "岩貞｜51355139",
+    "catchers": [
+      "梅野｜21325139"
+    ],
+    "batter": "磯村｜81185133",
+    "runners": [
+      "曽根｜51955139"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔曽根｜51955139〕）二塁盗塁成功",
+    "catcher": "梅野｜21325139",
+    "ytext": "一塁走者 〔曽根｜1300082〕 :盗塁成功 2塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0829/b-m-14/playbyplay.html",
     "date": "2020-08-29",
     "home": "B",
