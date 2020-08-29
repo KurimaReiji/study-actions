@@ -17,7 +17,7 @@
       "id": "DB-S-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0829/db-s-14/index.html",
-        "status": "（横　浜）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0829/db-s-14/playbyplay.html",
@@ -163,14 +163,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-T-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0829/c-t-13/index.html",
-        "status": "（マツダスタジアム）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0829/c-t-13/playbyplay.html",
@@ -270,7 +270,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
