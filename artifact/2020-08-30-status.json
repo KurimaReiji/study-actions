@@ -172,13 +172,13 @@
       "id": "C-T-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0830/c-t-14/index.html",
-        "status": "（マツダスタジアム）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020083003/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
