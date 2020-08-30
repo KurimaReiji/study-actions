@@ -25,6 +25,31 @@
     "ytext": "一塁走者 〔大島｜900410〕 :盗塁成功 2塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/0830/db-s-15/playbyplay.html",
+    "date": "2020-08-30",
+    "home": "DB",
+    "road": "S",
+    "inning": "t5",
+    "pitcher": "伊勢｜41145151",
+    "catchers": [
+      "嶺井｜71475139"
+    ],
+    "batter": "梶谷｜61565114",
+    "runners": [
+      "村上｜41845136"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔村上｜41845136〕）二塁盗塁失敗",
+    "catcher": "嶺井｜71475139",
+    "ytext": "見逃し三振！一塁走者 〔村上｜1700084〕 も盗塁失敗でダブルプレー 3アウトチェンジ"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0830/b-m-15/playbyplay.html",
     "date": "2020-08-30",
     "home": "B",
