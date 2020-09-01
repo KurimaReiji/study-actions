@@ -91,7 +91,7 @@
       "id": "F-E-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0901/f-e-13/index.html",
-        "status": "（札幌ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0901/f-e-13/playbyplay.html",
@@ -193,7 +193,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
