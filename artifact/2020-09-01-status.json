@@ -4,20 +4,20 @@
       "id": "G-DB-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0901/g-db-10/index.html",
-        "status": "（東京ドーム）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090101/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-C-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0901/d-c-13/index.html",
-        "status": "（ナゴヤドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0901/d-c-13/playbyplay.html",
@@ -71,20 +71,20 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-S-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0901/t-s-13/index.html",
-        "status": "（甲子園）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090103/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -200,7 +200,7 @@
       "id": "M-L-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0901/m-l-12/index.html",
-        "status": "（ZOZOマリン）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0901/m-l-12/playbyplay.html",
@@ -302,7 +302,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -333,6 +333,52 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "1アウト｜1・3塁｜｜｜（走者・〔吉田正｜63165132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0901/b-h-16/playbyplay.html",
+            "date": "2020-09-01",
+            "home": "B",
+            "road": "H",
+            "inning": "b8",
+            "pitcher": "川原｜11715131",
+            "catchers": [
+              "甲斐｜91595133"
+            ],
+            "batter": "佐野｜91995130",
+            "runners": [
+              "安達｜31135135"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔安達｜31135135〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0901/b-h-16/playbyplay.html",
+            "date": "2020-09-01",
+            "home": "B",
+            "road": "H",
+            "inning": "b8",
+            "pitcher": "川原｜11715131",
+            "catchers": [
+              "甲斐｜91595133"
+            ],
+            "batter": "伏見｜61065137",
+            "runners": [
+              "佐野｜91995130"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "0アウト｜1・3塁｜｜｜（走者・〔佐野｜91995130〕）二塁盗塁成功"
           }
         ]
       },
@@ -361,9 +407,55 @@
             "base": 2,
             "outs": 1,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-09-01",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090106/text",
+            "title": "9月1日（火） オリックス vs. ソフトバンク 16回戦",
+            "home": "B",
+            "road": "H",
+            "gameNo": "16",
+            "inning": "b8",
+            "batter": "佐野 皓大｜1400197",
+            "state": "無死1塁",
+            "text": "一塁走者 〔安達｜1100105〕 :盗塁成功 2塁",
+            "pitcher": "川原｜1000036",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "安達｜1100105"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-01",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090106/text",
+            "title": "9月1日（火） オリックス vs. ソフトバンク 16回戦",
+            "home": "B",
+            "road": "H",
+            "gameNo": "16",
+            "inning": "b8",
+            "batter": "伏見 寅威｜1200100",
+            "state": "無死1,3塁",
+            "text": "一塁走者 〔佐野｜1400197〕 :すかさず初球から走って盗塁成功 2,3塁",
+            "pitcher": "川原｜1000036",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "佐野｜1400197"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
