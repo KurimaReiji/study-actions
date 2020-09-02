@@ -174,7 +174,7 @@
       "id": "T-S-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0902/t-s-14/index.html",
-        "status": "（甲子園）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0902/t-s-14/playbyplay.html",
@@ -229,14 +229,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "F-E-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0902/f-e-14/index.html",
-        "status": "（札幌ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0902/f-e-14/playbyplay.html",
@@ -291,14 +291,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-L-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0902/m-l-13/index.html",
-        "status": "（ZOZOマリン）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0902/m-l-13/playbyplay.html",
@@ -451,7 +451,7 @@
       "id": "B-H-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0902/b-h-17/index.html",
-        "status": "（京セラD大阪）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0902/b-h-17/playbyplay.html",
