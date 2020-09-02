@@ -4,7 +4,7 @@
       "id": "G-DB-11",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0902/g-db-11/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0902/g-db-11/playbyplay.html",
@@ -59,7 +59,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -179,7 +179,31 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090203/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-09-02",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090203/text",
+            "title": "9月2日（水） 阪神 vs. ヤクルト 14回戦",
+            "home": "T",
+            "road": "S",
+            "gameNo": "14",
+            "inning": "t10",
+            "batter": "山田 哲人｜1000132",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔廣岡｜1500041〕 :盗塁成功 2,3塁",
+            "pitcher": "馬場｜1700077",
+            "catcher": "坂本｜1500087",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "廣岡｜1500041"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
+          }
+        ],
         "status": false
       }
     },
@@ -197,7 +221,8 @@
             "inning": "b5",
             "pitcher": "涌井｜31635110",
             "catchers": [
-              "足立｜41145132"
+              "足立｜41145132",
+              "下妻｜01705137"
             ],
             "batter": "平沼｜01605132",
             "runners": [
@@ -295,6 +320,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔外崎｜41245130〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0902/m-l-13/playbyplay.html",
+            "date": "2020-09-02",
+            "home": "M",
+            "road": "L",
+            "inning": "t9",
+            "pitcher": "東條｜21225132",
+            "catchers": [
+              "田村｜41945137"
+            ],
+            "batter": "鈴木｜31035134",
+            "runners": [
+              "金子｜01505137"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔金子｜01505137〕）二塁盗塁失敗"
           }
         ]
       },
@@ -346,6 +394,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-02",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090205/text",
+            "title": "9月2日（水） ロッテ vs. 西武 13回戦",
+            "home": "M",
+            "road": "L",
+            "gameNo": "13",
+            "inning": "t9",
+            "batter": "鈴木 将平｜1600130",
+            "state": "無死1塁",
+            "text": "一塁走者 〔金子｜1200083〕 :盗塁を試みるもアウト 1アウト",
+            "pitcher": "東條｜1500120",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "金子｜1200083"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -356,11 +427,105 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0902/b-h-17/index.html",
         "status": "（京セラD大阪）\n                    5回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0902/b-h-17/playbyplay.html",
+            "date": "2020-09-02",
+            "home": "B",
+            "road": "H",
+            "inning": "b9",
+            "pitcher": "森｜01405139",
+            "catchers": [
+              "髙谷｜41045114"
+            ],
+            "batter": "杉本｜61965132",
+            "runners": [
+              "福田｜01605136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔福田｜01605136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0902/b-h-17/playbyplay.html",
+            "date": "2020-09-02",
+            "home": "B",
+            "road": "H",
+            "inning": "b9",
+            "pitcher": "森｜01405139",
+            "catchers": [
+              "髙谷｜41045114"
+            ],
+            "batter": "中川｜51255138",
+            "runners": [
+              "佐野｜91995130"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "0アウト｜1・3塁｜｜｜（走者・〔佐野｜91995130〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090206/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-09-02",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090206/text",
+            "title": "9月2日（水） オリックス vs. ソフトバンク 17回戦",
+            "home": "B",
+            "road": "H",
+            "gameNo": "17",
+            "inning": "b9",
+            "batter": "杉本 裕太郎｜1500135",
+            "state": "無死1塁",
+            "text": "一塁走者 〔福田｜1700111〕 :盗塁成功 2塁",
+            "pitcher": "森｜1300077",
+            "catcher": "髙谷｜700099",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "福田｜1700111"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-02",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090206/text",
+            "title": "9月2日（水） オリックス vs. ソフトバンク 17回戦",
+            "home": "B",
+            "road": "H",
+            "gameNo": "17",
+            "inning": "b9",
+            "batter": "中川 圭太｜1800104",
+            "state": "無死1,3塁",
+            "text": "一塁走者 〔佐野｜1400197〕 :盗塁成功 2,3塁",
+            "pitcher": "森｜1300077",
+            "catcher": "髙谷｜700099",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "佐野｜1400197"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1-3"
+          }
+        ],
         "status": false
       }
     }
