@@ -240,14 +240,6 @@
     "league": "central"
   },
   {
-    "catcher": "坂本",
-    "csPct": "0.250",
-    "cs": 1,
-    "sb": 3,
-    "team": "T",
-    "league": "central"
-  },
-  {
     "catcher": "岡田",
     "csPct": "0.250",
     "cs": 1,
@@ -285,6 +277,14 @@
     "cs": 0,
     "sb": 4,
     "team": "S",
+    "league": "central"
+  },
+  {
+    "catcher": "坂本",
+    "csPct": "0.333",
+    "cs": 1,
+    "sb": 2,
+    "team": "T",
     "league": "central"
   },
   {
