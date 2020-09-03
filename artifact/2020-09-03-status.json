@@ -35,7 +35,31 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090303/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-09-03",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090303/text",
+            "title": "9月3日（木） 阪神 vs. ヤクルト 15回戦",
+            "home": "T",
+            "road": "S",
+            "gameNo": "15",
+            "inning": "b7",
+            "batter": "近本 光司｜1800065",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔陽川｜1300072〕 :盗塁成功 2,3塁",
+            "pitcher": "マクガフ｜1800142",
+            "catcher": "西田｜1000134",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "陽川｜1300072"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          }
+        ],
         "status": false
       }
     },
@@ -43,7 +67,7 @@
       "id": "F-E-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0903/f-e-15/index.html",
-        "status": "（札幌ドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0903/f-e-15/playbyplay.html",
@@ -147,7 +171,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
