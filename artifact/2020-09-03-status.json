@@ -4,26 +4,26 @@
       "id": "G-DB-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0903/g-db-12/index.html",
-        "status": "（東京ドーム）\n                    3回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090301/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-C-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0903/d-c-15/index.html",
-        "status": "（ナゴヤドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090302/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -31,7 +31,54 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0903/t-s-15/index.html",
         "status": "（甲子園）\n                    4回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0903/t-s-15/playbyplay.html",
+            "date": "2020-09-03",
+            "home": "T",
+            "road": "S",
+            "inning": "b7",
+            "pitcher": "マクガフ｜43345138",
+            "catchers": [
+              "西田｜41245133"
+            ],
+            "batter": "近本｜71075138",
+            "runners": [
+              "陽川｜11615139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔陽川｜11615139〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0903/t-s-15/playbyplay.html",
+            "date": "2020-09-03",
+            "home": "T",
+            "road": "S",
+            "inning": "b7",
+            "pitcher": "星｜11815134",
+            "catchers": [
+              "西田｜41245133"
+            ],
+            "batter": "木浪｜31735138",
+            "runners": [
+              "近本｜71075138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔近本｜71075138〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090303/text",
@@ -58,9 +105,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-09-03",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090303/text",
+            "title": "9月3日（木） 阪神 vs. ヤクルト 15回戦",
+            "home": "T",
+            "road": "S",
+            "gameNo": "15",
+            "inning": "b7",
+            "batter": "木浪 聖也｜1800067",
+            "state": "二死1塁",
+            "text": "一塁走者 〔近本｜1800065〕 :盗塁成功 2塁",
+            "pitcher": "星｜1600075",
+            "catcher": "西田｜1000134",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "近本｜1800065"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -226,6 +296,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0903/m-l-14/playbyplay.html",
+            "date": "2020-09-03",
+            "home": "M",
+            "road": "L",
+            "inning": "b8",
+            "pitcher": "田村｜01205134",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "戸川｜01205130",
+            "runners": [
+              "和田｜33335136"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁失敗"
           }
         ]
       },
@@ -277,6 +370,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-03",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090305/text",
+            "title": "9月3日（木） ロッテ vs. 西武 14回戦",
+            "home": "M",
+            "road": "L",
+            "gameNo": "14",
+            "inning": "b8",
+            "batter": "安田 尚憲｜1700092",
+            "state": "一死1塁",
+            "text": "見逃し三振！一塁走者 〔和田｜1700098〕 も盗塁失敗でダブルプレー 3アウトチェンジ",
+            "pitcher": "田村｜1600132",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "和田｜1700098"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -286,7 +402,7 @@
       "id": "B-H-18",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0903/b-h-18/index.html",
-        "status": "（京セラD大阪）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0903/b-h-18/playbyplay.html",
@@ -311,6 +427,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "1アウト｜1・3塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0903/b-h-18/playbyplay.html",
+            "date": "2020-09-03",
+            "home": "B",
+            "road": "H",
+            "inning": "b8",
+            "pitcher": "モイネロ｜63965134",
+            "catchers": [
+              "甲斐｜91595133"
+            ],
+            "batter": "ジョーンズ｜73575151",
+            "runners": [
+              "吉田正｜63165132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔吉田正｜63165132〕）二塁盗塁成功"
           }
         ]
       },
@@ -339,9 +478,32 @@
             "base": 2,
             "outs": 1,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-09-03",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090306/text",
+            "title": "9月3日（木） オリックス vs. ソフトバンク 18回戦",
+            "home": "B",
+            "road": "H",
+            "gameNo": "18",
+            "inning": "b8",
+            "batter": "ジョーンズ｜600424",
+            "state": "二死1塁",
+            "text": "一塁走者 〔吉田正｜1500126〕 :盗塁成功 2塁",
+            "pitcher": "モイネロ｜1700011",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "吉田正｜1500126"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
