@@ -30,7 +30,7 @@
       "id": "T-S-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0903/t-s-15/index.html",
-        "status": "（甲子園）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0903/t-s-15/playbyplay.html",
@@ -395,7 +395,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
