@@ -34,31 +34,7 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090401/text",
-        "attempts": [
-          {
-            "date": "2020-09-04",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020090401/text",
-            "title": "9月4日（金） ヤクルト vs. 中日 13回戦",
-            "home": "S",
-            "road": "D",
-            "gameNo": "13",
-            "inning": "t2",
-            "batter": "加藤 匠馬｜1400160",
-            "state": "一死1,2塁",
-            "text": "空振り三振！スタートを切っていた二塁走者 〔堂上｜700034〕 もアウトでダブルプレー 3アウトチェンジ",
-            "pitcher": "高梨｜1300045",
-            "catcher": "中村｜900044",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "堂上｜700034"
-            ],
-            "base": 3,
-            "outs": 1,
-            "RoB": "12-"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
@@ -91,6 +67,29 @@
             "RoB": "-2-",
             "credit": "1",
             "text": "0アウト｜2塁｜｜｜（走者・〔江越｜21325130〕）三塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0904/t-g-11/playbyplay.html",
+            "date": "2020-09-04",
+            "home": "T",
+            "road": "G",
+            "inning": "t8",
+            "pitcher": "西勇｜71275118",
+            "catchers": [
+              "梅野｜21325139"
+            ],
+            "batter": "岡本｜11515130",
+            "runners": [
+              "増田大｜51855132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁成功"
           }
         ]
       },
@@ -119,6 +118,29 @@
             "base": 3,
             "outs": 0,
             "RoB": "-2-"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090402/text",
+            "title": "9月4日（金） 阪神 vs. 巨人 11回戦",
+            "home": "T",
+            "road": "G",
+            "gameNo": "11",
+            "inning": "t8",
+            "batter": "岡本 和真｜1400101",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔増田大｜1500054〕 :すかさず初球から走って盗塁成功 2,3塁",
+            "pitcher": "西勇｜900062",
+            "catcher": "梅野｜1300073",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "増田大｜1500054"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -178,6 +200,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔宗｜11815130〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0904/e-b-10/playbyplay.html",
+            "date": "2020-09-04",
+            "home": "E",
+            "road": "B",
+            "inning": "t7",
+            "pitcher": "牧田｜41445133",
+            "catchers": [
+              "足立｜41145132"
+            ],
+            "batter": "宗｜11815130",
+            "runners": [
+              "福田｜01605136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔福田｜01605136〕）二塁盗塁成功"
           }
         ]
       },
@@ -202,6 +247,29 @@
             "cs": "",
             "runners": [
               "宗｜1400196"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090405/text",
+            "title": "9月4日（金） 楽天 vs. オリックス 10回戦",
+            "home": "E",
+            "road": "B",
+            "gameNo": "10",
+            "inning": "t7",
+            "batter": "宗 佑磨｜1400196",
+            "state": "一死1塁",
+            "text": "見逃し三振に倒れるもスタートを切っていた一塁走者 〔福田｜1700111〕 が盗塁成功 2アウト2塁",
+            "pitcher": "牧田｜1000149",
+            "catcher": "足立｜1600006",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "福田｜1700111"
             ],
             "base": 2,
             "outs": 1,
@@ -285,6 +353,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔藤岡｜41645136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0904/h-m-10/playbyplay.html",
+            "date": "2020-09-04",
+            "home": "H",
+            "road": "M",
+            "inning": "t7",
+            "pitcher": "嘉弥真｜91595135",
+            "catchers": [
+              "甲斐｜91595133"
+            ],
+            "batter": "安田｜81885136",
+            "runners": [
+              "和田｜33335136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
           }
         ]
       },
@@ -359,6 +450,29 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
+            "title": "9月4日（金） ソフトバンク vs. ロッテ 10回戦",
+            "home": "H",
+            "road": "M",
+            "gameNo": "10",
+            "inning": "t7",
+            "batter": "安田 尚憲｜1700092",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔和田｜1700098〕 :積極的に初球から走って盗塁成功 2,3塁",
+            "pitcher": "嘉弥真｜1100119",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "和田｜1700098"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
           }
         ],
         "status": false
