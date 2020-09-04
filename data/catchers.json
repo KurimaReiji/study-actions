@@ -16,6 +16,14 @@
     "league": "pacific"
   },
   {
+    "catcher": "田村",
+    "csPct": "0.211",
+    "cs": 8,
+    "sb": 30,
+    "team": "M",
+    "league": "pacific"
+  },
+  {
     "catcher": "若月",
     "csPct": "0.243",
     "cs": 9,
@@ -24,11 +32,11 @@
     "league": "pacific"
   },
   {
-    "catcher": "田村",
-    "csPct": "0.222",
-    "cs": 8,
-    "sb": 28,
-    "team": "M",
+    "catcher": "甲斐",
+    "csPct": "0.314",
+    "cs": 11,
+    "sb": 24,
+    "team": "H",
     "league": "pacific"
   },
   {
@@ -37,14 +45,6 @@
     "cs": 12,
     "sb": 20,
     "team": "E",
-    "league": "pacific"
-  },
-  {
-    "catcher": "甲斐",
-    "csPct": "0.323",
-    "cs": 10,
-    "sb": 21,
-    "team": "H",
     "league": "pacific"
   },
   {
@@ -65,9 +65,9 @@
   },
   {
     "catcher": "梅野",
-    "csPct": "0.500",
+    "csPct": "0.480",
     "cs": 12,
-    "sb": 12,
+    "sb": 13,
     "team": "T",
     "league": "central"
   },
@@ -89,9 +89,9 @@
   },
   {
     "catcher": "大城",
-    "csPct": "0.278",
+    "csPct": "0.263",
     "cs": 5,
-    "sb": 13,
+    "sb": 14,
     "team": "G",
     "league": "central"
   },
@@ -101,6 +101,14 @@
     "cs": 4,
     "sb": 14,
     "team": "M",
+    "league": "pacific"
+  },
+  {
+    "catcher": "足立",
+    "csPct": "0.176",
+    "cs": 3,
+    "sb": 14,
+    "team": "E",
     "league": "pacific"
   },
   {
@@ -128,18 +136,10 @@
     "league": "central"
   },
   {
-    "catcher": "足立",
-    "csPct": "0.214",
-    "cs": 3,
-    "sb": 11,
-    "team": "E",
-    "league": "pacific"
-  },
-  {
     "catcher": "炭谷",
-    "csPct": "0.400",
+    "csPct": "0.364",
     "cs": 4,
-    "sb": 6,
+    "sb": 7,
     "team": "G",
     "league": "central"
   },
@@ -240,6 +240,14 @@
     "league": "central"
   },
   {
+    "catcher": "中村",
+    "csPct": "0.200",
+    "cs": 1,
+    "sb": 4,
+    "team": "S",
+    "league": "central"
+  },
+  {
     "catcher": "佐藤",
     "csPct": "0.500",
     "cs": 2,
@@ -278,14 +286,6 @@
     "sb": 4,
     "team": "H",
     "league": "pacific"
-  },
-  {
-    "catcher": "中村",
-    "csPct": "-",
-    "cs": 0,
-    "sb": 4,
-    "team": "S",
-    "league": "central"
   },
   {
     "catcher": "坂本",
