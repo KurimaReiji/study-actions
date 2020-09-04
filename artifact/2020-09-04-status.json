@@ -234,7 +234,7 @@
       "id": "F-L-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0904/f-l-13/index.html",
-        "status": "（札幌ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
@@ -544,8 +544,147 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
+            "title": "9月4日（金） ソフトバンク vs. ロッテ 10回戦",
+            "home": "H",
+            "road": "M",
+            "gameNo": "10",
+            "inning": "b3",
+            "batter": "上林 誠知｜1300079",
+            "state": "一死1塁",
+            "text": "一塁走者 〔周東｜1700135〕 :すかさず初球から走って盗塁成功 2塁",
+            "pitcher": "石川｜1300050",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
+            "title": "9月4日（金） ソフトバンク vs. ロッテ 10回戦",
+            "home": "H",
+            "road": "M",
+            "gameNo": "10",
+            "inning": "t3",
+            "batter": "清田 育宏｜1000016",
+            "state": "二死1塁",
+            "text": "一塁走者 〔藤岡｜1700093〕 :盗塁成功 2塁",
+            "pitcher": "ムーア｜1900153",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "藤岡｜1700093"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
+            "title": "9月4日（金） ソフトバンク vs. ロッテ 10回戦",
+            "home": "H",
+            "road": "M",
+            "gameNo": "10",
+            "inning": "t5",
+            "batter": "加藤 翔平｜1200097",
+            "state": "無死1塁",
+            "text": "一塁走者 〔藤岡｜1700093〕 :すかさず初球から走って盗塁成功 2塁",
+            "pitcher": "ムーア｜1900153",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "藤岡｜1700093"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
+            "title": "9月4日（金） ソフトバンク vs. ロッテ 10回戦",
+            "home": "H",
+            "road": "M",
+            "gameNo": "10",
+            "inning": "t7",
+            "batter": "安田 尚憲｜1700092",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔和田｜1700098〕 :積極的に初球から走って盗塁成功 2,3塁",
+            "pitcher": "嘉弥真｜1100119",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "和田｜1700098"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
+            "title": "9月4日（金） ソフトバンク vs. ロッテ 10回戦",
+            "home": "H",
+            "road": "M",
+            "gameNo": "10",
+            "inning": "b8",
+            "batter": "中村 晃｜800081",
+            "state": "二死1塁",
+            "text": "一塁走者 〔周東｜1700135〕 :盗塁成功 2塁",
+            "pitcher": "ハーマン｜1600091",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-04",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090406/text",
+            "title": "9月4日（金） ソフトバンク vs. ロッテ 10回戦",
+            "home": "H",
+            "road": "M",
+            "gameNo": "10",
+            "inning": "t9",
+            "batter": "安田 尚憲｜1700092",
+            "state": "無死1塁",
+            "text": "一塁走者 〔和田｜1700098〕 :盗塁を試みるもアウト 1アウト",
+            "pitcher": "加治屋｜1300076",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "和田｜1700098"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     }
   ],
