@@ -5,18 +5,18 @@
       "league": "Pacific",
       "name": "Nippon-Ham Fighters",
       "batting": {
-        "sb": 34,
+        "sb": 35,
         "cs": 12,
-        "csb": 33,
+        "csb": 34,
         "ccs": 9,
-        "sbPct": "0.786"
+        "sbPct": "0.791"
       },
       "fielding": {
-        "sb": 64,
+        "sb": 65,
         "cs": 22,
-        "csb": 62,
+        "csb": 63,
         "ccs": 19,
-        "csPct": "0.235"
+        "csPct": "0.232"
       }
     },
     {
@@ -25,17 +25,17 @@
       "name": "Lotte Marines",
       "batting": {
         "sb": 55,
-        "cs": 20,
+        "cs": 21,
         "csb": 53,
-        "ccs": 17,
-        "sbPct": "0.757"
+        "ccs": 18,
+        "sbPct": "0.746"
       },
       "fielding": {
         "sb": 48,
-        "cs": 17,
+        "cs": 18,
         "csb": 46,
-        "ccs": 14,
-        "csPct": "0.233"
+        "ccs": 15,
+        "csPct": "0.246"
       }
     },
     {
@@ -43,18 +43,18 @@
       "league": "Pacific",
       "name": "Seibu Lions",
       "batting": {
-        "sb": 40,
+        "sb": 41,
         "cs": 24,
-        "csb": 40,
+        "csb": 41,
         "ccs": 20,
-        "sbPct": "0.667"
+        "sbPct": "0.672"
       },
       "fielding": {
-        "sb": 40,
+        "sb": 41,
         "cs": 21,
-        "csb": 40,
+        "csb": 41,
         "ccs": 20,
-        "csPct": "0.333"
+        "csPct": "0.328"
       }
     },
     {
@@ -81,11 +81,11 @@
       "league": "Central",
       "name": "Chunichi Dragons",
       "batting": {
-        "sb": 17,
+        "sb": 18,
         "cs": 11,
-        "csb": 16,
+        "csb": 17,
         "ccs": 9,
-        "sbPct": "0.640"
+        "sbPct": "0.654"
       },
       "fielding": {
         "sb": 39,
@@ -100,11 +100,11 @@
       "league": "Pacific",
       "name": "ORIX Buffaloes",
       "batting": {
-        "sb": 52,
+        "sb": 53,
         "cs": 24,
-        "csb": 51,
+        "csb": 52,
         "ccs": 22,
-        "sbPct": "0.699"
+        "sbPct": "0.703"
       },
       "fielding": {
         "sb": 40,
@@ -120,17 +120,17 @@
       "name": "SoftBank Hawks",
       "batting": {
         "sb": 44,
-        "cs": 17,
+        "cs": 18,
         "csb": 44,
-        "ccs": 14,
-        "sbPct": "0.759"
+        "ccs": 15,
+        "sbPct": "0.746"
       },
       "fielding": {
         "sb": 38,
-        "cs": 17,
+        "cs": 18,
         "csb": 38,
-        "ccs": 12,
-        "csPct": "0.240"
+        "ccs": 13,
+        "csPct": "0.255"
       }
     },
     {
@@ -145,11 +145,11 @@
         "sbPct": "0.769"
       },
       "fielding": {
-        "sb": 37,
+        "sb": 38,
         "cs": 17,
-        "csb": 36,
+        "csb": 37,
         "ccs": 16,
-        "csPct": "0.308"
+        "csPct": "0.302"
       }
     },
     {
@@ -164,11 +164,11 @@
         "sbPct": "0.583"
       },
       "fielding": {
-        "sb": 33,
+        "sb": 34,
         "cs": 12,
-        "csb": 32,
+        "csb": 33,
         "ccs": 7,
-        "csPct": "0.179"
+        "csPct": "0.175"
       }
     },
     {
@@ -233,16 +233,16 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 378,
-        "sb": 267,
-        "cs": 111,
-        "sbPct": "0.735"
+        "attempt": 383,
+        "sb": 270,
+        "cs": 113,
+        "sbPct": "0.733"
       },
       "fielding": {
-        "attempt": 378,
-        "sb": 267,
-        "cs": 111,
-        "csPct": "0.265"
+        "attempt": 383,
+        "sb": 270,
+        "cs": 113,
+        "csPct": "0.267"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 275,
-        "sb": 176,
+        "attempt": 276,
+        "sb": 177,
         "cs": 99,
-        "sbPct": "0.665"
+        "sbPct": "0.667"
       },
       "fielding": {
-        "attempt": 275,
-        "sb": 176,
+        "attempt": 276,
+        "sb": 177,
         "cs": 99,
-        "csPct": "0.335"
+        "csPct": "0.333"
       }
     }
   ],
-  "updated": "2020-09-04"
+  "updated": "2020-09-05"
 }
