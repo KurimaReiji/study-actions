@@ -4,7 +4,7 @@
       "id": "S-D-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0905/s-d-14/index.html",
-        "status": "（神　宮）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0905/s-d-14/playbyplay.html",
@@ -45,7 +45,7 @@
             "batter": "高橋 周平｜1100069",
             "state": "無死1塁",
             "text": "空振り三振に倒れるもスタートを切っていた一塁走者 〔ビシエド｜1600021〕 が盗塁成功 1アウト2塁",
-            "pitcher": "吉田大喜｜1900025",
+            "pitcher": "清水｜1800033",
             "catcher": "中村｜900044",
             "credit": 1,
             "sb": "SB",
@@ -58,20 +58,20 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-G-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0905/t-g-12/index.html",
-        "status": "（甲子園）\n                    2回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090502/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
