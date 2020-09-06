@@ -12,11 +12,11 @@
         "sbPct": "0.791"
       },
       "fielding": {
-        "sb": 65,
-        "cs": 22,
-        "csb": 63,
-        "ccs": 19,
-        "csPct": "0.232"
+        "sb": 67,
+        "cs": 23,
+        "csb": 65,
+        "ccs": 20,
+        "csPct": "0.235"
       }
     },
     {
@@ -43,10 +43,10 @@
       "league": "Pacific",
       "name": "Seibu Lions",
       "batting": {
-        "sb": 41,
-        "cs": 24,
-        "csb": 41,
-        "ccs": 20,
+        "sb": 43,
+        "cs": 25,
+        "csb": 43,
+        "ccs": 21,
         "sbPct": "0.672"
       },
       "fielding": {
@@ -233,15 +233,15 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 383,
-        "sb": 270,
-        "cs": 113,
+        "attempt": 386,
+        "sb": 272,
+        "cs": 114,
         "sbPct": "0.733"
       },
       "fielding": {
-        "attempt": 383,
-        "sb": 270,
-        "cs": 113,
+        "attempt": 386,
+        "sb": 272,
+        "cs": 114,
         "csPct": "0.267"
       }
     },
@@ -263,5 +263,5 @@
       }
     }
   ],
-  "updated": "2020-09-05"
+  "updated": "2020-09-06"
 }

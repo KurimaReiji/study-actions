@@ -9,9 +9,9 @@
   },
   {
     "catcher": "宇佐見",
-    "csPct": "0.300",
+    "csPct": "0.293",
     "cs": 12,
-    "sb": 28,
+    "sb": 29,
     "team": "F",
     "league": "pacific"
   },
@@ -40,19 +40,19 @@
     "league": "pacific"
   },
   {
+    "catcher": "清水",
+    "csPct": "0.212",
+    "cs": 7,
+    "sb": 26,
+    "team": "F",
+    "league": "pacific"
+  },
+  {
     "catcher": "太田",
     "csPct": "0.375",
     "cs": 12,
     "sb": 20,
     "team": "E",
-    "league": "pacific"
-  },
-  {
-    "catcher": "清水",
-    "csPct": "0.194",
-    "cs": 6,
-    "sb": 25,
-    "team": "F",
     "league": "pacific"
   },
   {
