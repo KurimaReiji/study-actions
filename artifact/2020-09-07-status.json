@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "T-G-13",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0907/t-g-13/index.html",
+        "status": "（甲子園）\n                    5回表",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020090701/text",
+        "attempts": [],
+        "status": false
+      }
+    }
+  ],
+  "numOfGames": 1
+}
