@@ -290,6 +290,29 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-08",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090805/text",
+            "title": "9月8日（火） 西武 vs. オリックス 13回戦",
+            "home": "L",
+            "road": "B",
+            "gameNo": "13",
+            "inning": "b6",
+            "batter": "栗山 巧｜12102",
+            "state": "一死1塁",
+            "text": "一塁走者 〔源田｜1600129〕 :盗塁成功 2塁",
+            "pitcher": "山本｜1600153",
+            "catcher": "伏見｜1200100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "源田｜1600129"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -300,11 +323,59 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0908/m-f-13/index.html",
         "status": "（ZOZOマリン）\n                    5回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0908/m-f-13/playbyplay.html",
+            "date": "2020-09-08",
+            "home": "M",
+            "road": "F",
+            "inning": "b5",
+            "pitcher": "上沢｜51355135",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "和田｜33335136",
+            "runners": [
+              "藤岡｜41645136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔藤岡｜41645136〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090806/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-09-08",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090806/text",
+            "title": "9月8日（火） ロッテ vs. 日本ハム 13回戦",
+            "home": "M",
+            "road": "F",
+            "gameNo": "13",
+            "inning": "b5",
+            "batter": "和田 康士朗｜1700098",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔藤岡｜1700093〕 :盗塁成功 2,3塁",
+            "pitcher": "上沢｜1100099",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "藤岡｜1700093"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          }
+        ],
         "status": false
       }
     }
