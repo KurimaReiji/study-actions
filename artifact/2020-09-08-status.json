@@ -240,7 +240,7 @@
       "id": "L-B-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0908/l-b-13/index.html",
-        "status": "（メットライフ）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0908/l-b-13/playbyplay.html",
@@ -340,7 +340,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
