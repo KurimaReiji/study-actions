@@ -5,11 +5,60 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0908/db-t-13/index.html",
         "status": "（横　浜）\n                    6回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0908/db-t-13/playbyplay.html",
+            "date": "2020-09-08",
+            "home": "DB",
+            "road": "T",
+            "inning": "t9",
+            "pitcher": "三嶋｜41245137",
+            "catchers": [
+              "嶺井｜71475139",
+              "戸柱｜41245132"
+            ],
+            "batter": "福留｜61963888",
+            "runners": [
+              "近本｜71075138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔近本｜71075138〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090801/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-09-08",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090801/text",
+            "title": "9月8日（火） ＤｅＮＡ vs. 阪神 13回戦",
+            "home": "DB",
+            "road": "T",
+            "gameNo": "13",
+            "inning": "t9",
+            "batter": "福留 孝介｜11771",
+            "state": "一死1塁",
+            "text": "空振り三振に倒れるもスタートを切っていた一塁走者 〔近本｜1800065〕 が盗塁成功 2アウト2塁",
+            "pitcher": "三嶋｜1200049",
+            "catcher": "戸柱｜1500064",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "近本｜1800065"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
@@ -17,7 +66,7 @@
       "id": "D-G-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0908/d-g-16/index.html",
-        "status": "（ナゴヤドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0908/d-g-16/playbyplay.html",
@@ -71,27 +120,27 @@
             "RoB": "12-"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-S-09",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0908/c-s-09/index.html",
-        "status": "（マツダスタジアム）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090803/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "E-H-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0908/e-h-13/index.html",
-        "status": "（楽天生命パーク）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0908/e-h-13/playbyplay.html",
@@ -102,7 +151,8 @@
             "pitcher": "辛島｜01505118",
             "catchers": [
               "足立｜41145132",
-              "下妻｜01705137"
+              "下妻｜01705137",
+              "石原｜61165134"
             ],
             "batter": "甲斐｜91595133",
             "runners": [
@@ -126,7 +176,8 @@
             "pitcher": "辛島｜01505118",
             "catchers": [
               "足立｜41145132",
-              "下妻｜01705137"
+              "下妻｜01705137",
+              "石原｜61165134"
             ],
             "batter": "柳田｜31835133",
             "runners": [
@@ -233,7 +284,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -347,7 +398,7 @@
       "id": "M-F-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0908/m-f-13/index.html",
-        "status": "（ZOZOマリン）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0908/m-f-13/playbyplay.html",
@@ -395,6 +446,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0908/m-f-13/playbyplay.html",
+            "date": "2020-09-08",
+            "home": "M",
+            "road": "F",
+            "inning": "b8",
+            "pitcher": "堀｜51855134",
+            "catchers": [
+              "清水｜61965130",
+              "宇佐見｜61365132"
+            ],
+            "batter": "中村奨｜51455130",
+            "runners": [
+              "岡｜11515139"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔岡｜11515139〕）二塁盗塁失敗"
           }
         ]
       },
@@ -446,9 +521,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-08",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090806/text",
+            "title": "9月8日（火） ロッテ vs. 日本ハム 13回戦",
+            "home": "M",
+            "road": "F",
+            "gameNo": "13",
+            "inning": "b8",
+            "batter": "中村 奨吾｜1400188",
+            "state": "二死1塁",
+            "text": "一塁走者 〔岡｜1300044〕 :すかさず初球から盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "堀｜1600133",
+            "catcher": "宇佐見｜1500049",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "岡｜1300044"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
