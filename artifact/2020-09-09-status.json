@@ -218,7 +218,7 @@
       "id": "C-S-10",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0909/c-s-10/index.html",
-        "status": "（マツダスタジアム）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0909/c-s-10/playbyplay.html",
@@ -412,7 +412,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
