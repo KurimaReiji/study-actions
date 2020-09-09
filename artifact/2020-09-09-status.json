@@ -28,12 +28,58 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔俊介｜51255131〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0909/db-t-14/playbyplay.html",
+            "date": "2020-09-09",
+            "home": "DB",
+            "road": "T",
+            "inning": "b6",
+            "pitcher": "能見｜61065110",
+            "catchers": [
+              "梅野｜21325139"
+            ],
+            "batter": "梶谷｜61565114",
+            "runners": [
+              "戸柱｜41245132"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔戸柱｜41245132〕）二塁盗塁失敗"
           }
         ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090901/text",
         "attempts": [
+          {
+            "date": "2020-09-09",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090901/text",
+            "title": "9月9日（水） ＤｅＮＡ vs. 阪神 14回戦",
+            "home": "DB",
+            "road": "T",
+            "gameNo": "14",
+            "inning": "b6",
+            "batter": "梶谷 隆幸｜700027",
+            "state": "二死1塁",
+            "text": "一塁走者 〔戸柱｜1500064〕 :積極的に初球から盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "能見｜500038",
+            "catcher": "梅野｜1300073",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "戸柱｜1500064"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          },
           {
             "date": "2020-09-09",
             "url": "https://baseball.yahoo.co.jp/npb/game/2020090901/text",
@@ -307,7 +353,31 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0909/m-f-14/index.html",
         "status": "（ZOZOマリン）\n                    5回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0909/m-f-14/playbyplay.html",
+            "date": "2020-09-09",
+            "home": "M",
+            "road": "F",
+            "inning": "b6",
+            "pitcher": "加藤｜41545132",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "中村奨｜51455130",
+            "runners": [
+              "菅野｜41945136"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔菅野｜41945136〕）二塁盗塁失敗"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090906/text",
