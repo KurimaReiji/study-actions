@@ -12,11 +12,11 @@
         "sbPct": "0.795"
       },
       "fielding": {
-        "sb": 68,
-        "cs": 24,
-        "csb": 66,
-        "ccs": 21,
-        "csPct": "0.241"
+        "sb": 69,
+        "cs": 25,
+        "csb": 67,
+        "ccs": 22,
+        "csPct": "0.247"
       }
     },
     {
@@ -24,11 +24,11 @@
       "league": "Pacific",
       "name": "Lotte Marines",
       "batting": {
-        "sb": 56,
-        "cs": 22,
-        "csb": 54,
-        "ccs": 19,
-        "sbPct": "0.740"
+        "sb": 57,
+        "cs": 23,
+        "csb": 55,
+        "ccs": 20,
+        "sbPct": "0.733"
       },
       "fielding": {
         "sb": 49,
@@ -39,15 +39,34 @@
       }
     },
     {
+      "team": "DB",
+      "league": "Central",
+      "name": "DeNA Baystars",
+      "batting": {
+        "sb": 14,
+        "cs": 9,
+        "csb": 14,
+        "ccs": 8,
+        "sbPct": "0.636"
+      },
+      "fielding": {
+        "sb": 39,
+        "cs": 24,
+        "csb": 36,
+        "ccs": 22,
+        "csPct": "0.379"
+      }
+    },
+    {
       "team": "L",
       "league": "Pacific",
       "name": "Seibu Lions",
       "batting": {
-        "sb": 45,
+        "sb": 46,
         "cs": 25,
-        "csb": 45,
+        "csb": 46,
         "ccs": 21,
-        "sbPct": "0.682"
+        "sbPct": "0.687"
       },
       "fielding": {
         "sb": 41,
@@ -58,34 +77,15 @@
       }
     },
     {
-      "team": "DB",
-      "league": "Central",
-      "name": "DeNA Baystars",
-      "batting": {
-        "sb": 13,
-        "cs": 8,
-        "csb": 13,
-        "ccs": 7,
-        "sbPct": "0.650"
-      },
-      "fielding": {
-        "sb": 39,
-        "cs": 23,
-        "csb": 36,
-        "ccs": 21,
-        "csPct": "0.368"
-      }
-    },
-    {
       "team": "D",
       "league": "Central",
       "name": "Chunichi Dragons",
       "batting": {
         "sb": 18,
-        "cs": 11,
+        "cs": 12,
         "csb": 17,
-        "ccs": 9,
-        "sbPct": "0.654"
+        "ccs": 10,
+        "sbPct": "0.630"
       },
       "fielding": {
         "sb": 39,
@@ -107,11 +107,11 @@
         "sbPct": "0.703"
       },
       "fielding": {
-        "sb": 42,
+        "sb": 43,
         "cs": 17,
-        "csb": 41,
+        "csb": 42,
         "ccs": 13,
-        "csPct": "0.241"
+        "csPct": "0.236"
       }
     },
     {
@@ -157,18 +157,18 @@
       "league": "Central",
       "name": "Yakult Swallows",
       "batting": {
-        "sb": 39,
+        "sb": 41,
         "cs": 29,
-        "csb": 35,
+        "csb": 37,
         "ccs": 25,
-        "sbPct": "0.583"
+        "sbPct": "0.597"
       },
       "fielding": {
-        "sb": 34,
-        "cs": 12,
-        "csb": 33,
-        "ccs": 7,
-        "csPct": "0.175"
+        "sb": 35,
+        "cs": 13,
+        "csb": 34,
+        "ccs": 8,
+        "csPct": "0.190"
       }
     },
     {
@@ -176,18 +176,18 @@
       "league": "Central",
       "name": "Hiroshima Carp",
       "batting": {
-        "sb": 25,
-        "cs": 18,
-        "csb": 24,
-        "ccs": 16,
-        "sbPct": "0.600"
+        "sb": 26,
+        "cs": 19,
+        "csb": 25,
+        "ccs": 17,
+        "sbPct": "0.595"
       },
       "fielding": {
-        "sb": 22,
+        "sb": 24,
         "cs": 16,
-        "csb": 22,
+        "csb": 24,
         "ccs": 12,
-        "csPct": "0.353"
+        "csPct": "0.333"
       }
     },
     {
@@ -196,17 +196,17 @@
       "name": "Hanshin Tigers",
       "batting": {
         "sb": 45,
-        "cs": 18,
+        "cs": 19,
         "csb": 43,
-        "ccs": 14,
-        "sbPct": "0.754"
+        "ccs": 15,
+        "sbPct": "0.741"
       },
       "fielding": {
-        "sb": 21,
-        "cs": 15,
-        "csb": 19,
-        "ccs": 14,
-        "csPct": "0.424"
+        "sb": 22,
+        "cs": 16,
+        "csb": 20,
+        "ccs": 15,
+        "csPct": "0.429"
       }
     },
     {
@@ -222,10 +222,10 @@
       },
       "fielding": {
         "sb": 23,
-        "cs": 12,
+        "cs": 13,
         "csb": 22,
-        "ccs": 11,
-        "csPct": "0.333"
+        "ccs": 12,
+        "csPct": "0.353"
       }
     },
     {
@@ -233,15 +233,15 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 394,
-        "sb": 277,
-        "cs": 117,
+        "attempt": 397,
+        "sb": 279,
+        "cs": 118,
         "sbPct": "0.730"
       },
       "fielding": {
-        "attempt": 394,
-        "sb": 277,
-        "cs": 117,
+        "attempt": 397,
+        "sb": 279,
+        "cs": 118,
         "csPct": "0.270"
       }
     },
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 278,
-        "sb": 178,
-        "cs": 100,
-        "sbPct": "0.665"
+        "attempt": 286,
+        "sb": 182,
+        "cs": 104,
+        "sbPct": "0.660"
       },
       "fielding": {
-        "attempt": 278,
-        "sb": 178,
-        "cs": 100,
-        "csPct": "0.335"
+        "attempt": 286,
+        "sb": 182,
+        "cs": 104,
+        "csPct": "0.340"
       }
     }
   ],
-  "updated": "2020-09-08"
+  "updated": "2020-09-09"
 }
