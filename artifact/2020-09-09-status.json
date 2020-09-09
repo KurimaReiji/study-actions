@@ -4,7 +4,7 @@
       "id": "DB-T-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0909/db-t-14/index.html",
-        "status": "（横　浜）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0909/db-t-14/playbyplay.html",
@@ -51,6 +51,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔戸柱｜41245132〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0909/db-t-14/playbyplay.html",
+            "date": "2020-09-09",
+            "home": "DB",
+            "road": "T",
+            "inning": "b8",
+            "pitcher": "小川｜11715151",
+            "catchers": [
+              "梅野｜21325139"
+            ],
+            "batter": "戸柱｜41245132",
+            "runners": [
+              "乙坂｜41345135"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔乙坂｜41345135〕）二塁盗塁成功"
           }
         ]
       },
@@ -127,14 +150,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-G-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0909/d-g-17/index.html",
-        "status": "（ナゴヤドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0909/d-g-17/playbyplay.html",
@@ -163,8 +186,32 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090902/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-09-09",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090902/text",
+            "title": "9月9日（水） 中日 vs. 巨人 17回戦",
+            "home": "D",
+            "road": "G",
+            "gameNo": "17",
+            "inning": "b3",
+            "batter": "平田 良介｜600004",
+            "state": "一死1塁",
+            "text": "一塁走者 〔大島｜900410〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "田口｜1300029",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "大島｜900410"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
@@ -242,6 +289,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔山崎｜33135132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0909/c-s-10/playbyplay.html",
+            "date": "2020-09-09",
+            "home": "C",
+            "road": "S",
+            "inning": "b7",
+            "pitcher": "マクガフ｜43345138",
+            "catchers": [
+              "中村｜51255118",
+              "西田｜41245133"
+            ],
+            "batter": "菊池涼｜61565135",
+            "runners": [
+              "大盛｜21325138"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔大盛｜21325138〕）二塁盗塁失敗"
           }
         ]
       },
@@ -316,6 +387,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-09",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020090903/text",
+            "title": "9月9日（水） 広島 vs. ヤクルト 10回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "10",
+            "inning": "b7",
+            "batter": "菊池 涼介｜1100082",
+            "state": "一死1塁",
+            "text": "一塁走者 〔大盛｜1800079〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "マクガフ｜1800142",
+            "catcher": "西田｜1000134",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "大盛｜1800079"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -325,20 +419,20 @@
       "id": "E-H-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0909/e-h-14/index.html",
-        "status": "（楽天生命パーク）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020090904/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-B-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0909/l-b-14/index.html",
-        "status": "（メットライフ）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0909/l-b-14/playbyplay.html",
@@ -348,7 +442,8 @@
             "inning": "b7",
             "pitcher": "吉田凌｜13315132",
             "catchers": [
-              "若月｜41645139"
+              "若月｜41645139",
+              "山崎勝｜71475113"
             ],
             "batter": "金子｜01505137",
             "runners": [
@@ -392,14 +487,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-F-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0909/m-f-14/index.html",
-        "status": "（ZOZOマリン）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0909/m-f-14/playbyplay.html",
@@ -499,7 +594,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
