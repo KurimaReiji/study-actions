@@ -58,7 +58,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -197,6 +197,31 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔曽根｜51955139〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0910/c-s-11/playbyplay.html",
+            "date": "2020-09-10",
+            "home": "C",
+            "road": "S",
+            "inning": "t9",
+            "pitcher": "フランスア｜53955136",
+            "catchers": [
+              "坂倉｜11915134",
+              "會澤｜31135114",
+              "白濱｜41745119"
+            ],
+            "batter": "中山｜21225138",
+            "runners": [
+              "上田｜71375114"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔上田｜71375114〕）二塁盗塁成功"
           }
         ]
       },
@@ -225,9 +250,32 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-10",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091003/text",
+            "title": "9月10日（木） 広島 vs. ヤクルト 11回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "11",
+            "inning": "t9",
+            "batter": "中山 翔太｜1800034",
+            "state": "二死1塁",
+            "text": "一塁走者 〔上田｜700020〕 :盗塁成功 2塁",
+            "pitcher": "フランスア｜1600035",
+            "catcher": "白濱｜400006",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "上田｜700020"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -396,7 +444,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -457,7 +505,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
