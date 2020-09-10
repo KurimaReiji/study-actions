@@ -282,7 +282,7 @@
       "id": "E-H-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0910/e-h-15/index.html",
-        "status": "（楽天生命パーク）\n                    2回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0910/e-h-15/playbyplay.html",
@@ -383,7 +383,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
