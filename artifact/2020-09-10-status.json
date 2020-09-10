@@ -315,7 +315,8 @@
             "inning": "t4",
             "pitcher": "松井｜81285139",
             "catchers": [
-              "足立｜41145132"
+              "足立｜41145132",
+              "石原｜61165134"
             ],
             "batter": "甲斐｜91595133",
             "runners": [
@@ -334,54 +335,7 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091004/text",
-        "attempts": [
-          {
-            "date": "2020-09-10",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020091004/text",
-            "title": "9月10日（木） 楽天 vs. ソフトバンク 15回戦",
-            "home": "E",
-            "road": "H",
-            "gameNo": "15",
-            "inning": "b1",
-            "batter": "鈴木 大地｜1100103",
-            "state": "無死1塁",
-            "text": "一塁走者 〔小深田｜1900112〕 :盗塁を試みるもアウト 1アウト",
-            "pitcher": "東浜｜1200106",
-            "catcher": "甲斐｜1000176",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "小深田｜1900112"
-            ],
-            "base": 2,
-            "outs": 0,
-            "RoB": "1--"
-          },
-          {
-            "date": "2020-09-10",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020091004/text",
-            "title": "9月10日（木） 楽天 vs. ソフトバンク 15回戦",
-            "home": "E",
-            "road": "H",
-            "gameNo": "15",
-            "inning": "t4",
-            "batter": "甲斐 拓也｜1000176",
-            "state": "一死1塁",
-            "text": "一塁走者 〔栗原｜1400127〕 :盗塁を試みるもアウト 2アウト",
-            "pitcher": "松井｜1300084",
-            "catcher": "足立｜1600006",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "栗原｜1400127"
-            ],
-            "base": 2,
-            "outs": 1,
-            "RoB": "1--"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
