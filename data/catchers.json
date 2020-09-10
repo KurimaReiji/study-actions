@@ -24,19 +24,19 @@
     "league": "pacific"
   },
   {
-    "catcher": "甲斐",
-    "csPct": "0.368",
-    "cs": 14,
-    "sb": 24,
-    "team": "H",
-    "league": "pacific"
-  },
-  {
     "catcher": "若月",
     "csPct": "0.237",
     "cs": 9,
     "sb": 29,
     "team": "B",
+    "league": "pacific"
+  },
+  {
+    "catcher": "甲斐",
+    "csPct": "0.351",
+    "cs": 13,
+    "sb": 24,
+    "team": "H",
     "league": "pacific"
   },
   {
