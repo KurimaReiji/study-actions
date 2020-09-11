@@ -102,6 +102,29 @@
             "RoB": "-2-",
             "credit": "1",
             "text": "1アウト｜2塁｜｜｜（走者・〔近本｜71075138〕）三塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0911/t-c-15/playbyplay.html",
+            "date": "2020-09-11",
+            "home": "T",
+            "road": "C",
+            "inning": "b8",
+            "pitcher": "矢崎｜71575134",
+            "catchers": [
+              "坂倉｜11915134"
+            ],
+            "batter": "正隨｜71975138",
+            "runners": [
+              "糸原｜81185134"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔糸原｜81185134〕）二塁盗塁失敗"
           }
         ]
       },
@@ -130,6 +153,29 @@
             "base": 3,
             "outs": 1,
             "RoB": "-2-"
+          },
+          {
+            "date": "2020-09-11",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091103/text",
+            "title": "9月11日（金） 阪神 vs. 広島 15回戦",
+            "home": "T",
+            "road": "C",
+            "gameNo": "15",
+            "inning": "b8",
+            "batter": "大山 悠輔｜1600113",
+            "state": "一死1塁",
+            "text": "空振り三振！一塁走者 〔糸原｜1600117〕 も盗塁失敗でダブルプレー 3アウトチェンジ",
+            "pitcher": "矢崎｜1600121",
+            "catcher": "坂倉｜1600124",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "糸原｜1600117"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -235,7 +281,7 @@
       "id": "H-L-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0911/h-l-12/index.html",
-        "status": "（PayPayドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0911/h-l-12/playbyplay.html",
@@ -335,7 +381,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
