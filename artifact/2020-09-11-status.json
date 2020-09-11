@@ -281,13 +281,13 @@
       "id": "E-F-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0911/e-f-16/index.html",
-        "status": "（楽天生命パーク）\n                    4回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091104/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
