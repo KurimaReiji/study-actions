@@ -1,9 +1,9 @@
 [
   {
     "catcher": "森",
-    "csPct": "0.345",
+    "csPct": "0.333",
     "cs": 19,
-    "sb": 36,
+    "sb": 38,
     "team": "L",
     "league": "pacific"
   },
@@ -49,9 +49,9 @@
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.394",
+    "csPct": "0.382",
     "cs": 13,
-    "sb": 20,
+    "sb": 21,
     "team": "DB",
     "league": "central"
   },
@@ -88,6 +88,14 @@
     "league": "central"
   },
   {
+    "catcher": "大城",
+    "csPct": "0.286",
+    "cs": 6,
+    "sb": 15,
+    "team": "G",
+    "league": "central"
+  },
+  {
     "catcher": "足立",
     "csPct": "0.238",
     "cs": 5,
@@ -96,12 +104,12 @@
     "league": "pacific"
   },
   {
-    "catcher": "大城",
-    "csPct": "0.300",
-    "cs": 6,
-    "sb": 14,
-    "team": "G",
-    "league": "central"
+    "catcher": "柿沼",
+    "csPct": "0.211",
+    "cs": 4,
+    "sb": 15,
+    "team": "M",
+    "league": "pacific"
   },
   {
     "catcher": "會澤",
@@ -110,14 +118,6 @@
     "sb": 13,
     "team": "C",
     "league": "central"
-  },
-  {
-    "catcher": "柿沼",
-    "csPct": "0.222",
-    "cs": 4,
-    "sb": 14,
-    "team": "M",
-    "league": "pacific"
   },
   {
     "catcher": "A.マルティネス",
@@ -144,12 +144,28 @@
     "league": "central"
   },
   {
+    "catcher": "坂倉",
+    "csPct": "0.364",
+    "cs": 4,
+    "sb": 7,
+    "team": "C",
+    "league": "central"
+  },
+  {
     "catcher": "郡司",
     "csPct": "0.400",
     "cs": 4,
     "sb": 6,
     "team": "D",
     "league": "central"
+  },
+  {
+    "catcher": "伏見",
+    "csPct": "0.300",
+    "cs": 3,
+    "sb": 7,
+    "team": "B",
+    "league": "pacific"
   },
   {
     "catcher": "松井雅",
@@ -165,22 +181,6 @@
     "cs": 1,
     "sb": 9,
     "team": "H",
-    "league": "pacific"
-  },
-  {
-    "catcher": "坂倉",
-    "csPct": "0.333",
-    "cs": 3,
-    "sb": 6,
-    "team": "C",
-    "league": "central"
-  },
-  {
-    "catcher": "伏見",
-    "csPct": "0.250",
-    "cs": 2,
-    "sb": 6,
-    "team": "B",
     "league": "pacific"
   },
   {
@@ -248,6 +248,14 @@
     "league": "central"
   },
   {
+    "catcher": "井野",
+    "csPct": "-",
+    "cs": 0,
+    "sb": 5,
+    "team": "S",
+    "league": "central"
+  },
+  {
     "catcher": "佐藤",
     "csPct": "0.500",
     "cs": 2,
@@ -270,14 +278,6 @@
     "sb": 4,
     "team": "F",
     "league": "pacific"
-  },
-  {
-    "catcher": "井野",
-    "csPct": "-",
-    "cs": 0,
-    "sb": 4,
-    "team": "S",
-    "league": "central"
   },
   {
     "catcher": "九鬼",
