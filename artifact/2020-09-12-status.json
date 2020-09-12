@@ -65,13 +65,13 @@
       "id": "DB-D-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0912/db-d-14/index.html",
-        "status": "（横　浜）\n                    7回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091202/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
