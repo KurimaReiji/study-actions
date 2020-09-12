@@ -28,6 +28,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔松原｜21825134〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0912/g-s-15/playbyplay.html",
+            "date": "2020-09-12",
+            "home": "G",
+            "road": "S",
+            "inning": "b7",
+            "pitcher": "近藤｜91795115",
+            "catchers": [
+              "西田｜41245133"
+            ],
+            "batter": "大城｜21325136",
+            "runners": [
+              "吉川大｜21825133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔吉川大｜21825133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0912/g-s-15/playbyplay.html",
+            "date": "2020-09-12",
+            "home": "G",
+            "road": "S",
+            "inning": "b8",
+            "pitcher": "長谷川｜11615134",
+            "catchers": [
+              "西田｜41245133"
+            ],
+            "batter": "岸田｜91595136",
+            "runners": [
+              "吉川尚｜73375134"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔吉川尚｜73375134〕）二塁盗塁成功"
           }
         ]
       },
@@ -56,9 +102,55 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-12",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091201/text",
+            "title": "9月12日（土） 巨人 vs. ヤクルト 15回戦",
+            "home": "G",
+            "road": "S",
+            "gameNo": "15",
+            "inning": "b7",
+            "batter": "大城 卓三｜1700044",
+            "state": "二死1塁",
+            "text": "一塁走者 〔吉川大｜1000139〕 :盗塁成功 2塁",
+            "pitcher": "近藤｜12140",
+            "catcher": "西田｜1000134",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "吉川大｜1000139"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-12",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091201/text",
+            "title": "9月12日（土） 巨人 vs. ヤクルト 15回戦",
+            "home": "G",
+            "road": "S",
+            "gameNo": "15",
+            "inning": "b8",
+            "batter": "岸田 行倫｜1700043",
+            "state": "無死1塁",
+            "text": "空振り三振に倒れるもスタートを切っていた一塁走者 〔吉川尚｜1600059〕 が盗塁成功 1アウト2塁",
+            "pitcher": "長谷川｜1600169",
+            "catcher": "西田｜1000134",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "吉川尚｜1600059"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -91,7 +183,7 @@
       "id": "H-L-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0912/h-l-13/index.html",
-        "status": "（PayPayドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0912/h-l-13/playbyplay.html",
@@ -145,7 +237,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
