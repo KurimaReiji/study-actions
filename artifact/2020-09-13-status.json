@@ -112,13 +112,13 @@
       "id": "DB-D-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0913/db-d-15/index.html",
-        "status": "（横　浜）\n                    7回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091302/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -442,7 +442,8 @@
             "inning": "b1",
             "pitcher": "張｜41245134",
             "catchers": [
-              "若月｜41645139"
+              "若月｜41645139",
+              "伏見｜61065137"
             ],
             "batter": "安田｜81885136",
             "runners": [
