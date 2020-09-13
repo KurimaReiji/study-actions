@@ -432,7 +432,7 @@
       "id": "M-B-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0913/m-b-17/index.html",
-        "status": "（ZOZOマリン）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0913/m-b-17/playbyplay.html",
@@ -487,7 +487,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
