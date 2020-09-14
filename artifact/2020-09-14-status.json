@@ -28,6 +28,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔小深田｜61965151〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0914/e-f-18/playbyplay.html",
+            "date": "2020-09-14",
+            "home": "E",
+            "road": "F",
+            "inning": "b9",
+            "pitcher": "宮西｜41445116",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "茂木｜61865132",
+            "runners": [
+              "辰己｜11015138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔辰己｜11015138〕）二塁盗塁成功"
           }
         ]
       },
@@ -56,9 +79,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-14",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091401/text",
+            "title": "9月14日（月） 楽天 vs. 日本ハム 18回戦",
+            "home": "E",
+            "road": "F",
+            "gameNo": "18",
+            "inning": "b9",
+            "batter": "茂木 栄五郎｜1600003",
+            "state": "二死1塁",
+            "text": "一塁走者 〔辰己｜1800117〕 :盗塁成功 2塁",
+            "pitcher": "宮西｜800052",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "辰己｜1800117"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
