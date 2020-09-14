@@ -1,0 +1,55 @@
+{
+  "games": [
+    {
+      "id": "E-F-18",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0914/e-f-18/index.html",
+        "status": "（楽天生命パーク）\n                    8回表",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0914/e-f-18/playbyplay.html",
+            "date": "2020-09-14",
+            "home": "E",
+            "road": "F",
+            "inning": "b3",
+            "pitcher": "バーヘイゲン｜33735151",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "岡島｜21325135",
+            "runners": [
+              "小深田｜61965151"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔小深田｜61965151〕）二塁盗塁成功"
+          }
+        ]
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091401/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "M-B-18",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0914/m-b-18/index.html",
+        "status": "（ZOZOマリン）\n                    5回表",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091402/text",
+        "attempts": [],
+        "status": false
+      }
+    }
+  ],
+  "numOfGames": 2
+}
