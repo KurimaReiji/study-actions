@@ -12,11 +12,11 @@
         "sbPct": "0.800"
       },
       "fielding": {
-        "sb": 71,
+        "sb": 73,
         "cs": 25,
-        "csb": 69,
+        "csb": 71,
         "ccs": 22,
-        "csPct": "0.242"
+        "csPct": "0.237"
       }
     },
     {
@@ -138,11 +138,11 @@
       "league": "Pacific",
       "name": "Rakuten Eagles",
       "batting": {
-        "sb": 43,
+        "sb": 45,
         "cs": 16,
-        "csb": 41,
+        "csb": 43,
         "ccs": 13,
-        "sbPct": "0.759"
+        "sbPct": "0.768"
       },
       "fielding": {
         "sb": 40,
@@ -233,16 +233,16 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 411,
-        "sb": 289,
+        "attempt": 413,
+        "sb": 291,
         "cs": 122,
-        "sbPct": "0.731"
+        "sbPct": "0.733"
       },
       "fielding": {
-        "attempt": 411,
-        "sb": 289,
+        "attempt": 413,
+        "sb": 291,
         "cs": 122,
-        "csPct": "0.269"
+        "csPct": "0.267"
       }
     },
     {
@@ -263,5 +263,5 @@
       }
     }
   ],
-  "updated": "2020-09-13"
+  "updated": "2020-09-14"
 }
