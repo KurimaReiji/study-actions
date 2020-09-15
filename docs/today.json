@@ -24,6 +24,31 @@
     "catcher": "大城｜21325136"
   },
   {
+    "url": "https://npb.jp/scores/2020/0915/g-t-14/playbyplay.html",
+    "date": "2020-09-15",
+    "home": "G",
+    "road": "T",
+    "inning": "b8",
+    "pitcher": "馬場｜41445136",
+    "catchers": [
+      "梅野｜21325139"
+    ],
+    "batter": "丸｜21425116",
+    "runners": [
+      "増田大｜51855132"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁成功",
+    "catcher": "梅野｜21325139",
+    "ytext": "空振り三振に倒れるもスタートを切っていた一塁走者 〔増田大｜1500054〕 が盗塁成功 2アウト2塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0915/s-db-16/playbyplay.html",
     "date": "2020-09-15",
     "home": "S",
