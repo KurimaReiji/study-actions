@@ -49,9 +49,9 @@
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.382",
+    "csPct": "0.371",
     "cs": 13,
-    "sb": 21,
+    "sb": 22,
     "team": "DB",
     "league": "central"
   },
@@ -65,32 +65,32 @@
   },
   {
     "catcher": "梅野",
-    "csPct": "0.433",
+    "csPct": "0.419",
     "cs": 13,
-    "sb": 17,
+    "sb": 18,
     "team": "T",
     "league": "central"
   },
   {
     "catcher": "西田",
-    "csPct": "0.214",
-    "cs": 6,
-    "sb": 22,
+    "csPct": "0.226",
+    "cs": 7,
+    "sb": 24,
     "team": "S",
     "league": "central"
   },
   {
     "catcher": "木下拓",
-    "csPct": "0.480",
+    "csPct": "0.462",
     "cs": 12,
-    "sb": 13,
+    "sb": 14,
     "team": "D",
     "league": "central"
   },
   {
     "catcher": "大城",
-    "csPct": "0.273",
-    "cs": 6,
+    "csPct": "0.304",
+    "cs": 7,
     "sb": 16,
     "team": "G",
     "league": "central"
