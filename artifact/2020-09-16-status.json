@@ -94,31 +94,7 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091602/text",
-        "attempts": [
-          {
-            "date": "2020-09-16",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020091602/text",
-            "title": "9月16日（水） ヤクルト vs. ＤｅＮＡ 17回戦",
-            "home": "S",
-            "road": "DB",
-            "gameNo": "17",
-            "inning": "t1",
-            "batter": "オースティン｜1900126",
-            "state": "無死1塁",
-            "text": "一塁走者 〔梶谷｜700027〕 :盗塁成功 2塁",
-            "pitcher": "歳内｜1100076",
-            "catcher": "井野｜600046",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "梶谷｜700027"
-            ],
-            "base": 2,
-            "outs": 0,
-            "RoB": "1--"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
