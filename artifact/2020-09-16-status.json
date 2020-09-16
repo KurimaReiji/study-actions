@@ -186,7 +186,7 @@
       "id": "F-H-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0916/f-h-17/index.html",
-        "status": "（札幌ドーム）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0916/f-h-17/playbyplay.html",
@@ -235,6 +235,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0916/f-h-17/playbyplay.html",
+            "date": "2020-09-16",
+            "home": "F",
+            "road": "H",
+            "inning": "b9",
+            "pitcher": "森｜01405139",
+            "catchers": [
+              "髙谷｜41045114",
+              "甲斐｜91595133"
+            ],
+            "batter": "平沼｜01605132",
+            "runners": [
+              "西川｜21225133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
           }
         ]
       },
@@ -286,9 +310,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-16",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091604/text",
+            "title": "9月16日（水） 日本ハム vs. ソフトバンク 17回戦",
+            "home": "F",
+            "road": "H",
+            "gameNo": "17",
+            "inning": "b9",
+            "batter": "平沼 翔太｜1500112",
+            "state": "無死1塁",
+            "text": "一塁走者 〔西川｜1000100〕 :盗塁成功 2塁",
+            "pitcher": "森｜1300077",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
