@@ -4,7 +4,7 @@
       "id": "G-T-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0916/g-t-15/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0916/g-t-15/playbyplay.html",
@@ -196,7 +196,8 @@
             "inning": "t1",
             "pitcher": "杉浦｜61765139",
             "catchers": [
-              "宇佐見｜61365132"
+              "宇佐見｜61365132",
+              "清水｜61965130"
             ],
             "batter": "中村晃｜11215116",
             "runners": [
