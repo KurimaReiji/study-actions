@@ -25,6 +25,31 @@
     "ytext": "一塁走者 〔大山｜1600113〕 :盗塁を試みるもアウト 3アウトチェンジ"
   },
   {
+    "url": "https://npb.jp/scores/2020/0917/s-db-18/playbyplay.html",
+    "date": "2020-09-17",
+    "home": "S",
+    "road": "DB",
+    "inning": "t5",
+    "pitcher": "高梨｜21925139",
+    "catchers": [
+      "松本直｜51855136"
+    ],
+    "batter": "ソト｜03505136",
+    "runners": [
+      "梶谷｜61565114"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔梶谷｜61565114〕）二塁盗塁成功",
+    "catcher": "松本直｜51855136",
+    "ytext": "一塁走者 〔梶谷｜700027〕 :盗塁成功 2塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0917/f-h-18/playbyplay.html",
     "date": "2020-09-17",
     "home": "F",
