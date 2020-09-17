@@ -4,7 +4,7 @@
       "id": "G-T-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0917/g-t-16/index.html",
-        "status": "（東京ドーム）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0917/g-t-16/playbyplay.html",
@@ -106,7 +106,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -167,14 +167,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "F-H-18",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0917/f-h-18/index.html",
-        "status": "（札幌ドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0917/f-h-18/playbyplay.html",
@@ -229,20 +229,20 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-M-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0917/l-m-17/index.html",
-        "status": "（メットライフ）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091705/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
