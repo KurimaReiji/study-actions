@@ -1,0 +1,179 @@
+{
+  "games": [
+    {
+      "id": "S-C-12",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0918/s-c-12/index.html",
+        "status": "（神　宮）\n                    4回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091801/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "DB-G-13",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0918/db-g-13/index.html",
+        "status": "（横　浜）\n                    5回表",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091802/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "D-T-13",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0918/d-t-13/index.html",
+        "status": "（ナゴヤドーム）\n                    4回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091803/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "F-M-16",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0918/f-m-16/index.html",
+        "status": "（札幌ドーム）\n                    3回裏",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0918/f-m-16/playbyplay.html",
+            "date": "2020-09-18",
+            "home": "F",
+            "road": "M",
+            "inning": "t3",
+            "pitcher": "マルティネス｜33735136",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "中村奨｜51455130",
+            "runners": [
+              "角中｜41545114"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔角中｜41545114〕）二塁盗塁成功"
+          }
+        ]
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091804/text",
+        "attempts": [
+          {
+            "date": "2020-09-18",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091804/text",
+            "title": "9月18日（金） 日本ハム vs. ロッテ 16回戦",
+            "home": "F",
+            "road": "M",
+            "gameNo": "16",
+            "inning": "t3",
+            "batter": "中村 奨吾｜1400188",
+            "state": "一死1塁",
+            "text": "一塁走者 〔角中｜700087〕 :盗塁成功　1塁走者 〔角中｜700087〕 はさらに3塁まで進塁 3塁",
+            "pitcher": "マルティネス｜1800002",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "角中｜700087"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
+        "status": false
+      }
+    },
+    {
+      "id": "B-L-16",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0918/b-l-16/index.html",
+        "status": "（京セラD大阪）\n                    3回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091805/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "H-E-16",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0918/h-e-16/index.html",
+        "status": "（PayPayドーム）\n                    4回裏",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0918/h-e-16/playbyplay.html",
+            "date": "2020-09-18",
+            "home": "H",
+            "road": "E",
+            "inning": "t3",
+            "pitcher": "ムーア｜83785151",
+            "catchers": [
+              "甲斐｜91595133"
+            ],
+            "batter": "周東｜21925136",
+            "runners": [
+              "鈴木大｜81985135"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔鈴木大｜81985135〕）二塁盗塁失敗"
+          }
+        ]
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020091806/text",
+        "attempts": [
+          {
+            "date": "2020-09-18",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091806/text",
+            "title": "9月18日（金） ソフトバンク vs. 楽天 16回戦",
+            "home": "H",
+            "road": "E",
+            "gameNo": "16",
+            "inning": "t3",
+            "batter": "田中 和基｜1600094",
+            "state": "一死1塁",
+            "text": "空振り三振！一塁走者 〔鈴木大｜1100103〕 も盗塁失敗でダブルプレー 3アウトチェンジ",
+            "pitcher": "ムーア｜1900153",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "鈴木大｜1100103"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
+        "status": false
+      }
+    }
+  ],
+  "numOfGames": 6
+}
