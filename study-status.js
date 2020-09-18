@@ -174,8 +174,8 @@ const scraper_get_stolenbases = (catchers = { t: ["home"], b: ["road"] }) => {
       };
     };
 
-    const combineDoubleSteal = (acc, cur) => {
-      if (cur.ds == "DS" && acc.slice(-1)[0].ds == "DS") {
+    const combineDoubleSteal = (acc, cur, idx) => {
+      if (cur.ds == "DS" && idx != 0 && acc.slice(-1)[0].ds == "DS") {
         const item = acc.pop();
         cur.runners = item.runners.concat(cur.runners);
         cur.text = [item.text, cur.text].join("／");
