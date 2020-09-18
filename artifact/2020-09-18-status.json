@@ -4,13 +4,13 @@
       "id": "S-C-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0918/s-c-12/index.html",
-        "status": "（神　宮）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091801/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -30,7 +30,7 @@
       "id": "D-T-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0918/d-t-13/index.html",
-        "status": "（ナゴヤドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0918/d-t-13/playbyplay.html",
@@ -84,14 +84,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "F-M-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0918/f-m-16/index.html",
-        "status": "（札幌ドーム）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0918/f-m-16/playbyplay.html",
@@ -125,6 +125,7 @@
             "pitcher": "中村稔｜01205138",
             "catchers": [
               "柿沼｜21525132",
+              "佐藤｜71075151",
               "江村｜61365133"
             ],
             "batter": "西川｜21225133",
@@ -149,6 +150,7 @@
             "pitcher": "小野｜51555130",
             "catchers": [
               "柿沼｜21525132",
+              "佐藤｜71075151",
               "江村｜61365133"
             ],
             "batter": "中田｜61065116",
@@ -239,14 +241,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-L-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0918/b-l-16/index.html",
-        "status": "（京セラD大阪）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0918/b-l-16/playbyplay.html",
@@ -304,14 +306,14 @@
             "RoB": "12-"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "H-E-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0918/h-e-16/index.html",
-        "status": "（PayPayドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0918/h-e-16/playbyplay.html",
@@ -321,7 +323,8 @@
             "inning": "t3",
             "pitcher": "ムーア｜83785151",
             "catchers": [
-              "甲斐｜91595133"
+              "甲斐｜91595133",
+              "海野｜81385151"
             ],
             "batter": "周東｜21925136",
             "runners": [
@@ -383,6 +386,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔牧原｜61465133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0918/h-e-16/playbyplay.html",
+            "date": "2020-09-18",
+            "home": "H",
+            "road": "E",
+            "inning": "b8",
+            "pitcher": "宋家豪｜73575132",
+            "catchers": [
+              "下妻｜01705137",
+              "太田｜71375138"
+            ],
+            "batter": "栗原｜01705130",
+            "runners": [
+              "周東｜21925136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
           }
         ]
       },
@@ -457,9 +484,32 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-18",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091806/text",
+            "title": "9月18日（金） ソフトバンク vs. 楽天 16回戦",
+            "home": "H",
+            "road": "E",
+            "gameNo": "16",
+            "inning": "b8",
+            "batter": "栗原 陵矢｜1400127",
+            "state": "一死1塁",
+            "text": "一塁走者 〔周東｜1700135〕 :すかさず初球から走って盗塁成功 2塁",
+            "pitcher": "宋家豪｜1600012",
+            "catcher": "太田｜1800118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
