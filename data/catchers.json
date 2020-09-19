@@ -200,14 +200,6 @@
     "league": "central"
   },
   {
-    "catcher": "佐藤",
-    "csPct": "0.286",
-    "cs": 2,
-    "sb": 5,
-    "team": "M",
-    "league": "pacific"
-  },
-  {
     "catcher": "石川亮",
     "csPct": "0.143",
     "cs": 1,
@@ -230,6 +222,14 @@
     "sb": 4,
     "team": "DB",
     "league": "central"
+  },
+  {
+    "catcher": "佐藤",
+    "csPct": "0.167",
+    "cs": 1,
+    "sb": 5,
+    "team": "M",
+    "league": "pacific"
   },
   {
     "catcher": "井野",
