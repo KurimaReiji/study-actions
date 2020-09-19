@@ -1,5 +1,30 @@
 [
   {
+    "url": "https://npb.jp/scores/2020/0919/s-c-13/playbyplay.html",
+    "date": "2020-09-19",
+    "home": "S",
+    "road": "C",
+    "inning": "b6",
+    "pitcher": "森下｜53155151",
+    "catchers": [
+      "坂倉｜11915134"
+    ],
+    "batter": "坂口｜21925117",
+    "runners": [
+      "西浦｜91095139"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔西浦｜91095139〕）二塁盗塁失敗",
+    "catcher": "坂倉｜11915134",
+    "ytext": "一塁走者 〔西浦｜1300095〕 :盗塁を試みるもアウト 3アウトチェンジ"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0919/db-g-14/playbyplay.html",
     "date": "2020-09-19",
     "home": "DB",
