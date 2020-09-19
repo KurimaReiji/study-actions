@@ -28,12 +28,58 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔西浦｜91095139〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0919/s-c-13/playbyplay.html",
+            "date": "2020-09-19",
+            "home": "S",
+            "road": "C",
+            "inning": "t10",
+            "pitcher": "石山｜21125137",
+            "catchers": [
+              "松本直｜51855136"
+            ],
+            "batter": "野間｜01405130",
+            "runners": [
+              "田中広｜61965139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔田中広｜61965139〕）二塁盗塁成功"
           }
         ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020091901/text",
         "attempts": [
+          {
+            "date": "2020-09-19",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020091901/text",
+            "title": "9月19日（土） ヤクルト vs. 広島 13回戦",
+            "home": "S",
+            "road": "C",
+            "gameNo": "13",
+            "inning": "t10",
+            "batter": "野間 峻祥｜1400173",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔田中広｜1300059〕 :盗塁成功 2,3塁",
+            "pitcher": "吉田大喜｜1900025",
+            "catcher": "松本直｜1700090",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "田中広｜1300059"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
+          },
           {
             "date": "2020-09-19",
             "url": "https://baseball.yahoo.co.jp/npb/game/2020091901/text",
@@ -58,7 +104,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
