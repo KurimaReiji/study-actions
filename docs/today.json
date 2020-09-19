@@ -177,6 +177,31 @@
     "ytext": "一塁走者 〔福田｜1700111〕 :盗塁成功 2塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/0919/b-l-17/playbyplay.html",
+    "date": "2020-09-19",
+    "home": "B",
+    "road": "L",
+    "inning": "b6",
+    "pitcher": "ノリン｜13715151",
+    "catchers": [
+      "柘植｜61265151"
+    ],
+    "batter": "大城｜11515132",
+    "runners": [
+      "福田｜01605136"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔福田｜01605136〕）二塁盗塁成功",
+    "catcher": "柘植｜61265151",
+    "ytext": "一塁走者 〔福田｜1700111〕 :盗塁成功 2塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0919/h-e-17/playbyplay.html",
     "date": "2020-09-19",
     "home": "H",
