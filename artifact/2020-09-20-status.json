@@ -4,7 +4,7 @@
       "id": "S-C-14",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0920/s-c-14/index.html",
-        "status": "（神　宮）\n                    3回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0920/s-c-14/playbyplay.html",
@@ -104,7 +104,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
