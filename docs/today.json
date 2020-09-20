@@ -1,5 +1,55 @@
 [
   {
+    "url": "https://npb.jp/scores/2020/0920/s-c-14/playbyplay.html",
+    "date": "2020-09-20",
+    "home": "S",
+    "road": "C",
+    "inning": "t6",
+    "pitcher": "小川｜11515137",
+    "catchers": [
+      "西田｜41245133"
+    ],
+    "batter": "堂林｜61965131",
+    "runners": [
+      "鈴木誠｜81785137"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔鈴木誠｜81785137〕）二塁盗塁成功",
+    "catcher": "西田｜41245133",
+    "ytext": "一塁走者 〔鈴木誠｜1200069〕 :盗塁成功 2塁"
+  },
+  {
+    "url": "https://npb.jp/scores/2020/0920/s-c-14/playbyplay.html",
+    "date": "2020-09-20",
+    "home": "S",
+    "road": "C",
+    "inning": "t6",
+    "pitcher": "小川｜11515137",
+    "catchers": [
+      "西田｜41245133"
+    ],
+    "batter": "堂林｜61965131",
+    "runners": [
+      "鈴木誠｜81785137"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "3",
+    "ds": "",
+    "outs": "2",
+    "RoB": "-2-",
+    "credit": 1,
+    "text": "2アウト｜2塁｜｜｜（走者・〔鈴木誠｜81785137〕）三塁盗塁成功",
+    "catcher": "西田｜41245133",
+    "ytext": "一塁走者 〔鈴木誠｜1200069〕 :盗塁成功 2塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/0920/db-g-15/playbyplay.html",
     "date": "2020-09-20",
     "home": "DB",
