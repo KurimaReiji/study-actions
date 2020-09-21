@@ -4,13 +4,13 @@
       "id": "G-C-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0921/g-c-13/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020092101/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
