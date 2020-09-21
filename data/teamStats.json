@@ -81,11 +81,11 @@
       "league": "Central",
       "name": "DeNA Baystars",
       "batting": {
-        "sb": 19,
+        "sb": 21,
         "cs": 10,
-        "csb": 19,
+        "csb": 21,
         "ccs": 9,
-        "sbPct": "0.679"
+        "sbPct": "0.700"
       },
       "fielding": {
         "sb": 45,
@@ -115,6 +115,25 @@
       }
     },
     {
+      "team": "D",
+      "league": "Central",
+      "name": "Chunichi Dragons",
+      "batting": {
+        "sb": 19,
+        "cs": 13,
+        "csb": 18,
+        "ccs": 11,
+        "sbPct": "0.621"
+      },
+      "fielding": {
+        "sb": 41,
+        "cs": 24,
+        "csb": 39,
+        "ccs": 22,
+        "csPct": "0.361"
+      }
+    },
+    {
       "team": "H",
       "league": "Pacific",
       "name": "SoftBank Hawks",
@@ -134,34 +153,15 @@
       }
     },
     {
-      "team": "D",
-      "league": "Central",
-      "name": "Chunichi Dragons",
-      "batting": {
-        "sb": 19,
-        "cs": 13,
-        "csb": 18,
-        "ccs": 11,
-        "sbPct": "0.621"
-      },
-      "fielding": {
-        "sb": 41,
-        "cs": 23,
-        "csb": 39,
-        "ccs": 21,
-        "csPct": "0.350"
-      }
-    },
-    {
       "team": "S",
       "league": "Central",
       "name": "Yakult Swallows",
       "batting": {
         "sb": 45,
-        "cs": 30,
+        "cs": 31,
         "csb": 41,
-        "ccs": 26,
-        "sbPct": "0.612"
+        "ccs": 27,
+        "sbPct": "0.603"
       },
       "fielding": {
         "sb": 48,
@@ -169,6 +169,25 @@
         "csb": 47,
         "ccs": 9,
         "csPct": "0.161"
+      }
+    },
+    {
+      "team": "T",
+      "league": "Central",
+      "name": "Hanshin Tigers",
+      "batting": {
+        "sb": 49,
+        "cs": 23,
+        "csb": 47,
+        "ccs": 19,
+        "sbPct": "0.712"
+      },
+      "fielding": {
+        "sb": 29,
+        "cs": 17,
+        "csb": 27,
+        "ccs": 16,
+        "csPct": "0.372"
       }
     },
     {
@@ -188,25 +207,6 @@
         "csb": 27,
         "ccs": 14,
         "csPct": "0.341"
-      }
-    },
-    {
-      "team": "T",
-      "league": "Central",
-      "name": "Hanshin Tigers",
-      "batting": {
-        "sb": 49,
-        "cs": 23,
-        "csb": 47,
-        "ccs": 19,
-        "sbPct": "0.712"
-      },
-      "fielding": {
-        "sb": 27,
-        "cs": 17,
-        "csb": 25,
-        "ccs": 16,
-        "csPct": "0.390"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 328,
-        "sb": 214,
-        "cs": 114,
+        "attempt": 331,
+        "sb": 216,
+        "cs": 115,
         "sbPct": "0.674"
       },
       "fielding": {
-        "attempt": 328,
-        "sb": 214,
-        "cs": 114,
+        "attempt": 331,
+        "sb": 216,
+        "cs": 115,
         "csPct": "0.326"
       }
     }
   ],
-  "updated": "2020-09-20"
+  "updated": "2020-09-21"
 }

@@ -81,8 +81,8 @@
   },
   {
     "catcher": "木下拓",
-    "csPct": "0.444",
-    "cs": 12,
+    "csPct": "0.464",
+    "cs": 13,
     "sb": 15,
     "team": "D",
     "league": "central"
@@ -208,6 +208,14 @@
     "league": "pacific"
   },
   {
+    "catcher": "原口",
+    "csPct": "0.143",
+    "cs": 1,
+    "sb": 6,
+    "team": "T",
+    "league": "central"
+  },
+  {
     "catcher": "石川亮",
     "csPct": "0.143",
     "cs": 1,
@@ -262,14 +270,6 @@
     "sb": 3,
     "team": "L",
     "league": "pacific"
-  },
-  {
-    "catcher": "原口",
-    "csPct": "0.200",
-    "cs": 1,
-    "sb": 4,
-    "team": "T",
-    "league": "central"
   },
   {
     "catcher": "古賀",
