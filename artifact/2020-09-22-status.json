@@ -14,7 +14,8 @@
             "inning": "b5",
             "pitcher": "遠藤｜71375136",
             "catchers": [
-              "坂倉｜11915134"
+              "坂倉｜11915134",
+              "磯村｜81185133"
             ],
             "batter": "坂本｜51955114",
             "runners": [
@@ -28,6 +29,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔松原｜21825134〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0922/g-c-14/playbyplay.html",
+            "date": "2020-09-22",
+            "home": "G",
+            "road": "C",
+            "inning": "b8",
+            "pitcher": "塹江｜21625130",
+            "catchers": [
+              "坂倉｜11915134",
+              "磯村｜81185133"
+            ],
+            "batter": "丸｜21425116",
+            "runners": [
+              "増田大｜51855132"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁失敗"
           }
         ]
       },
@@ -56,16 +81,40 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-22",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092201/text",
+            "title": "9月22日（火） 巨人 vs. 広島 14回戦",
+            "home": "G",
+            "road": "C",
+            "gameNo": "14",
+            "inning": "b8",
+            "batter": "丸 佳浩｜800043",
+            "state": "無死1塁",
+            "text": "一塁走者 〔増田大｜1500054〕 :盗塁を試みるもアウト 1アウト",
+            "pitcher": "塹江｜1400175",
+            "catcher": "坂倉｜1600124",
+            "pickoff": "1塁けん制:ランナー 〔増田大｜1500054〕 スタート",
+            "credit": 0,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "増田大｜1500054"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-S-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0922/d-s-17/index.html",
-        "status": "（ナゴヤドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
@@ -177,6 +226,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔金子｜01505137〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0922/l-f-16/playbyplay.html",
+            "date": "2020-09-22",
+            "home": "L",
+            "road": "F",
+            "inning": "t8",
+            "pitcher": "中塚｜01405134",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "中島卓也｜11215118",
+            "runners": [
+              "西川｜21225133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
           }
         ]
       },
@@ -205,16 +277,39 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-22",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092205/text",
+            "title": "9月22日（火） 西武 vs. 日本ハム 16回戦",
+            "home": "L",
+            "road": "F",
+            "gameNo": "16",
+            "inning": "t8",
+            "batter": "中島 卓也｜900069",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔西川｜1000100〕 :積極的に初球から走って盗塁成功 2,3塁",
+            "pitcher": "中塚｜1600128",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "H-B-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0922/h-b-19/index.html",
-        "status": "（PayPayドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0922/h-b-19/playbyplay.html",
@@ -268,7 +363,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
