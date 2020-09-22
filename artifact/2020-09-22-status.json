@@ -71,7 +71,7 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020092202/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
