@@ -1,0 +1,228 @@
+{
+  "games": [
+    {
+      "id": "G-C-14",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0922/g-c-14/index.html",
+        "status": "（東京ドーム）\n                    4回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020092201/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "D-S-17",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0922/d-s-17/index.html",
+        "status": "（ナゴヤドーム）\n                    5回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020092202/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "T-DB-17",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0922/t-db-17/index.html",
+        "status": "Final",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020092203/text",
+        "attempts": [],
+        "status": "Final"
+      }
+    },
+    {
+      "id": "E-M-16",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0922/e-m-16/index.html",
+        "status": "Final",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0922/e-m-16/playbyplay.html",
+            "date": "2020-09-22",
+            "home": "E",
+            "road": "M",
+            "inning": "b7",
+            "pitcher": "石川｜41145139",
+            "catchers": [
+              "柿沼｜21525132",
+              "佐藤｜71075151"
+            ],
+            "batter": "鈴木大｜81985135",
+            "runners": [
+              "田中｜11215134"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔田中｜11215134〕）二塁盗塁成功"
+          }
+        ]
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020092204/text",
+        "attempts": [
+          {
+            "date": "2020-09-22",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092204/text",
+            "title": "9月22日（火） 楽天 vs. ロッテ 16回戦",
+            "home": "E",
+            "road": "M",
+            "gameNo": "16",
+            "inning": "b7",
+            "batter": "鈴木 大地｜1100103",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔田中｜1600094〕 :盗塁成功 2,3塁",
+            "pitcher": "石川｜1300050",
+            "catcher": "佐藤｜1900081",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "田中｜1600094"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
+          }
+        ],
+        "status": "Final"
+      }
+    },
+    {
+      "id": "L-F-16",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0922/l-f-16/index.html",
+        "status": "（メットライフ）\n                    4回表",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0922/l-f-16/playbyplay.html",
+            "date": "2020-09-22",
+            "home": "L",
+            "road": "F",
+            "inning": "b3",
+            "pitcher": "上沢｜51355135",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "源田｜71775134",
+            "runners": [
+              "金子｜01505137"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔金子｜01505137〕）二塁盗塁成功"
+          }
+        ]
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020092205/text",
+        "attempts": [
+          {
+            "date": "2020-09-22",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092205/text",
+            "title": "9月22日（火） 西武 vs. 日本ハム 16回戦",
+            "home": "L",
+            "road": "F",
+            "gameNo": "16",
+            "inning": "b3",
+            "batter": "源田 壮亮｜1600129",
+            "state": "一死1塁",
+            "text": "一塁走者 〔金子｜1200083〕 :盗塁成功 2塁",
+            "pitcher": "上沢｜1100099",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "金子｜1200083"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
+        "status": false
+      }
+    },
+    {
+      "id": "H-B-19",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/0922/h-b-19/index.html",
+        "status": "（PayPayドーム）\n                    4回裏",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0922/h-b-19/playbyplay.html",
+            "date": "2020-09-22",
+            "home": "H",
+            "road": "B",
+            "inning": "b1",
+            "pitcher": "山本｜53355134",
+            "catchers": [
+              "伏見｜61065137"
+            ],
+            "batter": "中村晃｜11215116",
+            "runners": [
+              "周東｜21925136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
+          }
+        ]
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020092206/text",
+        "attempts": [
+          {
+            "date": "2020-09-22",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092206/text",
+            "title": "9月22日（火） ソフトバンク vs. オリックス 19回戦",
+            "home": "H",
+            "road": "B",
+            "gameNo": "19",
+            "inning": "b1",
+            "batter": "中村 晃｜800081",
+            "state": "一死1塁",
+            "text": "一塁走者 〔周東｜1700135〕 :盗塁成功 2塁",
+            "pitcher": "山本｜1600153",
+            "catcher": "伏見｜1200100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
+        "status": false
+      }
+    }
+  ],
+  "numOfGames": 6
+}
