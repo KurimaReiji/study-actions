@@ -4,7 +4,7 @@
       "id": "G-D-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0925/g-d-19/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0925/g-d-19/playbyplay.html",
@@ -59,14 +59,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "S-T-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0925/s-t-16/index.html",
-        "status": "（神　宮）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0925/s-t-16/playbyplay.html",
@@ -99,7 +99,8 @@
             "inning": "b4",
             "pitcher": "西勇｜71275118",
             "catchers": [
-              "坂本｜11915132"
+              "坂本｜11915132",
+              "原口｜61065131"
             ],
             "batter": "エスコバー｜33335151",
             "runners": [
@@ -122,7 +123,8 @@
             "inning": "b4",
             "pitcher": "西勇｜71275118",
             "catchers": [
-              "坂本｜11915132"
+              "坂本｜11915132",
+              "原口｜61065131"
             ],
             "batter": "西田｜41245133",
             "runners": [
@@ -252,27 +254,27 @@
             "RoB": "-23"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-DB-18",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0925/c-db-18/index.html",
-        "status": "（マツダスタジアム）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020092503/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-E-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0925/l-e-15/index.html",
-        "status": "（メットライフ）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0925/l-e-15/playbyplay.html",
@@ -327,14 +329,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-H-13",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0925/m-h-13/index.html",
-        "status": "（ZOZOマリン）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0925/m-h-13/playbyplay.html",
@@ -358,6 +360,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0925/m-h-13/playbyplay.html",
+            "date": "2020-09-25",
+            "home": "M",
+            "road": "H",
+            "inning": "b8",
+            "pitcher": "松本｜61665130",
+            "catchers": [
+              "髙谷｜41045114"
+            ],
+            "batter": "藤岡｜41645136",
+            "runners": [
+              "和田｜33335136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
           }
         ]
       },
@@ -386,9 +411,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-25",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092505/text",
+            "title": "9月25日（金） ロッテ vs. ソフトバンク 13回戦",
+            "home": "M",
+            "road": "H",
+            "gameNo": "13",
+            "inning": "b8",
+            "batter": "藤岡 裕大｜1700093",
+            "state": "一死1,3塁",
+            "text": "一塁走者 〔和田｜1700098〕 :積極的に初球から走って盗塁成功 2,3塁",
+            "pitcher": "松本｜1400126",
+            "catcher": "髙谷｜700099",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "和田｜1700098"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -540,6 +588,29 @@
             ],
             "base": 2,
             "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-25",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092506/text",
+            "title": "9月25日（金） オリックス vs. 日本ハム 12回戦",
+            "home": "B",
+            "road": "F",
+            "gameNo": "12",
+            "inning": "t8",
+            "batter": "清宮 幸太郎｜1700025",
+            "state": "二死1塁",
+            "text": "一塁走者 〔杉谷｜900070〕 :盗塁成功 2塁",
+            "pitcher": "吉田凌｜1500130",
+            "catcher": "伏見｜1200100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "杉谷｜900070"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           }
         ],
