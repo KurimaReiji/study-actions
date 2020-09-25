@@ -443,7 +443,7 @@
       "id": "B-F-12",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0925/b-f-12/index.html",
-        "status": "（京セラD大阪）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0925/b-f-12/playbyplay.html",
@@ -515,6 +515,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔福田｜01605136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0925/b-f-12/playbyplay.html",
+            "date": "2020-09-25",
+            "home": "B",
+            "road": "F",
+            "inning": "t8",
+            "pitcher": "吉田凌｜13315132",
+            "catchers": [
+              "伏見｜61065137"
+            ],
+            "batter": "清宮｜41545136",
+            "runners": [
+              "杉谷｜81785118"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔杉谷｜81785118〕）二塁盗塁成功"
           }
         ]
       },
@@ -614,7 +637,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
