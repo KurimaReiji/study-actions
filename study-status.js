@@ -386,16 +386,24 @@ const scraper_get_stolenbases_from_yahoo = () => {
                   return text;
                 }),
               inning: item.inning,
-              order: `${item.inning.replace(/t|b/, "")}${item.inning}${order}`,
+              order: (item.inning[0] != "0" ? li.querySelector(".bb-liveText__number").textContent.trim() : "00").replace("：", ""),
             };
           })
         return lis;
       })
       .reduce((acc, cur) => acc.concat(cur))
       .sort((a, b) => {
-        if (a.order > b.order) {
+        const criteria = [a, b].map((item) => {
+          return [
+            `0${item.inning.replace(/t|b/, "")}`.slice(-2),
+            item.inning[0] == "b" ? 1 : 0,
+            `0${item.order}`.slice(-2)
+          ].join("-");
+        });
+    
+        if (criteria[0] > criteria[1]) {
           return 1;
-        } else if (a.order < b.order) {
+        } else if (criteria[0] < criteria[1]) {
           return -1;
         } else {
           return 0;
