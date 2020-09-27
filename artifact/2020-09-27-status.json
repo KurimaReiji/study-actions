@@ -111,7 +111,7 @@
       "id": "S-T-18",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0927/s-t-18/index.html",
-        "status": "（神　宮）\n                    2回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0927/s-t-18/playbyplay.html",
@@ -212,7 +212,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
