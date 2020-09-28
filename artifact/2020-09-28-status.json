@@ -4,7 +4,7 @@
       "id": "C-DB-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0928/c-db-21/index.html",
-        "status": "（マツダスタジアム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0928/c-db-21/playbyplay.html",
@@ -200,7 +200,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
