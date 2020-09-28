@@ -24,6 +24,14 @@
     "league": "pacific"
   },
   {
+    "catcher": "戸柱",
+    "csPct": "0.386",
+    "cs": 17,
+    "sb": 27,
+    "team": "DB",
+    "league": "central"
+  },
+  {
     "catcher": "甲斐",
     "csPct": "0.364",
     "cs": 16,
@@ -38,14 +46,6 @@
     "sb": 32,
     "team": "B",
     "league": "pacific"
-  },
-  {
-    "catcher": "戸柱",
-    "csPct": "0.375",
-    "cs": 15,
-    "sb": 25,
-    "team": "DB",
-    "league": "central"
   },
   {
     "catcher": "田村",

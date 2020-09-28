@@ -39,6 +39,25 @@
       }
     },
     {
+      "team": "DB",
+      "league": "Central",
+      "name": "DeNA Baystars",
+      "batting": {
+        "sb": 21,
+        "cs": 11,
+        "csb": 21,
+        "ccs": 9,
+        "sbPct": "0.700"
+      },
+      "fielding": {
+        "sb": 47,
+        "cs": 28,
+        "csb": 44,
+        "ccs": 26,
+        "csPct": "0.371"
+      }
+    },
+    {
       "team": "E",
       "league": "Pacific",
       "name": "Rakuten Eagles",
@@ -74,25 +93,6 @@
         "csb": 49,
         "ccs": 21,
         "csPct": "0.300"
-      }
-    },
-    {
-      "team": "DB",
-      "league": "Central",
-      "name": "DeNA Baystars",
-      "batting": {
-        "sb": 21,
-        "cs": 11,
-        "csb": 21,
-        "ccs": 9,
-        "sbPct": "0.700"
-      },
-      "fielding": {
-        "sb": 45,
-        "cs": 26,
-        "csb": 42,
-        "ccs": 24,
-        "csPct": "0.364"
       }
     },
     {
@@ -195,11 +195,11 @@
       "league": "Central",
       "name": "Hiroshima Carp",
       "batting": {
-        "sb": 34,
-        "cs": 19,
-        "csb": 33,
-        "ccs": 17,
-        "sbPct": "0.660"
+        "sb": 36,
+        "cs": 21,
+        "csb": 35,
+        "ccs": 19,
+        "sbPct": "0.648"
       },
       "fielding": {
         "sb": 28,
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 351,
-        "sb": 227,
-        "cs": 124,
-        "sbPct": "0.671"
+        "attempt": 355,
+        "sb": 229,
+        "cs": 126,
+        "sbPct": "0.669"
       },
       "fielding": {
-        "attempt": 351,
-        "sb": 227,
-        "cs": 124,
-        "csPct": "0.329"
+        "attempt": 355,
+        "sb": 229,
+        "cs": 126,
+        "csPct": "0.331"
       }
     }
   ],
-  "updated": "2020-09-27"
+  "updated": "2020-09-28"
 }
