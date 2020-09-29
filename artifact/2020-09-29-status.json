@@ -248,7 +248,7 @@
       "id": "E-H-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0929/e-h-19/index.html",
-        "status": "（楽天生命パーク）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0929/e-h-19/playbyplay.html",
@@ -304,7 +304,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
