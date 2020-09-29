@@ -4,7 +4,7 @@
       "id": "DB-S-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0929/db-s-19/index.html",
-        "status": "（横　浜）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0929/db-s-19/playbyplay.html",
@@ -111,7 +111,7 @@
       "id": "T-D-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0929/t-d-16/index.html",
-        "status": "（甲子園）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0929/t-d-16/playbyplay.html",
@@ -172,13 +172,13 @@
       "id": "C-G-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0929/c-g-16/index.html",
-        "status": "（マツダスタジアム）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020092903/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
