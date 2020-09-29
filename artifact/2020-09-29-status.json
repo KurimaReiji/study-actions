@@ -104,7 +104,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -112,12 +112,60 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0929/t-d-16/index.html",
         "status": "（甲子園）\n                    4回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0929/t-d-16/playbyplay.html",
+            "date": "2020-09-29",
+            "home": "T",
+            "road": "D",
+            "inning": "b7",
+            "pitcher": "又吉｜61265139",
+            "catchers": [
+              "木下拓｜31735132"
+            ],
+            "batter": "サンズ｜63365151",
+            "runners": [
+              "植田｜01305130"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔植田｜01305130〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020092902/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-09-29",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020092902/text",
+            "title": "9月29日（火） 阪神 vs. 中日 16回戦",
+            "home": "T",
+            "road": "D",
+            "gameNo": "16",
+            "inning": "b7",
+            "batter": "サンズ｜1900148",
+            "state": "二死1塁",
+            "text": "一塁走者 〔植田｜1400172〕 :盗塁成功 2塁",
+            "pitcher": "又吉｜1300063",
+            "catcher": "木下拓｜1500076",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "植田｜1400172"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
@@ -137,7 +185,7 @@
       "id": "F-M-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0929/f-m-19/index.html",
-        "status": "（札幌ドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0929/f-m-19/playbyplay.html",
@@ -148,7 +196,8 @@
             "pitcher": "堀｜51855134",
             "catchers": [
               "清水｜61965130",
-              "宇佐見｜61365132"
+              "宇佐見｜61365132",
+              "鶴岡｜71275117"
             ],
             "batter": "藤岡｜41645136",
             "runners": [
@@ -192,7 +241,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -210,7 +259,8 @@
             "pitcher": "則本昂｜51055137",
             "catchers": [
               "堀内｜11815132",
-              "下妻｜01705137"
+              "下妻｜01705137",
+              "石原｜61165134"
             ],
             "batter": "グラシアル｜83785136",
             "runners": [
@@ -261,7 +311,7 @@
       "id": "B-L-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0929/b-l-19/index.html",
-        "status": "（京セラD大阪）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0929/b-l-19/playbyplay.html",
@@ -361,7 +411,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
