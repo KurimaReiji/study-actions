@@ -4,7 +4,7 @@
       "id": "DB-S-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0930/db-s-20/index.html",
-        "status": "（横　浜）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0930/db-s-20/playbyplay.html",
@@ -59,14 +59,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-D-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0930/t-d-17/index.html",
-        "status": "（甲子園）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0930/t-d-17/playbyplay.html",
@@ -76,7 +76,8 @@
             "inning": "t1",
             "pitcher": "青柳｜71175132",
             "catchers": [
-              "原口｜61065131"
+              "原口｜61065131",
+              "長坂｜91495134"
             ],
             "batter": "アルモンテ｜43345136",
             "runners": [
@@ -120,7 +121,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -151,6 +152,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔田中広｜61965139〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0930/c-g-17/playbyplay.html",
+            "date": "2020-09-30",
+            "home": "C",
+            "road": "G",
+            "inning": "b6",
+            "pitcher": "田中豊｜81085132",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "ピレラ｜23725151",
+            "runners": [
+              "堂林｜61965131"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔堂林｜61965131〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0930/c-g-17/playbyplay.html",
+            "date": "2020-09-30",
+            "home": "C",
+            "road": "G",
+            "inning": "b6",
+            "pitcher": "田中豊｜81085132",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "ケムナ｜71775136",
+            "runners": [
+              "ピレラ｜23725151"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔ピレラ｜23725151〕）二塁盗塁成功"
           }
         ]
       },
@@ -179,6 +226,52 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020093003/text",
+            "title": "9月30日（水） 広島 vs. 巨人 17回戦",
+            "home": "C",
+            "road": "G",
+            "gameNo": "17",
+            "inning": "b6",
+            "batter": "ピレラ｜1900124",
+            "state": "一死1塁",
+            "text": "一塁走者 〔堂林｜900430〕 :盗塁成功 2塁",
+            "pitcher": "田中豊｜1500113",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "堂林｜900430"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-09-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020093003/text",
+            "title": "9月30日（水） 広島 vs. 巨人 17回戦",
+            "home": "C",
+            "road": "G",
+            "gameNo": "17",
+            "inning": "b6",
+            "batter": "ケムナ 誠｜1700070",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔ピレラ｜1900124〕 :盗塁成功 2,3塁",
+            "pitcher": "田中豊｜1500113",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "ピレラ｜1900124"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -188,7 +281,7 @@
       "id": "F-M-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0930/f-m-20/index.html",
-        "status": "（札幌ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/0930/f-m-20/playbyplay.html",
@@ -237,6 +330,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔中村奨｜51455130〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/0930/f-m-20/playbyplay.html",
+            "date": "2020-09-30",
+            "home": "F",
+            "road": "M",
+            "inning": "b8",
+            "pitcher": "澤村｜81985133",
+            "catchers": [
+              "柿沼｜21525132",
+              "田村｜41945137"
+            ],
+            "batter": "中田｜61065116",
+            "runners": [
+              "西川｜21225133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
           }
         ]
       },
@@ -288,9 +405,32 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-09-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020093004/text",
+            "title": "9月30日（水） 日本ハム vs. ロッテ 20回戦",
+            "home": "F",
+            "road": "M",
+            "gameNo": "20",
+            "inning": "b8",
+            "batter": "中田 翔｜800054",
+            "state": "二死1塁",
+            "text": "一塁走者 〔西川｜1000100〕 :盗塁成功 2塁",
+            "pitcher": "澤村｜1000083",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -307,7 +447,8 @@
             "inning": "b1",
             "pitcher": "武田｜01005135",
             "catchers": [
-              "髙谷｜41045114"
+              "髙谷｜41045114",
+              "栗原｜01705130"
             ],
             "batter": "ロメロ｜73975134",
             "runners": [
@@ -351,20 +492,20 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-L-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0930/b-l-20/index.html",
-        "status": "（京セラD大阪）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020093006/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     }
   ],
