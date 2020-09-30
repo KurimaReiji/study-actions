@@ -127,11 +127,59 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/0930/c-g-17/index.html",
         "status": "（マツダスタジアム）\n                    3回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/0930/c-g-17/playbyplay.html",
+            "date": "2020-09-30",
+            "home": "C",
+            "road": "G",
+            "inning": "b3",
+            "pitcher": "田口｜41945139",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "鈴木誠｜81785137",
+            "runners": [
+              "田中広｜61965139"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔田中広｜61965139〕）二塁盗塁失敗"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020093003/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-09-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020093003/text",
+            "title": "9月30日（水） 広島 vs. 巨人 17回戦",
+            "home": "C",
+            "road": "G",
+            "gameNo": "17",
+            "inning": "b3",
+            "batter": "鈴木 誠也｜1200069",
+            "state": "一死1塁",
+            "text": "一塁走者 〔田中広｜1300059〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "田口｜1300029",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "田中広｜1300059"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
