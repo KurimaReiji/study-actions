@@ -4,7 +4,7 @@
       "id": "DB-S-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1001/db-s-21/index.html",
-        "status": "（横　浜）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1001/db-s-21/playbyplay.html",
@@ -878,7 +878,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
