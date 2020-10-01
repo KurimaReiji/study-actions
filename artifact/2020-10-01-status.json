@@ -14,7 +14,8 @@
             "inning": "t2",
             "pitcher": "武藤｜61665133",
             "catchers": [
-              "戸柱｜41245132"
+              "戸柱｜41245132",
+              "伊藤光｜81185116"
             ],
             "batter": "西浦｜91095139",
             "runners": [
@@ -37,7 +38,8 @@
             "inning": "t3",
             "pitcher": "砂田｜11915139",
             "catchers": [
-              "戸柱｜41245132"
+              "戸柱｜41245132",
+              "伊藤光｜81185116"
             ],
             "batter": "坂口｜21925117",
             "runners": [
@@ -60,7 +62,8 @@
             "inning": "t8",
             "pitcher": "パットン｜03705134",
             "catchers": [
-              "戸柱｜41245132"
+              "戸柱｜41245132",
+              "伊藤光｜81185116"
             ],
             "batter": "青木｜31135119",
             "runners": [
@@ -150,14 +153,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-D-18",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1001/t-d-18/index.html",
-        "status": "（甲子園）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1001/t-d-18/playbyplay.html",
@@ -227,6 +230,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "0アウト｜1・3塁｜｜｜（走者・〔北條｜11215137〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1001/t-d-18/playbyplay.html",
+            "date": "2020-10-01",
+            "home": "T",
+            "road": "D",
+            "inning": "b8",
+            "pitcher": "谷元｜31035118",
+            "catchers": [
+              "木下拓｜31735132"
+            ],
+            "batter": "サンズ｜63365151",
+            "runners": [
+              "植田｜01305130"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔植田｜01305130〕）二塁盗塁失敗"
           }
         ]
       },
@@ -301,16 +327,39 @@
             "base": 2,
             "outs": 0,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-01",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100102/text",
+            "title": "10月1日（木） 阪神 vs. 中日 18回戦",
+            "home": "T",
+            "road": "D",
+            "gameNo": "18",
+            "inning": "b8",
+            "batter": "サンズ｜1900148",
+            "state": "二死1塁",
+            "text": "一塁走者 〔植田｜1400172〕 :盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "谷元｜900071",
+            "catcher": "木下拓｜1500076",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "植田｜1400172"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-G-18",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1001/c-g-18/index.html",
-        "status": "（マツダスタジアム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1001/c-g-18/playbyplay.html",
@@ -364,7 +413,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -450,7 +499,8 @@
             "inning": "b6",
             "pitcher": "岩下｜91395130",
             "catchers": [
-              "柿沼｜21525132"
+              "柿沼｜21525132",
+              "田村｜41945137"
             ],
             "batter": "樋口｜81485151",
             "runners": [
@@ -487,128 +537,36 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔和田｜33335136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1001/f-m-21/playbyplay.html",
+            "date": "2020-10-01",
+            "home": "F",
+            "road": "M",
+            "inning": "b8",
+            "pitcher": "東條｜21225132",
+            "catchers": [
+              "柿沼｜21525132",
+              "田村｜41945137"
+            ],
+            "batter": "清宮｜41545136",
+            "runners": [
+              "杉谷｜81785118"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔杉谷｜81785118〕）二塁盗塁成功"
           }
         ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100104/text",
-        "attempts": [
-          {
-            "date": "2020-10-01",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020100104/text",
-            "title": "10月1日（木） 日本ハム vs. ロッテ 21回戦",
-            "home": "F",
-            "road": "M",
-            "gameNo": "21",
-            "inning": "t1",
-            "batter": "マーティン｜1900014",
-            "state": "一死1塁",
-            "text": "一塁走者 〔荻野｜1000014〕 :盗塁成功 2塁",
-            "pitcher": "杉浦｜1300094",
-            "catcher": "宇佐見｜1500049",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "荻野｜1000014"
-            ],
-            "base": 2,
-            "outs": 1,
-            "RoB": "1--"
-          },
-          {
-            "date": "2020-10-01",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020100104/text",
-            "title": "10月1日（木） 日本ハム vs. ロッテ 21回戦",
-            "home": "F",
-            "road": "M",
-            "gameNo": "21",
-            "inning": "t2",
-            "batter": "中村 奨吾｜1400188",
-            "state": "一死1塁",
-            "text": "空振り三振！一塁走者 〔菅野｜1700095〕 も盗塁失敗でダブルプレー 3アウトチェンジ",
-            "pitcher": "杉浦｜1300094",
-            "catcher": "宇佐見｜1500049",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "菅野｜1700095"
-            ],
-            "base": 2,
-            "outs": 1,
-            "RoB": "1--"
-          },
-          {
-            "date": "2020-10-01",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020100104/text",
-            "title": "10月1日（木） 日本ハム vs. ロッテ 21回戦",
-            "home": "F",
-            "road": "M",
-            "gameNo": "21",
-            "inning": "t4",
-            "batter": "中村 奨吾｜1400188",
-            "state": "二死1,3塁",
-            "text": "一塁走者 〔菅野｜1700095〕 :盗塁成功 2,3塁",
-            "pitcher": "杉浦｜1300094",
-            "catcher": "宇佐見｜1500049",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "菅野｜1700095"
-            ],
-            "base": 2,
-            "outs": 2,
-            "RoB": "1-3"
-          },
-          {
-            "date": "2020-10-01",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020100104/text",
-            "title": "10月1日（木） 日本ハム vs. ロッテ 21回戦",
-            "home": "F",
-            "road": "M",
-            "gameNo": "21",
-            "inning": "b6",
-            "batter": "樋口 龍之介｜1900078",
-            "state": "一死1塁",
-            "text": "一塁走者 〔大田｜900011〕 :盗塁を試みるもアウト 2アウト",
-            "pitcher": "岩下｜1400190",
-            "catcher": "柿沼｜1500125",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "大田｜900011"
-            ],
-            "base": 2,
-            "outs": 1,
-            "RoB": "1--"
-          },
-          {
-            "date": "2020-10-01",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020100104/text",
-            "title": "10月1日（木） 日本ハム vs. ロッテ 21回戦",
-            "home": "F",
-            "road": "M",
-            "gameNo": "21",
-            "inning": "t7",
-            "batter": "藤岡 裕大｜1700093",
-            "state": "一死1塁",
-            "text": "一塁走者 〔和田｜1700098〕 :盗塁成功 2塁",
-            "pitcher": "公文｜1200044",
-            "catcher": "宇佐見｜1500049",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "和田｜1700098"
-            ],
-            "base": 2,
-            "outs": 1,
-            "RoB": "1--"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
@@ -616,7 +574,7 @@
       "id": "E-H-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1001/e-h-21/index.html",
-        "status": "（楽天生命パーク）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1001/e-h-21/playbyplay.html",
@@ -765,7 +723,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -820,6 +778,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔外崎｜41245130〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1001/b-l-21/playbyplay.html",
+            "date": "2020-10-01",
+            "home": "B",
+            "road": "L",
+            "inning": "b7",
+            "pitcher": "宮川｜51855151",
+            "catchers": [
+              "岡田｜31535139",
+              "森｜91495139"
+            ],
+            "batter": "杉本｜61965132",
+            "runners": [
+              "小田｜31535130"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔小田｜31535130〕）二塁盗塁成功"
           }
         ]
       },
@@ -871,6 +853,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-01",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100106/text",
+            "title": "10月1日（木） オリックス vs. 西武 21回戦",
+            "home": "B",
+            "road": "L",
+            "gameNo": "21",
+            "inning": "b7",
+            "batter": "杉本 裕太郎｜1500135",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔小田｜1400202〕 :盗塁成功 2,3塁",
+            "pitcher": "宮川｜1900061",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "小田｜1400202"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
