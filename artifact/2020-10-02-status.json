@@ -125,7 +125,31 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1002/t-g-17/index.html",
         "status": "（甲子園）\n                    5回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1002/t-g-17/playbyplay.html",
+            "date": "2020-10-02",
+            "home": "T",
+            "road": "G",
+            "inning": "b5",
+            "pitcher": "今村｜31335135",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "北條｜11215137",
+            "runners": [
+              "近本｜71075138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔近本｜71075138〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100203/text",
