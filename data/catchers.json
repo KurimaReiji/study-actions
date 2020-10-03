@@ -1,9 +1,9 @@
 [
   {
     "catcher": "森",
-    "csPct": "0.302",
-    "cs": 19,
-    "sb": 44,
+    "csPct": "0.308",
+    "cs": 20,
+    "sb": 45,
     "team": "L",
     "league": "pacific"
   },
@@ -17,9 +17,9 @@
   },
   {
     "catcher": "清水",
-    "csPct": "0.157",
+    "csPct": "0.154",
     "cs": 8,
-    "sb": 43,
+    "sb": 44,
     "team": "F",
     "league": "pacific"
   },
@@ -64,6 +64,14 @@
     "league": "central"
   },
   {
+    "catcher": "梅野",
+    "csPct": "0.389",
+    "cs": 14,
+    "sb": 22,
+    "team": "T",
+    "league": "central"
+  },
+  {
     "catcher": "太田",
     "csPct": "0.333",
     "cs": 12,
@@ -80,18 +88,10 @@
     "league": "central"
   },
   {
-    "catcher": "梅野",
-    "csPct": "0.412",
-    "cs": 14,
-    "sb": 20,
-    "team": "T",
-    "league": "central"
-  },
-  {
     "catcher": "大城",
-    "csPct": "0.355",
+    "csPct": "0.344",
     "cs": 11,
-    "sb": 20,
+    "sb": 21,
     "team": "G",
     "league": "central"
   },
@@ -128,19 +128,19 @@
     "league": "pacific"
   },
   {
+    "catcher": "坂倉",
+    "csPct": "0.375",
+    "cs": 6,
+    "sb": 10,
+    "team": "C",
+    "league": "central"
+  },
+  {
     "catcher": "A.マルティネス",
     "csPct": "0.188",
     "cs": 3,
     "sb": 13,
     "team": "D",
-    "league": "central"
-  },
-  {
-    "catcher": "坂倉",
-    "csPct": "0.333",
-    "cs": 5,
-    "sb": 10,
-    "team": "C",
     "league": "central"
   },
   {
@@ -161,9 +161,9 @@
   },
   {
     "catcher": "下妻",
-    "csPct": "0.077",
+    "csPct": "0.071",
     "cs": 1,
-    "sb": 12,
+    "sb": 13,
     "team": "E",
     "league": "pacific"
   },
@@ -184,6 +184,14 @@
     "league": "central"
   },
   {
+    "catcher": "井野",
+    "csPct": "-",
+    "cs": 0,
+    "sb": 11,
+    "team": "S",
+    "league": "central"
+  },
+  {
     "catcher": "松井雅",
     "csPct": "0.200",
     "cs": 2,
@@ -197,14 +205,6 @@
     "cs": 1,
     "sb": 8,
     "team": "T",
-    "league": "central"
-  },
-  {
-    "catcher": "井野",
-    "csPct": "-",
-    "cs": 0,
-    "sb": 9,
-    "team": "S",
     "league": "central"
   },
   {
