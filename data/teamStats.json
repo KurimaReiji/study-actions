@@ -5,18 +5,18 @@
       "league": "Pacific",
       "name": "Nippon-Ham Fighters",
       "batting": {
-        "sb": 50,
+        "sb": 51,
         "cs": 15,
-        "csb": 47,
+        "csb": 48,
         "ccs": 12,
-        "sbPct": "0.797"
+        "sbPct": "0.800"
       },
       "fielding": {
-        "sb": 95,
-        "cs": 27,
-        "csb": 93,
-        "ccs": 23,
-        "csPct": "0.198"
+        "sb": 96,
+        "cs": 28,
+        "csb": 94,
+        "ccs": 24,
+        "csPct": "0.203"
       }
     },
     {
@@ -62,11 +62,11 @@
       "league": "Pacific",
       "name": "Rakuten Eagles",
       "batting": {
-        "sb": 51,
-        "cs": 21,
-        "csb": 49,
+        "sb": 52,
+        "cs": 22,
+        "csb": 50,
         "ccs": 17,
-        "sbPct": "0.742"
+        "sbPct": "0.746"
       },
       "fielding": {
         "sb": 58,
@@ -100,11 +100,11 @@
       "league": "Central",
       "name": "Yakult Swallows",
       "batting": {
-        "sb": 51,
+        "sb": 53,
         "cs": 35,
-        "csb": 47,
+        "csb": 48,
         "ccs": 31,
-        "sbPct": "0.603"
+        "sbPct": "0.608"
       },
       "fielding": {
         "sb": 59,
@@ -126,11 +126,30 @@
         "sbPct": "0.747"
       },
       "fielding": {
-        "sb": 52,
-        "cs": 21,
-        "csb": 51,
+        "sb": 53,
+        "cs": 22,
+        "csb": 52,
         "ccs": 17,
-        "csPct": "0.250"
+        "csPct": "0.246"
+      }
+    },
+    {
+      "team": "H",
+      "league": "Pacific",
+      "name": "SoftBank Hawks",
+      "batting": {
+        "sb": 68,
+        "cs": 24,
+        "csb": 68,
+        "ccs": 20,
+        "sbPct": "0.773"
+      },
+      "fielding": {
+        "sb": 49,
+        "cs": 24,
+        "csb": 47,
+        "ccs": 17,
+        "csPct": "0.266"
       }
     },
     {
@@ -153,25 +172,6 @@
       }
     },
     {
-      "team": "H",
-      "league": "Pacific",
-      "name": "SoftBank Hawks",
-      "batting": {
-        "sb": 67,
-        "cs": 23,
-        "csb": 67,
-        "ccs": 19,
-        "sbPct": "0.779"
-      },
-      "fielding": {
-        "sb": 48,
-        "cs": 24,
-        "csb": 46,
-        "ccs": 17,
-        "csPct": "0.270"
-      }
-    },
-    {
       "team": "T",
       "league": "Central",
       "name": "Hanshin Tigers",
@@ -183,11 +183,11 @@
         "sbPct": "0.718"
       },
       "fielding": {
-        "sb": 36,
+        "sb": 38,
         "cs": 18,
-        "csb": 34,
+        "csb": 36,
         "ccs": 17,
-        "csPct": "0.333"
+        "csPct": "0.321"
       }
     },
     {
@@ -202,11 +202,11 @@
         "sbPct": "0.677"
       },
       "fielding": {
-        "sb": 29,
+        "sb": 31,
         "cs": 21,
-        "csb": 29,
+        "csb": 30,
         "ccs": 15,
-        "csPct": "0.341"
+        "csPct": "0.333"
       }
     },
     {
@@ -214,11 +214,11 @@
       "league": "Central",
       "name": "Yomiuri Giants",
       "batting": {
-        "sb": 54,
+        "sb": 56,
         "cs": 22,
-        "csb": 53,
+        "csb": 55,
         "ccs": 19,
-        "sbPct": "0.736"
+        "sbPct": "0.743"
       },
       "fielding": {
         "sb": 30,
@@ -233,15 +233,15 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 511,
-        "sb": 369,
-        "cs": 142,
+        "attempt": 516,
+        "sb": 372,
+        "cs": 144,
         "sbPct": "0.750"
       },
       "fielding": {
-        "attempt": 511,
-        "sb": 369,
-        "cs": 142,
+        "attempt": 516,
+        "sb": 372,
+        "cs": 144,
         "csPct": "0.250"
       }
     },
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 381,
-        "sb": 250,
+        "attempt": 385,
+        "sb": 254,
         "cs": 131,
-        "sbPct": "0.679"
+        "sbPct": "0.682"
       },
       "fielding": {
-        "attempt": 381,
-        "sb": 250,
+        "attempt": 385,
+        "sb": 254,
         "cs": 131,
-        "csPct": "0.321"
+        "csPct": "0.318"
       }
     }
   ],
-  "updated": "2020-10-03"
+  "updated": "2020-10-04"
 }
