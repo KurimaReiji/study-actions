@@ -176,11 +176,11 @@
       "league": "Central",
       "name": "Hanshin Tigers",
       "batting": {
-        "sb": 58,
+        "sb": 61,
         "cs": 26,
-        "csb": 56,
+        "csb": 58,
         "ccs": 22,
-        "sbPct": "0.718"
+        "sbPct": "0.725"
       },
       "fielding": {
         "sb": 38,
@@ -188,6 +188,25 @@
         "csb": 36,
         "ccs": 17,
         "csPct": "0.321"
+      }
+    },
+    {
+      "team": "G",
+      "league": "Central",
+      "name": "Yomiuri Giants",
+      "batting": {
+        "sb": 56,
+        "cs": 22,
+        "csb": 55,
+        "ccs": 19,
+        "sbPct": "0.743"
+      },
+      "fielding": {
+        "sb": 33,
+        "cs": 19,
+        "csb": 31,
+        "ccs": 18,
+        "csPct": "0.367"
       }
     },
     {
@@ -207,25 +226,6 @@
         "csb": 30,
         "ccs": 15,
         "csPct": "0.333"
-      }
-    },
-    {
-      "team": "G",
-      "league": "Central",
-      "name": "Yomiuri Giants",
-      "batting": {
-        "sb": 56,
-        "cs": 22,
-        "csb": 55,
-        "ccs": 19,
-        "sbPct": "0.743"
-      },
-      "fielding": {
-        "sb": 30,
-        "cs": 19,
-        "csb": 29,
-        "ccs": 18,
-        "csPct": "0.383"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 385,
-        "sb": 254,
+        "attempt": 388,
+        "sb": 257,
         "cs": 131,
-        "sbPct": "0.682"
+        "sbPct": "0.683"
       },
       "fielding": {
-        "attempt": 385,
-        "sb": 254,
+        "attempt": 388,
+        "sb": 257,
         "cs": 131,
-        "csPct": "0.318"
+        "csPct": "0.317"
       }
     }
   ],
-  "updated": "2020-10-04"
+  "updated": "2020-10-05"
 }
