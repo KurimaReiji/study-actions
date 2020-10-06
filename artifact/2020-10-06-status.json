@@ -234,7 +234,7 @@
       "id": "F-E-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1006/f-e-19/index.html",
-        "status": "（札幌ドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1006/f-e-19/playbyplay.html",
@@ -383,7 +383,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -437,59 +437,35 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "2アウト｜1・3塁｜｜｜（走者・〔源田｜71775134〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1006/l-h-15/playbyplay.html",
+            "date": "2020-10-06",
+            "home": "L",
+            "road": "H",
+            "inning": "b8",
+            "pitcher": "泉｜01105138",
+            "catchers": [
+              "甲斐｜91595133"
+            ],
+            "batter": "源田｜71775134",
+            "runners": [
+              "木村｜41745114"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔木村｜41745114〕）二塁盗塁成功"
           }
         ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100605/text",
-        "attempts": [
-          {
-            "date": "2020-10-06",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020100605/text",
-            "title": "10月6日（火） 西武 vs. ソフトバンク 15回戦",
-            "home": "L",
-            "road": "H",
-            "gameNo": "15",
-            "inning": "b3",
-            "batter": "源田 壮亮｜1600129",
-            "state": "二死1塁",
-            "text": "一塁走者 〔金子｜1200083〕 :積極的に初球から走って盗塁成功 2塁",
-            "pitcher": "千賀｜1000174",
-            "catcher": "甲斐｜1000176",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "金子｜1200083"
-            ],
-            "base": 2,
-            "outs": 2,
-            "RoB": "1--"
-          },
-          {
-            "date": "2020-10-06",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020100605/text",
-            "title": "10月6日（火） 西武 vs. ソフトバンク 15回戦",
-            "home": "L",
-            "road": "H",
-            "gameNo": "15",
-            "inning": "b5",
-            "batter": "メヒア｜1400010",
-            "state": "二死1,3塁",
-            "text": "一塁走者 〔源田｜1600129〕 :盗塁成功 2,3塁",
-            "pitcher": "千賀｜1000174",
-            "catcher": "甲斐｜1000176",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "源田｜1600129"
-            ],
-            "base": 2,
-            "outs": 2,
-            "RoB": "1-3"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
