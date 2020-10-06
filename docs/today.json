@@ -1,5 +1,30 @@
 [
   {
+    "url": "https://npb.jp/scores/2020/1006/g-db-16/playbyplay.html",
+    "date": "2020-10-06",
+    "home": "G",
+    "road": "DB",
+    "inning": "b4",
+    "pitcher": "三上｜31435139",
+    "catchers": [
+      "戸柱｜41245132"
+    ],
+    "batter": "松原｜21825134",
+    "runners": [
+      "吉川尚｜73375134"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "0アウト｜1塁｜｜｜（走者・〔吉川尚｜73375134〕）二塁盗塁失敗",
+    "catcher": "戸柱｜41245132",
+    "ytext": "一塁走者 〔吉川尚｜1600059〕 :積極的に初球から盗塁を試みるもアウト 1アウト"
+  },
+  {
     "url": "https://npb.jp/scores/2020/1006/d-s-19/playbyplay.html",
     "date": "2020-10-06",
     "home": "D",
