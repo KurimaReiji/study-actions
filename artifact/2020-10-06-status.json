@@ -197,6 +197,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔宇草｜41345151〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1006/c-t-18/playbyplay.html",
+            "date": "2020-10-06",
+            "home": "C",
+            "road": "T",
+            "inning": "t10",
+            "pitcher": "中田｜31235118",
+            "catchers": [
+              "坂倉｜11915134"
+            ],
+            "batter": "長坂｜91495134",
+            "runners": [
+              "熊谷｜81585136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔熊谷｜81585136〕）二塁盗塁成功"
           }
         ]
       },
@@ -225,9 +248,32 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-06",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100603/text",
+            "title": "10月6日（火） 広島 vs. 阪神 18回戦",
+            "home": "C",
+            "road": "T",
+            "gameNo": "18",
+            "inning": "t10",
+            "batter": "長坂 拳弥｜1600119",
+            "state": "二死1塁",
+            "text": "一塁走者 〔熊谷｜1700079〕 :盗塁成功 2塁",
+            "pitcher": "中田｜900038",
+            "catcher": "坂倉｜1600124",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "熊谷｜1700079"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -390,7 +436,7 @@
       "id": "L-H-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1006/l-h-15/index.html",
-        "status": "（メットライフ）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1006/l-h-15/playbyplay.html",
@@ -465,8 +511,78 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100605/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-10-06",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100605/text",
+            "title": "10月6日（火） 西武 vs. ソフトバンク 15回戦",
+            "home": "L",
+            "road": "H",
+            "gameNo": "15",
+            "inning": "b3",
+            "batter": "源田 壮亮｜1600129",
+            "state": "二死1塁",
+            "text": "一塁走者 〔金子｜1200083〕 :積極的に初球から走って盗塁成功 2塁",
+            "pitcher": "千賀｜1000174",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "金子｜1200083"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-06",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100605/text",
+            "title": "10月6日（火） 西武 vs. ソフトバンク 15回戦",
+            "home": "L",
+            "road": "H",
+            "gameNo": "15",
+            "inning": "b5",
+            "batter": "メヒア｜1400010",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔源田｜1600129〕 :盗塁成功 2,3塁",
+            "pitcher": "千賀｜1000174",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "源田｜1600129"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-06",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100605/text",
+            "title": "10月6日（火） 西武 vs. ソフトバンク 15回戦",
+            "home": "L",
+            "road": "H",
+            "gameNo": "15",
+            "inning": "b8",
+            "batter": "源田 壮亮｜1600129",
+            "state": "二死1塁",
+            "text": "一塁走者 〔木村｜700078〕 :盗塁成功 2塁",
+            "pitcher": "泉｜1800111",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "木村｜700078"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
