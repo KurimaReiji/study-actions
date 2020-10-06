@@ -127,11 +127,59 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1006/c-t-18/index.html",
         "status": "（マツダスタジアム）\n                    5回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1006/c-t-18/playbyplay.html",
+            "date": "2020-10-06",
+            "home": "C",
+            "road": "T",
+            "inning": "b7",
+            "pitcher": "桑原｜31735116",
+            "catchers": [
+              "坂本｜11915132"
+            ],
+            "batter": "田中広｜61965139",
+            "runners": [
+              "宇草｜41345151"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔宇草｜41345151〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100603/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-10-06",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100603/text",
+            "title": "10月6日（火） 広島 vs. 阪神 18回戦",
+            "home": "C",
+            "road": "T",
+            "gameNo": "18",
+            "inning": "b7",
+            "batter": "田中 広輔｜1300059",
+            "state": "一死1塁",
+            "text": "一塁走者 〔宇草｜1900053〕 :盗塁成功 2塁",
+            "pitcher": "桑原｜800021",
+            "catcher": "坂本｜1500087",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "宇草｜1900053"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
@@ -402,7 +450,7 @@
       "id": "M-B-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1006/m-b-19/index.html",
-        "status": "（ZOZOマリン）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1006/m-b-19/playbyplay.html",
@@ -456,7 +504,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
