@@ -25,25 +25,25 @@
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.388",
-    "cs": 19,
+    "csPct": "0.412",
+    "cs": 21,
     "sb": 30,
     "team": "DB",
     "league": "central"
   },
   {
     "catcher": "甲斐",
-    "csPct": "0.364",
+    "csPct": "0.340",
     "cs": 16,
-    "sb": 28,
+    "sb": 31,
     "team": "H",
     "league": "pacific"
   },
   {
     "catcher": "田村",
-    "csPct": "0.214",
+    "csPct": "0.209",
     "cs": 9,
-    "sb": 33,
+    "sb": 34,
     "team": "M",
     "league": "pacific"
   },
@@ -72,20 +72,20 @@
     "league": "central"
   },
   {
+    "catcher": "木下拓",
+    "csPct": "0.472",
+    "cs": 17,
+    "sb": 19,
+    "team": "D",
+    "league": "central"
+  },
+  {
     "catcher": "太田",
     "csPct": "0.333",
     "cs": 12,
     "sb": 24,
     "team": "E",
     "league": "pacific"
-  },
-  {
-    "catcher": "木下拓",
-    "csPct": "0.457",
-    "cs": 16,
-    "sb": 19,
-    "team": "D",
-    "league": "central"
   },
   {
     "catcher": "大城",
@@ -129,11 +129,19 @@
   },
   {
     "catcher": "坂倉",
-    "csPct": "0.375",
+    "csPct": "0.353",
     "cs": 6,
-    "sb": 10,
+    "sb": 11,
     "team": "C",
     "league": "central"
+  },
+  {
+    "catcher": "下妻",
+    "csPct": "0.059",
+    "cs": 1,
+    "sb": 16,
+    "team": "E",
+    "league": "pacific"
   },
   {
     "catcher": "A.マルティネス",
@@ -158,14 +166,6 @@
     "sb": 7,
     "team": "DB",
     "league": "central"
-  },
-  {
-    "catcher": "下妻",
-    "csPct": "0.071",
-    "cs": 1,
-    "sb": 13,
-    "team": "E",
-    "league": "pacific"
   },
   {
     "catcher": "炭谷",
@@ -224,6 +224,14 @@
     "league": "central"
   },
   {
+    "catcher": "坂本",
+    "csPct": "0.286",
+    "cs": 2,
+    "sb": 5,
+    "team": "T",
+    "league": "central"
+  },
+  {
     "catcher": "加藤",
     "csPct": "0.286",
     "cs": 2,
@@ -261,14 +269,6 @@
     "cs": 2,
     "sb": 4,
     "team": "DB",
-    "league": "central"
-  },
-  {
-    "catcher": "坂本",
-    "csPct": "0.333",
-    "cs": 2,
-    "sb": 4,
-    "team": "T",
     "league": "central"
   },
   {
