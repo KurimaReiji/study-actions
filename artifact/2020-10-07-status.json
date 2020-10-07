@@ -4,26 +4,26 @@
       "id": "G-DB-17",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1007/g-db-17/index.html",
-        "status": "（東京ドーム）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100701/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-S-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1007/d-s-20/index.html",
-        "status": "（ナゴヤドーム）\n                    4回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100702/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -40,7 +40,8 @@
             "inning": "b1",
             "pitcher": "岩田｜51355112",
             "catchers": [
-              "梅野｜21325139"
+              "梅野｜21325139",
+              "長坂｜91495134"
             ],
             "batter": "田中広｜61965139",
             "runners": [
@@ -63,7 +64,8 @@
             "inning": "b3",
             "pitcher": "岩田｜51355112",
             "catchers": [
-              "梅野｜21325139"
+              "梅野｜21325139",
+              "長坂｜91495134"
             ],
             "batter": "田中広｜61965139",
             "runners": [
@@ -86,7 +88,8 @@
             "inning": "b3",
             "pitcher": "岩田｜51355112",
             "catchers": [
-              "梅野｜21325139"
+              "梅野｜21325139",
+              "長坂｜91495134"
             ],
             "batter": "松山｜01405116",
             "runners": [
@@ -123,6 +126,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔北條｜11215137〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1007/c-t-19/playbyplay.html",
+            "date": "2020-10-07",
+            "home": "C",
+            "road": "T",
+            "inning": "t8",
+            "pitcher": "塹江｜21625130",
+            "catchers": [
+              "會澤｜31135114"
+            ],
+            "batter": "近本｜71075138",
+            "runners": [
+              "長坂｜91495134"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔長坂｜91495134〕）二塁盗塁成功"
           }
         ]
       },
@@ -288,7 +314,8 @@
             "inning": "b3",
             "pitcher": "涌井｜31635110",
             "catchers": [
-              "石原｜61165134"
+              "石原｜61165134",
+              "足立｜41145132"
             ],
             "batter": "西川｜21225133",
             "runners": [
@@ -442,7 +469,8 @@
             "inning": "t4",
             "pitcher": "平井｜91695134",
             "catchers": [
-              "柘植｜61265151"
+              "柘植｜61265151",
+              "森｜91495139"
             ],
             "batter": "川島｜81585112",
             "runners": [
@@ -465,7 +493,8 @@
             "inning": "t6",
             "pitcher": "平井｜91695134",
             "catchers": [
-              "柘植｜61265151"
+              "柘植｜61265151",
+              "森｜91495139"
             ],
             "batter": "川島｜81585112",
             "runners": [
@@ -479,6 +508,77 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔真砂｜51255137〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1007/l-h-16/playbyplay.html",
+            "date": "2020-10-07",
+            "home": "L",
+            "road": "H",
+            "inning": "t7",
+            "pitcher": "ギャレット｜03305151",
+            "catchers": [
+              "柘植｜61265151",
+              "森｜91495139"
+            ],
+            "batter": "柳田｜31835133",
+            "runners": [
+              "周東｜21925136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1007/l-h-16/playbyplay.html",
+            "date": "2020-10-07",
+            "home": "L",
+            "road": "H",
+            "inning": "t7",
+            "pitcher": "ギャレット｜03305151",
+            "catchers": [
+              "柘植｜61265151",
+              "森｜91495139"
+            ],
+            "batter": "松田宣｜51655112",
+            "runners": [
+              "グラシアル｜83785136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔グラシアル｜83785136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1007/l-h-16/playbyplay.html",
+            "date": "2020-10-07",
+            "home": "L",
+            "road": "H",
+            "inning": "b7",
+            "pitcher": "嘉弥真｜91595135",
+            "catchers": [
+              "甲斐｜91595133"
+            ],
+            "batter": "源田｜71775134",
+            "runners": [
+              "金子｜01505137"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔金子｜01505137〕）二塁盗塁成功"
           }
         ]
       },
@@ -530,6 +630,75 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-07",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100705/text",
+            "title": "10月7日（水） 西武 vs. ソフトバンク 16回戦",
+            "home": "L",
+            "road": "H",
+            "gameNo": "16",
+            "inning": "t7",
+            "batter": "柳田 悠岐｜1000128",
+            "state": "無死1塁",
+            "text": "一塁走者 〔周東｜1700135〕 :盗塁成功 2塁",
+            "pitcher": "ギャレット｜1900152",
+            "catcher": "柘植｜1900065",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-07",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100705/text",
+            "title": "10月7日（水） 西武 vs. ソフトバンク 16回戦",
+            "home": "L",
+            "road": "H",
+            "gameNo": "16",
+            "inning": "t7",
+            "batter": "松田 宣浩｜600084",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔グラシアル｜1800007〕 :盗塁成功 2,3塁",
+            "pitcher": "ギャレット｜1900152",
+            "catcher": "柘植｜1900065",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "グラシアル｜1800007"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-07",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100705/text",
+            "title": "10月7日（水） 西武 vs. ソフトバンク 16回戦",
+            "home": "L",
+            "road": "H",
+            "gameNo": "16",
+            "inning": "b7",
+            "batter": "源田 壮亮｜1600129",
+            "state": "二死1塁",
+            "text": "一塁走者 〔金子｜1200083〕 :盗塁成功 2塁",
+            "pitcher": "嘉弥真｜1100119",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "金子｜1200083"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -539,7 +708,7 @@
       "id": "M-B-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1007/m-b-20/index.html",
-        "status": "（ZOZOマリン）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1007/m-b-20/playbyplay.html",
@@ -593,7 +762,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
