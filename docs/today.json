@@ -75,6 +75,31 @@
     "ytext": "一塁走者 〔鈴木誠｜1200069〕 :盗塁成功 2,3塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/1007/c-t-19/playbyplay.html",
+    "date": "2020-10-07",
+    "home": "C",
+    "road": "T",
+    "inning": "t4",
+    "pitcher": "遠藤｜71375136",
+    "catchers": [
+      "會澤｜31135114"
+    ],
+    "batter": "サンズ｜63365151",
+    "runners": [
+      "北條｜11215137"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "2アウト｜1塁｜｜｜（走者・〔北條｜11215137〕）二塁盗塁成功",
+    "catcher": "會澤｜31135114",
+    "ytext": "一塁走者 〔北條｜1200063〕 :盗塁成功 2塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/1007/f-e-20/playbyplay.html",
     "date": "2020-10-07",
     "home": "F",

@@ -100,6 +100,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "1アウト｜1・3塁｜｜｜（走者・〔鈴木誠｜81785137〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1007/c-t-19/playbyplay.html",
+            "date": "2020-10-07",
+            "home": "C",
+            "road": "T",
+            "inning": "t4",
+            "pitcher": "遠藤｜71375136",
+            "catchers": [
+              "會澤｜31135114"
+            ],
+            "batter": "サンズ｜63365151",
+            "runners": [
+              "北條｜11215137"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔北條｜11215137〕）二塁盗塁成功"
           }
         ]
       },
@@ -175,6 +198,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-07",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100703/text",
+            "title": "10月7日（水） 広島 vs. 阪神 19回戦",
+            "home": "C",
+            "road": "T",
+            "gameNo": "19",
+            "inning": "t4",
+            "batter": "サンズ｜1900148",
+            "state": "二死1塁",
+            "text": "一塁走者 〔北條｜1200063〕 :盗塁成功 2塁",
+            "pitcher": "遠藤｜1700072",
+            "catcher": "會澤｜700050",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "北條｜1200063"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
         "status": false
