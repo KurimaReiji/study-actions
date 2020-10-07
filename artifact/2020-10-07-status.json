@@ -30,7 +30,7 @@
       "id": "C-T-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1007/c-t-19/index.html",
-        "status": "（マツダスタジアム）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1007/c-t-19/playbyplay.html",
@@ -247,9 +247,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-07",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100703/text",
+            "title": "10月7日（水） 広島 vs. 阪神 19回戦",
+            "home": "C",
+            "road": "T",
+            "gameNo": "19",
+            "inning": "t8",
+            "batter": "近本 光司｜1800065",
+            "state": "二死1塁",
+            "text": "一塁走者 〔長坂｜1600119〕 :盗塁成功 2塁",
+            "pitcher": "塹江｜1400175",
+            "catcher": "會澤｜700050",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "長坂｜1600119"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -452,14 +475,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-H-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1007/l-h-16/index.html",
-        "status": "（メットライフ）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1007/l-h-16/playbyplay.html",
@@ -701,7 +724,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
