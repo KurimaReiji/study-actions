@@ -160,7 +160,7 @@
       "id": "C-T-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1008/c-t-20/index.html",
-        "status": "（マツダスタジアム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1008/c-t-20/playbyplay.html",
@@ -170,7 +170,8 @@
             "inning": "t5",
             "pitcher": "野村｜21425135",
             "catchers": [
-              "會澤｜31135114"
+              "會澤｜31135114",
+              "磯村｜81185133"
             ],
             "batter": "北條｜11215137",
             "runners": [
@@ -214,7 +215,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -222,11 +223,59 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1008/f-e-21/index.html",
         "status": "（札幌ドーム）\n                    4回表",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1008/f-e-21/playbyplay.html",
+            "date": "2020-10-08",
+            "home": "F",
+            "road": "E",
+            "inning": "b7",
+            "pitcher": "岸｜91795114",
+            "catchers": [
+              "下妻｜01705137"
+            ],
+            "batter": "樋口｜81485151",
+            "runners": [
+              "渡邉｜81685139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔渡邉｜81685139〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100803/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-10-08",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100803/text",
+            "title": "10月8日（木） 日本ハム vs. 楽天 21回戦",
+            "home": "F",
+            "road": "E",
+            "gameNo": "21",
+            "inning": "b7",
+            "batter": "樋口 龍之介｜1900078",
+            "state": "一死1塁",
+            "text": "空振り三振に倒れるもスタートを切っていた一塁走者 〔渡邉｜1300042〕 が盗塁成功 2アウト2塁",
+            "pitcher": "岸｜700065",
+            "catcher": "下妻｜1200119",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "渡邉｜1300042"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
