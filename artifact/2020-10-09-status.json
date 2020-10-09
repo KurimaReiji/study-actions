@@ -28,6 +28,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔堂林｜61965131〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1009/c-s-18/playbyplay.html",
+            "date": "2020-10-09",
+            "home": "C",
+            "road": "S",
+            "inning": "t6",
+            "pitcher": "菊池保｜41545116",
+            "catchers": [
+              "坂倉｜11915134"
+            ],
+            "batter": "濱田｜91495138",
+            "runners": [
+              "西浦｜91095139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔西浦｜91095139〕）二塁盗塁成功"
           }
         ]
       },
@@ -56,6 +79,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-09",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100902/text",
+            "title": "10月9日（金） 広島 vs. ヤクルト 18回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "18",
+            "inning": "t6",
+            "batter": "濱田 太貴｜1800036",
+            "state": "二死1塁",
+            "text": "一塁走者 〔西浦｜1300095〕 :盗塁成功 2塁",
+            "pitcher": "菊池保｜800087",
+            "catcher": "坂倉｜1600124",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西浦｜1300095"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -65,13 +111,62 @@
       "id": "F-B-15",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1009/f-b-15/index.html",
-        "status": "（札幌ドーム）\n                    5回表",
-        "attempts": []
+        "status": "Final",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1009/f-b-15/playbyplay.html",
+            "date": "2020-10-09",
+            "home": "F",
+            "road": "B",
+            "inning": "t9",
+            "pitcher": "秋吉｜91195139",
+            "catchers": [
+              "宇佐見｜61365132",
+              "郡｜91795134"
+            ],
+            "batter": "吉田正｜63165132",
+            "runners": [
+              "安達｜31135135"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔安達｜31135135〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020100903/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-10-09",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020100903/text",
+            "title": "10月9日（金） 日本ハム vs. オリックス 15回戦",
+            "home": "F",
+            "road": "B",
+            "gameNo": "15",
+            "inning": "t9",
+            "batter": "吉田 正尚｜1500126",
+            "state": "無死1塁",
+            "text": "一塁走者 〔安達｜1100105〕 :盗塁成功 2塁",
+            "pitcher": "秋吉｜1300096",
+            "catcher": "郡｜1600138",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "安達｜1100105"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
@@ -227,14 +322,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "H-M-16",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1009/h-m-16/index.html",
-        "status": "（PayPayドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1009/h-m-16/playbyplay.html",
@@ -426,7 +521,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
