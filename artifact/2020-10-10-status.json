@@ -410,7 +410,7 @@
       "id": "C-S-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1010/c-s-19/index.html",
-        "status": "（マツダスタジアム）\n                    7回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1010/c-s-19/playbyplay.html",
@@ -434,6 +434,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔宇草｜41345151〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1010/c-s-19/playbyplay.html",
+            "date": "2020-10-10",
+            "home": "C",
+            "road": "S",
+            "inning": "b8",
+            "pitcher": "寺島｜81285134",
+            "catchers": [
+              "中村｜51255118"
+            ],
+            "batter": "松山｜01405116",
+            "runners": [
+              "田中広｜61965139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔田中広｜61965139〕）二塁盗塁成功"
           }
         ]
       },
@@ -462,9 +485,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-10",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020101003/text",
+            "title": "10月10日（土） 広島 vs. ヤクルト 19回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "19",
+            "inning": "b8",
+            "batter": "松山 竜平｜800041",
+            "state": "一死1塁",
+            "text": "一塁走者 〔田中広｜1300059〕 :盗塁成功　1塁走者 〔田中広｜1300059〕 はさらに3塁まで進塁 3塁",
+            "pitcher": "寺島｜1600074",
+            "catcher": "中村｜900044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "田中広｜1300059"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
