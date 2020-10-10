@@ -37,6 +37,7 @@ const scraper_get_games_from_today = () => {
   return Array.from(document.querySelectorAll("#score_live_basic a"))
     .filter((a) => a.href.includes("scores/2020"))
     .filter((a) => !a.textContent.includes("中止"))
+    .filter((a) => !a.textContent.includes("ノーゲーム"))
     .map((a) => {
       return {
         id: a.href.match(/([bcdefghlmst]{1,2}-[bcdefghlmst]{1,2}-\d\d)/)[1].toUpperCase(),
