@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "D-G-24",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1012/d-g-24/index.html",
+        "status": "（ナゴヤドーム）\n                    5回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101201/text",
+        "attempts": [],
+        "status": false
+      }
+    }
+  ],
+  "numOfGames": 1
+}
