@@ -56,20 +56,20 @@
     "league": "central"
   },
   {
+    "catcher": "木下拓",
+    "csPct": "0.463",
+    "cs": 19,
+    "sb": 22,
+    "team": "D",
+    "league": "central"
+  },
+  {
     "catcher": "若月",
     "csPct": "0.220",
     "cs": 9,
     "sb": 32,
     "team": "B",
     "league": "pacific"
-  },
-  {
-    "catcher": "木下拓",
-    "csPct": "0.475",
-    "cs": 19,
-    "sb": 21,
-    "team": "D",
-    "league": "central"
   },
   {
     "catcher": "梅野",

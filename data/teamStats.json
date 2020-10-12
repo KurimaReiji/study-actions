@@ -134,6 +134,25 @@
       }
     },
     {
+      "team": "D",
+      "league": "Central",
+      "name": "Chunichi Dragons",
+      "batting": {
+        "sb": 23,
+        "cs": 16,
+        "csb": 22,
+        "ccs": 14,
+        "sbPct": "0.611"
+      },
+      "fielding": {
+        "sb": 49,
+        "cs": 30,
+        "csb": 47,
+        "ccs": 28,
+        "csPct": "0.373"
+      }
+    },
+    {
       "team": "B",
       "league": "Pacific",
       "name": "ORIX Buffaloes",
@@ -150,25 +169,6 @@
         "csb": 55,
         "ccs": 17,
         "csPct": "0.236"
-      }
-    },
-    {
-      "team": "D",
-      "league": "Central",
-      "name": "Chunichi Dragons",
-      "batting": {
-        "sb": 23,
-        "cs": 16,
-        "csb": 22,
-        "ccs": 14,
-        "sbPct": "0.611"
-      },
-      "fielding": {
-        "sb": 48,
-        "cs": 30,
-        "csb": 46,
-        "ccs": 28,
-        "csPct": "0.378"
       }
     },
     {
@@ -214,11 +214,11 @@
       "league": "Central",
       "name": "Yomiuri Giants",
       "batting": {
-        "sb": 61,
+        "sb": 62,
         "cs": 26,
-        "csb": 60,
+        "csb": 61,
         "ccs": 23,
-        "sbPct": "0.723"
+        "sbPct": "0.726"
       },
       "fielding": {
         "sb": 34,
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 417,
-        "sb": 273,
+        "attempt": 418,
+        "sb": 274,
         "cs": 144,
-        "sbPct": "0.675"
+        "sbPct": "0.676"
       },
       "fielding": {
-        "attempt": 417,
-        "sb": 273,
+        "attempt": 418,
+        "sb": 274,
         "cs": 144,
-        "csPct": "0.325"
+        "csPct": "0.324"
       }
     }
   ],
-  "updated": "2020-10-11"
+  "updated": "2020-10-12"
 }
