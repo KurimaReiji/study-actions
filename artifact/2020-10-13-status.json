@@ -4,46 +4,94 @@
       "id": "G-C-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1013/g-c-19/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
-        "attempts": []
+        "status": "Final",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1013/g-c-19/playbyplay.html",
+            "date": "2020-10-13",
+            "home": "G",
+            "road": "C",
+            "inning": "t9",
+            "pitcher": "ビエイラ｜93795151",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "鈴木誠｜81785137",
+            "runners": [
+              "田中広｜61965139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔田中広｜61965139〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101301/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-10-13",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020101301/text",
+            "title": "10月13日（火） 巨人 vs. 広島 19回戦",
+            "home": "G",
+            "road": "C",
+            "gameNo": "19",
+            "inning": "t9",
+            "batter": "鈴木 誠也｜1200069",
+            "state": "二死1塁",
+            "text": "一塁走者 〔田中広｜1300059〕 :盗塁成功 2塁",
+            "pitcher": "ビエイラ｜1900136",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "田中広｜1300059"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
       "id": "S-DB-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1013/s-db-22/index.html",
-        "status": "（神　宮）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101302/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "D-T-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1013/d-t-19/index.html",
-        "status": "（ナゴヤドーム）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101303/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "F-L-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1013/f-l-19/index.html",
-        "status": "（札幌ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1013/f-l-19/playbyplay.html",
@@ -283,14 +331,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-E-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1013/m-e-19/index.html",
-        "status": "（ZOZOマリン）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1013/m-e-19/playbyplay.html",
@@ -390,14 +438,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-H-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1013/b-h-22/index.html",
-        "status": "（京セラD大阪）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1013/b-h-22/playbyplay.html",
@@ -451,7 +499,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
