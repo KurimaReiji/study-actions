@@ -5,18 +5,18 @@
       "league": "Pacific",
       "name": "Nippon-Ham Fighters",
       "batting": {
-        "sb": 58,
-        "cs": 16,
-        "csb": 55,
-        "ccs": 13,
-        "sbPct": "0.809"
+        "sb": 60,
+        "cs": 17,
+        "csb": 57,
+        "ccs": 14,
+        "sbPct": "0.803"
       },
       "fielding": {
-        "sb": 102,
+        "sb": 104,
         "cs": 31,
-        "csb": 100,
+        "csb": 102,
         "ccs": 27,
-        "csPct": "0.213"
+        "csPct": "0.209"
       }
     },
     {
@@ -31,11 +31,11 @@
         "sbPct": "0.742"
       },
       "fielding": {
-        "sb": 67,
+        "sb": 69,
         "cs": 26,
-        "csb": 65,
+        "csb": 67,
         "ccs": 21,
-        "csPct": "0.244"
+        "csPct": "0.239"
       }
     },
     {
@@ -43,11 +43,11 @@
       "league": "Pacific",
       "name": "Rakuten Eagles",
       "batting": {
-        "sb": 55,
+        "sb": 57,
         "cs": 23,
-        "csb": 53,
+        "csb": 55,
         "ccs": 18,
-        "sbPct": "0.746"
+        "sbPct": "0.753"
       },
       "fielding": {
         "sb": 63,
@@ -55,6 +55,25 @@
         "csb": 62,
         "ccs": 23,
         "csPct": "0.271"
+      }
+    },
+    {
+      "team": "L",
+      "league": "Pacific",
+      "name": "Seibu Lions",
+      "batting": {
+        "sb": 64,
+        "cs": 32,
+        "csb": 64,
+        "ccs": 26,
+        "sbPct": "0.711"
+      },
+      "fielding": {
+        "sb": 60,
+        "cs": 27,
+        "csb": 59,
+        "ccs": 26,
+        "csPct": "0.306"
       }
     },
     {
@@ -77,25 +96,6 @@
       }
     },
     {
-      "team": "L",
-      "league": "Pacific",
-      "name": "Seibu Lions",
-      "batting": {
-        "sb": 62,
-        "cs": 32,
-        "csb": 62,
-        "ccs": 26,
-        "sbPct": "0.705"
-      },
-      "fielding": {
-        "sb": 58,
-        "cs": 26,
-        "csb": 57,
-        "ccs": 25,
-        "csPct": "0.305"
-      }
-    },
-    {
       "team": "H",
       "league": "Pacific",
       "name": "SoftBank Hawks",
@@ -108,10 +108,10 @@
       },
       "fielding": {
         "sb": 56,
-        "cs": 25,
+        "cs": 26,
         "csb": 54,
-        "ccs": 18,
-        "csPct": "0.250"
+        "ccs": 19,
+        "csPct": "0.260"
       }
     },
     {
@@ -158,10 +158,10 @@
       "name": "ORIX Buffaloes",
       "batting": {
         "sb": 78,
-        "cs": 29,
+        "cs": 30,
         "csb": 76,
-        "ccs": 27,
-        "sbPct": "0.738"
+        "ccs": 28,
+        "sbPct": "0.731"
       },
       "fielding": {
         "sb": 56,
@@ -195,11 +195,11 @@
       "league": "Central",
       "name": "Hiroshima Carp",
       "batting": {
-        "sb": 47,
+        "sb": 48,
         "cs": 27,
-        "csb": 46,
+        "csb": 47,
         "ccs": 24,
-        "sbPct": "0.657"
+        "sbPct": "0.662"
       },
       "fielding": {
         "sb": 36,
@@ -221,11 +221,11 @@
         "sbPct": "0.726"
       },
       "fielding": {
-        "sb": 34,
+        "sb": 35,
         "cs": 20,
-        "csb": 32,
+        "csb": 33,
         "ccs": 19,
-        "csPct": "0.373"
+        "csPct": "0.365"
       }
     },
     {
@@ -233,15 +233,15 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 556,
-        "sb": 402,
-        "cs": 154,
+        "attempt": 564,
+        "sb": 408,
+        "cs": 156,
         "sbPct": "0.750"
       },
       "fielding": {
-        "attempt": 556,
-        "sb": 402,
-        "cs": 154,
+        "attempt": 564,
+        "sb": 408,
+        "cs": 156,
         "csPct": "0.250"
       }
     },
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 418,
-        "sb": 274,
+        "attempt": 419,
+        "sb": 275,
         "cs": 144,
-        "sbPct": "0.676"
+        "sbPct": "0.677"
       },
       "fielding": {
-        "attempt": 418,
-        "sb": 274,
+        "attempt": 419,
+        "sb": 275,
         "cs": 144,
-        "csPct": "0.324"
+        "csPct": "0.323"
       }
     }
   ],
-  "updated": "2020-10-12"
+  "updated": "2020-10-13"
 }
