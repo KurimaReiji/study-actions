@@ -1,17 +1,17 @@
 [
   {
     "catcher": "森",
-    "csPct": "0.314",
+    "csPct": "0.306",
     "cs": 22,
-    "sb": 48,
+    "sb": 50,
     "team": "L",
     "league": "pacific"
   },
   {
     "catcher": "清水",
-    "csPct": "0.183",
+    "csPct": "0.180",
     "cs": 11,
-    "sb": 49,
+    "sb": 50,
     "team": "F",
     "league": "pacific"
   },
@@ -41,9 +41,9 @@
   },
   {
     "catcher": "田村",
-    "csPct": "0.200",
+    "csPct": "0.196",
     "cs": 10,
-    "sb": 40,
+    "sb": 41,
     "team": "M",
     "league": "pacific"
   },
@@ -105,9 +105,9 @@
   },
   {
     "catcher": "會澤",
-    "csPct": "0.227",
+    "csPct": "0.217",
     "cs": 5,
-    "sb": 17,
+    "sb": 18,
     "team": "C",
     "league": "central"
   },
@@ -128,20 +128,20 @@
     "league": "pacific"
   },
   {
+    "catcher": "伏見",
+    "csPct": "0.300",
+    "cs": 6,
+    "sb": 14,
+    "team": "B",
+    "league": "pacific"
+  },
+  {
     "catcher": "坂倉",
     "csPct": "0.368",
     "cs": 7,
     "sb": 12,
     "team": "C",
     "league": "central"
-  },
-  {
-    "catcher": "伏見",
-    "csPct": "0.316",
-    "cs": 6,
-    "sb": 13,
-    "team": "B",
-    "league": "pacific"
   },
   {
     "catcher": "A.マルティネス",
@@ -312,6 +312,14 @@
     "league": "pacific"
   },
   {
+    "catcher": "石原",
+    "csPct": "0.333",
+    "cs": 1,
+    "sb": 2,
+    "team": "E",
+    "league": "pacific"
+  },
+  {
     "catcher": "嶋",
     "csPct": "-",
     "cs": 0,
@@ -358,14 +366,6 @@
     "sb": 1,
     "team": "C",
     "league": "central"
-  },
-  {
-    "catcher": "石原",
-    "csPct": "0.500",
-    "cs": 1,
-    "sb": 1,
-    "team": "E",
-    "league": "pacific"
   },
   {
     "catcher": "堀内",
