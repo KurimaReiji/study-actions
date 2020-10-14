@@ -65,13 +65,13 @@
       "id": "S-DB-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1014/s-db-23/index.html",
-        "status": "（神　宮）\n                    4回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101402/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
