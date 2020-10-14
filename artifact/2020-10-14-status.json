@@ -84,7 +84,7 @@
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101403/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
