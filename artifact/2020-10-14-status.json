@@ -1,0 +1,131 @@
+{
+  "games": [
+    {
+      "id": "G-C-20",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1014/g-c-20/index.html",
+        "status": "（東京ドーム）\n                    5回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101401/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "S-DB-23",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1014/s-db-23/index.html",
+        "status": "（神　宮）\n                    4回表",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101402/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "D-T-20",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1014/d-t-20/index.html",
+        "status": "（ナゴヤドーム）\n                    5回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101403/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "F-L-20",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1014/f-l-20/index.html",
+        "status": "（札幌ドーム）\n                    4回表",
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1014/f-l-20/playbyplay.html",
+            "date": "2020-10-14",
+            "home": "F",
+            "road": "L",
+            "inning": "t4",
+            "pitcher": "バーヘイゲン｜33735151",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "木村｜41745114",
+            "runners": [
+              "スパンジェンバーグ｜23525151"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔スパンジェンバーグ｜23525151〕）二塁盗塁成功"
+          }
+        ]
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101404/text",
+        "attempts": [
+          {
+            "date": "2020-10-14",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020101404/text",
+            "title": "10月14日（水） 日本ハム vs. 西武 20回戦",
+            "home": "F",
+            "road": "L",
+            "gameNo": "20",
+            "inning": "t4",
+            "batter": "木村 文紀｜700078",
+            "state": "二死1塁",
+            "text": "一塁走者 〔スパンジェンバーグ｜1900140〕 :盗塁成功 2塁",
+            "pitcher": "バーヘイゲン｜1900129",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "スパンジェンバーグ｜1900140"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": false
+      }
+    },
+    {
+      "id": "M-E-20",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1014/m-e-20/index.html",
+        "status": "（ZOZOマリン）\n                    5回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101405/text",
+        "attempts": [],
+        "status": false
+      }
+    },
+    {
+      "id": "B-H-23",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1014/b-h-23/index.html",
+        "status": "（京セラD大阪）\n                    5回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101406/text",
+        "attempts": [],
+        "status": false
+      }
+    }
+  ],
+  "numOfGames": 6
+}
