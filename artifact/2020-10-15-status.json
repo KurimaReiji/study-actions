@@ -4,7 +4,7 @@
       "id": "G-C-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1015/g-c-21/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1015/g-c-21/playbyplay.html",
@@ -194,7 +194,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -275,7 +275,7 @@
       "id": "F-L-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1015/f-l-21/index.html",
-        "status": "（札幌ドーム）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1015/f-l-21/playbyplay.html",
@@ -421,7 +421,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
