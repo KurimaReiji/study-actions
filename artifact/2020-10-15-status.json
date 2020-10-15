@@ -38,7 +38,8 @@
             "inning": "b3",
             "pitcher": "高橋樹｜91095132",
             "catchers": [
-              "會澤｜31135114"
+              "會澤｜31135114",
+              "坂倉｜11915134"
             ],
             "batter": "坂本｜51955114",
             "runners": [
@@ -61,7 +62,8 @@
             "inning": "b4",
             "pitcher": "中田｜31235118",
             "catchers": [
-              "會澤｜31135114"
+              "會澤｜31135114",
+              "坂倉｜11915134"
             ],
             "batter": "岡本｜11515130",
             "runners": [
@@ -75,6 +77,30 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "2アウト｜1・3塁｜｜｜（走者・〔松原｜21825134〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1015/g-c-21/playbyplay.html",
+            "date": "2020-10-15",
+            "home": "G",
+            "road": "C",
+            "inning": "t8",
+            "pitcher": "高梨｜91095134",
+            "catchers": [
+              "小林｜91795139",
+              "大城｜21325136"
+            ],
+            "batter": "坂倉｜11915134",
+            "runners": [
+              "曽根｜51955139"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "4",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "1アウト｜1・3塁｜｜｜（走者・〔曽根｜51955139〕）本塁盗塁失敗"
           }
         ]
       },
@@ -149,6 +175,23 @@
             "base": 2,
             "outs": 2,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-15",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020101501/text",
+            "title": "10月15日（木） 巨人 vs. 広島 21回戦",
+            "home": "G",
+            "road": "C",
+            "gameNo": "21",
+            "inning": "t8",
+            "batter": "坂倉 将吾｜1600124",
+            "state": "一死1,3塁",
+            "text": "3塁走者 〔曽根｜1300082〕 は塁を飛び出しておりアウト 2アウト2塁",
+            "pitcher": "高梨｜1600100",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "outs": 1,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -158,7 +201,7 @@
       "id": "S-DB-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1015/s-db-24/index.html",
-        "status": "（神　宮）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1015/s-db-24/playbyplay.html",
@@ -187,21 +230,45 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101502/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-10-15",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020101502/text",
+            "title": "10月15日（木） ヤクルト vs. ＤｅＮＡ 24回戦",
+            "home": "S",
+            "road": "DB",
+            "gameNo": "24",
+            "inning": "t8",
+            "batter": "中井 大介｜800002",
+            "state": "無死1塁",
+            "text": "一塁走者 〔神里｜1700059〕 :盗塁成功 2塁",
+            "pitcher": "清水｜1800033",
+            "catcher": "中村｜900044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "神里｜1700059"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     },
     {
       "id": "D-T-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1015/d-t-21/index.html",
-        "status": "（ナゴヤドーム）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101503/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -255,6 +322,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "2アウト｜1・3塁｜｜｜（走者・〔渡邉｜81685139〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1015/f-l-21/playbyplay.html",
+            "date": "2020-10-15",
+            "home": "F",
+            "road": "L",
+            "inning": "b8",
+            "pitcher": "松岡｜61665151",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "平沼｜01605132",
+            "runners": [
+              "西川｜21225133"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁失敗"
           }
         ]
       },
@@ -306,6 +396,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-15",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020101504/text",
+            "title": "10月15日（木） 日本ハム vs. 西武 21回戦",
+            "home": "F",
+            "road": "L",
+            "gameNo": "21",
+            "inning": "b8",
+            "batter": "平沼 翔太｜1500112",
+            "state": "無死1塁",
+            "text": "一塁走者 〔西川｜1000100〕 :盗塁を試みるもアウト 1アウト",
+            "pitcher": "松岡｜1900063",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -315,7 +428,7 @@
       "id": "M-E-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1015/m-e-21/index.html",
-        "status": "（ZOZOマリン）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1015/m-e-21/playbyplay.html",
@@ -416,7 +529,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -569,7 +682,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
