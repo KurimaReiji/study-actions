@@ -22,7 +22,31 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101602/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-10-16",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020101602/text",
+            "title": "10月16日（金） 阪神 vs. ヤクルト 19回戦",
+            "home": "T",
+            "road": "S",
+            "gameNo": "19",
+            "inning": "b7",
+            "batter": "大山 悠輔｜1600113",
+            "state": "一死1塁",
+            "text": "一塁走者 〔植田｜1400172〕 :盗塁成功 2塁",
+            "pitcher": "寺島｜1600074",
+            "catcher": "西田｜1000134",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "植田｜1400172"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
@@ -54,36 +78,35 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "1アウト｜1・3塁｜｜｜（走者・〔堂林｜61965131〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1016/c-d-18/playbyplay.html",
+            "date": "2020-10-16",
+            "home": "C",
+            "road": "D",
+            "inning": "t8",
+            "pitcher": "菊池保｜41545116",
+            "catchers": [
+              "坂倉｜11915134"
+            ],
+            "batter": "阿部｜61165132",
+            "runners": [
+              "京田｜81585134"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔京田｜81585134〕）二塁盗塁成功"
           }
         ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020101603/text",
-        "attempts": [
-          {
-            "date": "2020-10-16",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020101603/text",
-            "title": "10月16日（金） 広島 vs. 中日 18回戦",
-            "home": "C",
-            "road": "D",
-            "gameNo": "18",
-            "inning": "b6",
-            "batter": "菊池 涼介｜1100082",
-            "state": "一死1,3塁",
-            "text": "一塁走者 〔堂林｜900430〕 :盗塁成功 2,3塁",
-            "pitcher": "谷元｜900071",
-            "catcher": "木下拓｜1500076",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "堂林｜900430"
-            ],
-            "base": 2,
-            "outs": 1,
-            "RoB": "1-3"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     },
@@ -300,7 +323,8 @@
             "inning": "b3",
             "pitcher": "杉浦｜61765139",
             "catchers": [
-              "宇佐見｜61365132"
+              "宇佐見｜61365132",
+              "清水｜61965130"
             ],
             "batter": "マーティン｜23725138",
             "runners": [
@@ -323,7 +347,8 @@
             "inning": "b6",
             "pitcher": "井口｜31335132",
             "catchers": [
-              "宇佐見｜61365132"
+              "宇佐見｜61365132",
+              "清水｜61965130"
             ],
             "batter": "角中｜41545114",
             "runners": [
