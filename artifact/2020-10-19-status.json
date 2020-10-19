@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "T-S-21",
+      "npbjp": {
+        "url": "https://npb.jp/scores/2020/1019/t-s-21/index.html",
+        "status": "（甲子園）\n                    5回裏",
+        "attempts": []
+      },
+      "yahoo": {
+        "url": "https://baseball.yahoo.co.jp/npb/game/2020101902/text",
+        "attempts": [],
+        "status": false
+      }
+    }
+  ],
+  "numOfGames": 1
+}
