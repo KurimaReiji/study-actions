@@ -107,11 +107,11 @@
         "sbPct": "0.598"
       },
       "fielding": {
-        "sb": 63,
+        "sb": 64,
         "cs": 20,
-        "csb": 62,
+        "csb": 63,
         "ccs": 15,
-        "csPct": "0.195"
+        "csPct": "0.192"
       }
     },
     {
@@ -195,11 +195,11 @@
       "league": "Central",
       "name": "Hanshin Tigers",
       "batting": {
-        "sb": 67,
+        "sb": 68,
         "cs": 27,
-        "csb": 64,
+        "csb": 65,
         "ccs": 23,
-        "sbPct": "0.736"
+        "sbPct": "0.739"
       },
       "fielding": {
         "sb": 42,
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 434,
-        "sb": 287,
+        "attempt": 435,
+        "sb": 288,
         "cs": 147,
-        "sbPct": "0.681"
+        "sbPct": "0.682"
       },
       "fielding": {
-        "attempt": 434,
-        "sb": 287,
+        "attempt": 435,
+        "sb": 288,
         "cs": 147,
-        "csPct": "0.319"
+        "csPct": "0.318"
       }
     }
   ],
-  "updated": "2020-10-18"
+  "updated": "2020-10-19"
 }

@@ -192,18 +192,18 @@
     "league": "central"
   },
   {
-    "catcher": "井野",
-    "csPct": "-",
-    "cs": 0,
-    "sb": 11,
+    "catcher": "中村",
+    "csPct": "0.182",
+    "cs": 2,
+    "sb": 9,
     "team": "S",
     "league": "central"
   },
   {
-    "catcher": "中村",
-    "csPct": "0.200",
-    "cs": 2,
-    "sb": 8,
+    "catcher": "井野",
+    "csPct": "-",
+    "cs": 0,
+    "sb": 11,
     "team": "S",
     "league": "central"
   },
