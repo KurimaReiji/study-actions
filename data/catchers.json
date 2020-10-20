@@ -25,9 +25,9 @@
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.389",
-    "cs": 21,
-    "sb": 33,
+    "csPct": "0.386",
+    "cs": 22,
+    "sb": 35,
     "team": "DB",
     "league": "central"
   },
@@ -41,9 +41,9 @@
   },
   {
     "catcher": "田村",
-    "csPct": "0.208",
+    "csPct": "0.204",
     "cs": 11,
-    "sb": 42,
+    "sb": 43,
     "team": "M",
     "league": "pacific"
   },
@@ -113,9 +113,9 @@
   },
   {
     "catcher": "下妻",
-    "csPct": "0.160",
+    "csPct": "0.154",
     "cs": 4,
-    "sb": 21,
+    "sb": 22,
     "team": "E",
     "league": "pacific"
   },
@@ -169,9 +169,9 @@
   },
   {
     "catcher": "炭谷",
-    "csPct": "0.385",
+    "csPct": "0.357",
     "cs": 5,
-    "sb": 8,
+    "sb": 9,
     "team": "G",
     "league": "central"
   },
@@ -216,6 +216,14 @@
     "league": "central"
   },
   {
+    "catcher": "坂本",
+    "csPct": "0.222",
+    "cs": 2,
+    "sb": 7,
+    "team": "T",
+    "league": "central"
+  },
+  {
     "catcher": "佐藤",
     "csPct": "0.222",
     "cs": 2,
@@ -230,14 +238,6 @@
     "sb": 8,
     "team": "L",
     "league": "pacific"
-  },
-  {
-    "catcher": "坂本",
-    "csPct": "0.250",
-    "cs": 2,
-    "sb": 6,
-    "team": "T",
-    "league": "central"
   },
   {
     "catcher": "磯村",
@@ -296,6 +296,14 @@
     "league": "central"
   },
   {
+    "catcher": "嶋",
+    "csPct": "-",
+    "cs": 0,
+    "sb": 5,
+    "team": "S",
+    "league": "central"
+  },
+  {
     "catcher": "鶴岡",
     "csPct": "-",
     "cs": 0,
@@ -328,7 +336,7 @@
     "league": "central"
   },
   {
-    "catcher": "嶋",
+    "catcher": "松本直",
     "csPct": "-",
     "cs": 0,
     "sb": 3,
@@ -336,12 +344,12 @@
     "league": "central"
   },
   {
-    "catcher": "松本直",
+    "catcher": "郡",
     "csPct": "-",
     "cs": 0,
     "sb": 3,
-    "team": "S",
-    "league": "central"
+    "team": "F",
+    "league": "pacific"
   },
   {
     "catcher": "山下",
@@ -373,14 +381,6 @@
     "cs": 1,
     "sb": 1,
     "team": "E",
-    "league": "pacific"
-  },
-  {
-    "catcher": "郡",
-    "csPct": "-",
-    "cs": 0,
-    "sb": 2,
-    "team": "F",
     "league": "pacific"
   },
   {
