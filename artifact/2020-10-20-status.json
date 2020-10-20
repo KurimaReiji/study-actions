@@ -160,7 +160,7 @@
       "id": "D-DB-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1020/d-db-19/index.html",
-        "status": "（ナゴヤドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1020/d-db-19/playbyplay.html",
@@ -306,14 +306,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-C-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1020/t-c-21/index.html",
-        "status": "（甲子園）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1020/t-c-21/playbyplay.html",
@@ -367,14 +367,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "F-H-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1020/f-h-22/index.html",
-        "status": "（札幌ドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1020/f-h-22/playbyplay.html",
@@ -429,7 +429,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -490,14 +490,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-M-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1020/l-m-21/index.html",
-        "status": "（メットライフ）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1020/l-m-21/playbyplay.html",
@@ -551,7 +551,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
