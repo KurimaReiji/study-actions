@@ -176,6 +176,32 @@
     "catcher": "清水 or 宇佐見｜99"
   },
   {
+    "url": "https://npb.jp/scores/2020/1021/f-h-23/playbyplay.html",
+    "date": "2020-10-21",
+    "home": "F",
+    "road": "H",
+    "inning": "t9",
+    "pitcher": "公文｜81585137",
+    "catchers": [
+      "清水｜61965130",
+      "宇佐見｜61365132"
+    ],
+    "batter": "栗原｜01705130",
+    "runners": [
+      "真砂｜51255137"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "1アウト｜1・3塁｜｜｜（走者・〔真砂｜51255137〕）二塁盗塁成功",
+    "catcher": "宇佐見｜61365132",
+    "ytext": "一塁走者 〔真砂｜1200109〕 :積極的に初球から走って盗塁成功 2,3塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/1021/e-b-20/playbyplay.html",
     "date": "2020-10-21",
     "home": "E",
