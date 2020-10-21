@@ -17,9 +17,9 @@
   },
   {
     "catcher": "宇佐見",
-    "csPct": "0.254",
+    "csPct": "0.250",
     "cs": 15,
-    "sb": 44,
+    "sb": 45,
     "team": "F",
     "league": "pacific"
   },
@@ -405,14 +405,6 @@
     "cs": 0,
     "sb": 1,
     "team": "M",
-    "league": "pacific"
-  },
-  {
-    "catcher": "清水 or 宇佐見",
-    "csPct": "-",
-    "cs": 0,
-    "sb": 1,
-    "team": "F",
     "league": "pacific"
   }
 ]
