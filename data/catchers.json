@@ -9,17 +9,17 @@
   },
   {
     "catcher": "清水",
-    "csPct": "0.180",
+    "csPct": "0.175",
     "cs": 11,
-    "sb": 50,
+    "sb": 52,
     "team": "F",
     "league": "pacific"
   },
   {
     "catcher": "宇佐見",
-    "csPct": "0.259",
+    "csPct": "0.254",
     "cs": 15,
-    "sb": 43,
+    "sb": 44,
     "team": "F",
     "league": "pacific"
   },
@@ -32,19 +32,19 @@
     "league": "central"
   },
   {
+    "catcher": "田村",
+    "csPct": "0.214",
+    "cs": 12,
+    "sb": 44,
+    "team": "M",
+    "league": "pacific"
+  },
+  {
     "catcher": "甲斐",
     "csPct": "0.352",
     "cs": 19,
     "sb": 35,
     "team": "H",
-    "league": "pacific"
-  },
-  {
-    "catcher": "田村",
-    "csPct": "0.204",
-    "cs": 11,
-    "sb": 43,
-    "team": "M",
     "league": "pacific"
   },
   {
@@ -65,9 +65,9 @@
   },
   {
     "catcher": "若月",
-    "csPct": "0.220",
+    "csPct": "0.214",
     "cs": 9,
-    "sb": 32,
+    "sb": 33,
     "team": "B",
     "league": "pacific"
   },
@@ -81,8 +81,8 @@
   },
   {
     "catcher": "大城",
-    "csPct": "0.351",
-    "cs": 13,
+    "csPct": "0.368",
+    "cs": 14,
     "sb": 24,
     "team": "G",
     "league": "central"
@@ -105,9 +105,9 @@
   },
   {
     "catcher": "會澤",
-    "csPct": "0.192",
-    "cs": 5,
-    "sb": 21,
+    "csPct": "0.214",
+    "cs": 6,
+    "sb": 22,
     "team": "C",
     "league": "central"
   },
@@ -184,19 +184,19 @@
     "league": "pacific"
   },
   {
+    "catcher": "中村",
+    "csPct": "0.250",
+    "cs": 3,
+    "sb": 9,
+    "team": "S",
+    "league": "central"
+  },
+  {
     "catcher": "郡司",
     "csPct": "0.364",
     "cs": 4,
     "sb": 7,
     "team": "D",
-    "league": "central"
-  },
-  {
-    "catcher": "中村",
-    "csPct": "0.182",
-    "cs": 2,
-    "sb": 9,
-    "team": "S",
     "league": "central"
   },
   {
@@ -405,6 +405,14 @@
     "cs": 0,
     "sb": 1,
     "team": "M",
+    "league": "pacific"
+  },
+  {
+    "catcher": "清水 or 宇佐見",
+    "csPct": "-",
+    "cs": 0,
+    "sb": 1,
+    "team": "F",
     "league": "pacific"
   }
 ]
