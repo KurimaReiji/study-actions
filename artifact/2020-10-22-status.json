@@ -233,7 +233,7 @@
       "id": "F-H-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1022/f-h-24/index.html",
-        "status": "（札幌ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1022/f-h-24/playbyplay.html",
@@ -427,7 +427,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -495,7 +495,7 @@
       "id": "L-M-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1022/l-m-23/index.html",
-        "status": "（メットライフ）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1022/l-m-23/playbyplay.html",
