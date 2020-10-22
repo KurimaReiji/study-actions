@@ -186,6 +186,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1022/f-h-24/playbyplay.html",
+            "date": "2020-10-22",
+            "home": "F",
+            "road": "H",
+            "inning": "t5",
+            "pitcher": "吉田輝｜13115138",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "中村晃｜11215116",
+            "runners": [
+              "周東｜21925136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
           }
         ]
       },
@@ -233,6 +256,29 @@
             "cs": "",
             "runners": [
               "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-22",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102204/text",
+            "title": "10月22日（木） 日本ハム vs. ソフトバンク 24回戦",
+            "home": "F",
+            "road": "H",
+            "gameNo": "24",
+            "inning": "t5",
+            "batter": "中村 晃｜800081",
+            "state": "一死1塁",
+            "text": "一塁走者 〔周東｜1700135〕 :盗塁成功 2塁",
+            "pitcher": "吉田輝｜1800090",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "周東｜1700135"
             ],
             "base": 2,
             "outs": 1,
@@ -329,6 +375,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔荻野｜71575131〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1022/l-m-23/playbyplay.html",
+            "date": "2020-10-22",
+            "home": "L",
+            "road": "M",
+            "inning": "b5",
+            "pitcher": "小島｜11515138",
+            "catchers": [
+              "柿沼｜21525132"
+            ],
+            "batter": "森｜91495139",
+            "runners": [
+              "金子｜01505137"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "3",
+            "ds": "",
+            "outs": "1",
+            "RoB": "-2-",
+            "credit": "1",
+            "text": "1アウト｜2塁｜｜｜（走者・〔金子｜01505137〕）三塁盗塁成功"
           }
         ]
       },
@@ -380,6 +449,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-22",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102206/text",
+            "title": "10月22日（木） 西武 vs. ロッテ 23回戦",
+            "home": "L",
+            "road": "M",
+            "gameNo": "23",
+            "inning": "b5",
+            "batter": "森 友哉｜1300100",
+            "state": "一死2塁",
+            "text": "二塁走者 〔金子｜1200083〕 :盗塁成功 3塁",
+            "pitcher": "小島｜1800052",
+            "catcher": "柿沼｜1500125",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "金子｜1200083"
+            ],
+            "base": 3,
+            "outs": 1,
+            "RoB": "-2-"
           }
         ],
         "status": false
