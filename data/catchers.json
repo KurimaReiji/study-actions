@@ -2,8 +2,8 @@
   {
     "catcher": "森",
     "csPct": "0.321",
-    "cs": 26,
-    "sb": 55,
+    "cs": 27,
+    "sb": 57,
     "team": "L",
     "league": "pacific"
   },
@@ -17,17 +17,17 @@
   },
   {
     "catcher": "宇佐見",
-    "csPct": "0.250",
-    "cs": 15,
+    "csPct": "0.262",
+    "cs": 16,
     "sb": 45,
     "team": "F",
     "league": "pacific"
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.386",
+    "csPct": "0.379",
     "cs": 22,
-    "sb": 35,
+    "sb": 36,
     "team": "DB",
     "league": "central"
   },
@@ -73,9 +73,9 @@
   },
   {
     "catcher": "梅野",
-    "csPct": "0.350",
+    "csPct": "0.341",
     "cs": 14,
-    "sb": 26,
+    "sb": 27,
     "team": "T",
     "league": "central"
   },
@@ -104,20 +104,20 @@
     "league": "pacific"
   },
   {
+    "catcher": "下妻",
+    "csPct": "0.172",
+    "cs": 5,
+    "sb": 24,
+    "team": "E",
+    "league": "pacific"
+  },
+  {
     "catcher": "會澤",
     "csPct": "0.214",
     "cs": 6,
     "sb": 22,
     "team": "C",
     "league": "central"
-  },
-  {
-    "catcher": "下妻",
-    "csPct": "0.154",
-    "cs": 4,
-    "sb": 22,
-    "team": "E",
-    "league": "pacific"
   },
   {
     "catcher": "伏見",
@@ -272,6 +272,14 @@
     "league": "pacific"
   },
   {
+    "catcher": "嶋",
+    "csPct": "-",
+    "cs": 0,
+    "sb": 7,
+    "team": "S",
+    "league": "central"
+  },
+  {
     "catcher": "岡田",
     "csPct": "0.500",
     "cs": 3,
@@ -288,18 +296,18 @@
     "league": "central"
   },
   {
+    "catcher": "石原",
+    "csPct": "0.400",
+    "cs": 2,
+    "sb": 3,
+    "team": "E",
+    "league": "pacific"
+  },
+  {
     "catcher": "古賀",
     "csPct": "0.200",
     "cs": 1,
     "sb": 4,
-    "team": "S",
-    "league": "central"
-  },
-  {
-    "catcher": "嶋",
-    "csPct": "-",
-    "cs": 0,
-    "sb": 5,
     "team": "S",
     "league": "central"
   },
@@ -309,14 +317,6 @@
     "cs": 0,
     "sb": 5,
     "team": "F",
-    "league": "pacific"
-  },
-  {
-    "catcher": "石原",
-    "csPct": "0.250",
-    "cs": 1,
-    "sb": 3,
-    "team": "E",
     "league": "pacific"
   },
   {
