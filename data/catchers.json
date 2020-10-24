@@ -1,9 +1,9 @@
 [
   {
     "catcher": "森",
-    "csPct": "0.321",
+    "csPct": "0.318",
     "cs": 27,
-    "sb": 57,
+    "sb": 58,
     "team": "L",
     "league": "pacific"
   },
@@ -17,19 +17,27 @@
   },
   {
     "catcher": "宇佐見",
-    "csPct": "0.262",
-    "cs": 16,
-    "sb": 45,
+    "csPct": "0.270",
+    "cs": 17,
+    "sb": 46,
     "team": "F",
     "league": "pacific"
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.379",
+    "csPct": "0.361",
     "cs": 22,
-    "sb": 36,
+    "sb": 39,
     "team": "DB",
     "league": "central"
+  },
+  {
+    "catcher": "田村",
+    "csPct": "0.241",
+    "cs": 14,
+    "sb": 44,
+    "team": "M",
+    "league": "pacific"
   },
   {
     "catcher": "甲斐",
@@ -40,18 +48,10 @@
     "league": "pacific"
   },
   {
-    "catcher": "田村",
-    "csPct": "0.214",
-    "cs": 12,
-    "sb": 44,
-    "team": "M",
-    "league": "pacific"
-  },
-  {
     "catcher": "木下拓",
-    "csPct": "0.467",
+    "csPct": "0.447",
     "cs": 21,
-    "sb": 24,
+    "sb": 26,
     "team": "D",
     "league": "central"
   },
@@ -392,6 +392,14 @@
     "league": "pacific"
   },
   {
+    "catcher": "宇佐見 or 清水",
+    "csPct": "1.000",
+    "cs": 1,
+    "sb": 0,
+    "team": "F",
+    "league": "pacific"
+  },
+  {
     "catcher": "栗原",
     "csPct": "-",
     "cs": 0,
@@ -413,6 +421,14 @@
     "cs": 0,
     "sb": 1,
     "team": "M",
+    "league": "pacific"
+  },
+  {
+    "catcher": "頓宮",
+    "csPct": "-",
+    "cs": 0,
+    "sb": 1,
+    "team": "B",
     "league": "pacific"
   }
 ]
