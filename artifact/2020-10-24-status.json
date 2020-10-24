@@ -66,7 +66,7 @@
       "id": "S-D-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1024/s-d-22/index.html",
-        "status": "（神　宮）\n                    2回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1024/s-d-22/playbyplay.html",
@@ -168,7 +168,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
