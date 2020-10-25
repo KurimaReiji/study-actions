@@ -90,9 +90,9 @@
       "fielding": {
         "sb": 61,
         "cs": 34,
-        "csb": 58,
+        "csb": 57,
         "ccs": 32,
-        "csPct": "0.356"
+        "csPct": "0.360"
       }
     },
     {
@@ -178,9 +178,9 @@
       "batting": {
         "sb": 58,
         "cs": 29,
-        "csb": 57,
+        "csb": 56,
         "ccs": 26,
-        "sbPct": "0.687"
+        "sbPct": "0.683"
       },
       "fielding": {
         "sb": 44,
@@ -253,13 +253,13 @@
         "attempt": 465,
         "sb": 311,
         "cs": 154,
-        "sbPct": "0.690"
+        "sbPct": "0.689"
       },
       "fielding": {
         "attempt": 465,
         "sb": 311,
         "cs": 154,
-        "csPct": "0.310"
+        "csPct": "0.311"
       }
     }
   ],

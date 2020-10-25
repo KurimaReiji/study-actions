@@ -25,9 +25,9 @@
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.355",
+    "csPct": "0.361",
     "cs": 22,
-    "sb": 40,
+    "sb": 39,
     "team": "DB",
     "league": "central"
   },
@@ -97,8 +97,8 @@
   },
   {
     "catcher": "柿沼",
-    "csPct": "0.290",
-    "cs": 9,
+    "csPct": "0.313",
+    "cs": 10,
     "sb": 22,
     "team": "M",
     "league": "pacific"
@@ -381,14 +381,6 @@
     "cs": 1,
     "sb": 1,
     "team": "E",
-    "league": "pacific"
-  },
-  {
-    "catcher": "柿沼 or 佐藤",
-    "csPct": "1.000",
-    "cs": 1,
-    "sb": 0,
-    "team": "M",
     "league": "pacific"
   },
   {
