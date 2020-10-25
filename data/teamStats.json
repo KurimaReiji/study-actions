@@ -13,10 +13,10 @@
       },
       "fielding": {
         "sb": 115,
-        "cs": 35,
+        "cs": 36,
         "csb": 113,
-        "ccs": 31,
-        "csPct": "0.215"
+        "ccs": 32,
+        "csPct": "0.221"
       }
     },
     {
@@ -25,10 +25,10 @@
       "name": "Lotte Marines",
       "batting": {
         "sb": 79,
-        "cs": 30,
+        "cs": 31,
         "csb": 77,
-        "ccs": 27,
-        "sbPct": "0.740"
+        "ccs": 28,
+        "sbPct": "0.733"
       },
       "fielding": {
         "sb": 76,
@@ -50,11 +50,11 @@
         "sbPct": "0.707"
       },
       "fielding": {
-        "sb": 70,
-        "cs": 32,
-        "csb": 69,
-        "ccs": 31,
-        "csPct": "0.310"
+        "sb": 71,
+        "cs": 33,
+        "csb": 70,
+        "ccs": 32,
+        "csPct": "0.314"
       }
     },
     {
@@ -63,10 +63,10 @@
       "name": "Rakuten Eagles",
       "batting": {
         "sb": 62,
-        "cs": 27,
+        "cs": 28,
         "csb": 60,
-        "ccs": 22,
-        "sbPct": "0.732"
+        "ccs": 23,
+        "sbPct": "0.723"
       },
       "fielding": {
         "sb": 72,
@@ -81,18 +81,18 @@
       "league": "Central",
       "name": "DeNA Baystars",
       "batting": {
-        "sb": 26,
+        "sb": 27,
         "cs": 12,
-        "csb": 26,
+        "csb": 27,
         "ccs": 10,
-        "sbPct": "0.722"
+        "sbPct": "0.730"
       },
       "fielding": {
-        "sb": 59,
+        "sb": 61,
         "cs": 34,
-        "csb": 56,
+        "csb": 58,
         "ccs": 32,
-        "csPct": "0.364"
+        "csPct": "0.356"
       }
     },
     {
@@ -127,10 +127,10 @@
       },
       "fielding": {
         "sb": 62,
-        "cs": 24,
+        "cs": 25,
         "csb": 61,
-        "ccs": 19,
-        "csPct": "0.238"
+        "ccs": 20,
+        "csPct": "0.247"
       }
     },
     {
@@ -138,11 +138,11 @@
       "league": "Pacific",
       "name": "SoftBank Hawks",
       "batting": {
-        "sb": 91,
-        "cs": 30,
-        "csb": 91,
-        "ccs": 26,
-        "sbPct": "0.778"
+        "sb": 92,
+        "cs": 31,
+        "csb": 92,
+        "ccs": 27,
+        "sbPct": "0.773"
       },
       "fielding": {
         "sb": 58,
@@ -176,18 +176,18 @@
       "league": "Central",
       "name": "Hiroshima Carp",
       "batting": {
-        "sb": 56,
+        "sb": 58,
         "cs": 29,
-        "csb": 55,
+        "csb": 57,
         "ccs": 26,
-        "sbPct": "0.679"
+        "sbPct": "0.687"
       },
       "fielding": {
-        "sb": 43,
+        "sb": 44,
         "cs": 24,
-        "csb": 42,
+        "csb": 43,
         "ccs": 18,
-        "csPct": "0.300"
+        "csPct": "0.295"
       }
     },
     {
@@ -195,11 +195,11 @@
       "league": "Central",
       "name": "Hanshin Tigers",
       "batting": {
-        "sb": 69,
-        "cs": 28,
-        "csb": 66,
-        "ccs": 24,
-        "sbPct": "0.733"
+        "sb": 70,
+        "cs": 29,
+        "csb": 67,
+        "ccs": 25,
+        "sbPct": "0.728"
       },
       "fielding": {
         "sb": 45,
@@ -221,11 +221,11 @@
         "sbPct": "0.739"
       },
       "fielding": {
-        "sb": 38,
-        "cs": 22,
-        "csb": 36,
-        "ccs": 21,
-        "csPct": "0.368"
+        "sb": 39,
+        "cs": 23,
+        "csb": 37,
+        "ccs": 22,
+        "csPct": "0.373"
       }
     },
     {
@@ -233,16 +233,16 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 630,
-        "sb": 453,
-        "cs": 177,
-        "sbPct": "0.742"
+        "attempt": 634,
+        "sb": 454,
+        "cs": 180,
+        "sbPct": "0.739"
       },
       "fielding": {
-        "attempt": 630,
-        "sb": 453,
-        "cs": 177,
-        "csPct": "0.258"
+        "attempt": 634,
+        "sb": 454,
+        "cs": 180,
+        "csPct": "0.261"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 460,
-        "sb": 307,
-        "cs": 153,
-        "sbPct": "0.688"
+        "attempt": 465,
+        "sb": 311,
+        "cs": 154,
+        "sbPct": "0.690"
       },
       "fielding": {
-        "attempt": 460,
-        "sb": 307,
-        "cs": 153,
-        "csPct": "0.312"
+        "attempt": 465,
+        "sb": 311,
+        "cs": 154,
+        "csPct": "0.310"
       }
     }
   ],
-  "updated": "2020-10-24"
+  "updated": "2020-10-25"
 }
