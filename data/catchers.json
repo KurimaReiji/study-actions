@@ -256,14 +256,6 @@
     "league": "central"
   },
   {
-    "catcher": "伊藤光",
-    "csPct": "0.286",
-    "cs": 2,
-    "sb": 5,
-    "team": "DB",
-    "league": "central"
-  },
-  {
     "catcher": "加藤",
     "csPct": "0.286",
     "cs": 2,
@@ -293,6 +285,14 @@
     "cs": 0,
     "sb": 7,
     "team": "S",
+    "league": "central"
+  },
+  {
+    "catcher": "伊藤光",
+    "csPct": "0.167",
+    "cs": 1,
+    "sb": 5,
+    "team": "DB",
     "league": "central"
   },
   {
