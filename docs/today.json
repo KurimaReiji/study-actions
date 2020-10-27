@@ -251,6 +251,31 @@
     "ytext": "一塁走者 〔安達｜1100105〕 :盗塁成功 2塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/1027/b-f-18/playbyplay.html",
+    "date": "2020-10-27",
+    "home": "B",
+    "road": "F",
+    "inning": "b6",
+    "pitcher": "ロドリゲス｜43745136",
+    "catchers": [
+      "清水｜61965130"
+    ],
+    "batter": "安達｜31135135",
+    "runners": [
+      "T-岡田｜61365112"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1-3",
+    "credit": 1,
+    "text": "2アウト｜1・3塁｜｜｜（走者・〔T-岡田｜61365112〕）二塁盗塁成功",
+    "catcher": "清水｜61965130",
+    "ytext": "一塁走者 〔Ｔ－岡田｜600024〕 :盗塁成功 2,3塁"
+  },
+  {
     "url": "https://npb.jp/scores/2020/1027/h-m-19/playbyplay.html",
     "date": "2020-10-27",
     "home": "H",

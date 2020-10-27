@@ -434,6 +434,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔安達｜31135135〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1027/b-f-18/playbyplay.html",
+            "date": "2020-10-27",
+            "home": "B",
+            "road": "F",
+            "inning": "b6",
+            "pitcher": "ロドリゲス｜43745136",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "安達｜31135135",
+            "runners": [
+              "T-岡田｜61365112"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔T-岡田｜61365112〕）二塁盗塁成功"
           }
         ]
       },
@@ -531,6 +554,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-27",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102705/text",
+            "title": "10月27日（火） オリックス vs. 日本ハム 18回戦",
+            "home": "B",
+            "road": "F",
+            "gameNo": "18",
+            "inning": "b6",
+            "batter": "安達 了一｜1100105",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔Ｔ－岡田｜600024〕 :盗塁成功 2,3塁",
+            "pitcher": "ロドリゲス｜1700140",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "Ｔ－岡田｜600024"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
