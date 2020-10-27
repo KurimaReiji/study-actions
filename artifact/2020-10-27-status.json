@@ -173,6 +173,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔エスコバー｜33335151〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1027/c-s-21/playbyplay.html",
+            "date": "2020-10-27",
+            "home": "C",
+            "road": "S",
+            "inning": "t7",
+            "pitcher": "九里｜71775139",
+            "catchers": [
+              "坂倉｜11915134"
+            ],
+            "batter": "山崎｜33135132",
+            "runners": [
+              "塩見｜71975136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔塩見｜71975136〕）二塁盗塁成功"
           }
         ]
       },
@@ -224,6 +247,29 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-27",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102703/text",
+            "title": "10月27日（火） 広島 vs. ヤクルト 21回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "21",
+            "inning": "t7",
+            "batter": "山崎 晃大朗｜1500044",
+            "state": "二死1塁",
+            "text": "一塁走者 〔塩見｜1700087〕 :盗塁成功 2塁",
+            "pitcher": "九里｜1300058",
+            "catcher": "坂倉｜1600124",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "塩見｜1700087"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -234,11 +280,60 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1027/l-e-20/index.html",
         "status": "（メットライフ）\n                    4回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1027/l-e-20/playbyplay.html",
+            "date": "2020-10-27",
+            "home": "L",
+            "road": "E",
+            "inning": "b6",
+            "pitcher": "則本昂｜51055137",
+            "catchers": [
+              "下妻｜01705137",
+              "田中貴｜31235130"
+            ],
+            "batter": "木村｜41745114",
+            "runners": [
+              "スパンジェンバーグ｜23525151"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔スパンジェンバーグ｜23525151〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020102704/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-10-27",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102704/text",
+            "title": "10月27日（火） 西武 vs. 楽天 20回戦",
+            "home": "L",
+            "road": "E",
+            "gameNo": "20",
+            "inning": "b6",
+            "batter": "木村 文紀｜700078",
+            "state": "二死1塁",
+            "text": "一塁走者 〔スパンジェンバーグ｜1900140〕 :盗塁成功 2塁",
+            "pitcher": "則本昂｜1200117",
+            "catcher": "下妻｜1200119",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "スパンジェンバーグ｜1900140"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
@@ -316,6 +411,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1027/b-f-18/playbyplay.html",
+            "date": "2020-10-27",
+            "home": "B",
+            "road": "F",
+            "inning": "b5",
+            "pitcher": "加藤｜41545132",
+            "catchers": [
+              "清水｜61965130"
+            ],
+            "batter": "吉田正｜63165132",
+            "runners": [
+              "安達｜31135135"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔安達｜31135135〕）二塁盗塁成功"
           }
         ]
       },
@@ -386,6 +504,29 @@
             "cs": "CS",
             "runners": [
               "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-27",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102705/text",
+            "title": "10月27日（火） オリックス vs. 日本ハム 18回戦",
+            "home": "B",
+            "road": "F",
+            "gameNo": "18",
+            "inning": "b5",
+            "batter": "吉田 正尚｜1500126",
+            "state": "一死1塁",
+            "text": "一塁走者 〔安達｜1100105〕 :盗塁成功 2塁",
+            "pitcher": "加藤｜1500110",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "安達｜1100105"
             ],
             "base": 2,
             "outs": 1,
