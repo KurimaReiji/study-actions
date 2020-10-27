@@ -150,6 +150,31 @@
     "ytext": "一塁走者 〔佐野｜1400197〕 :盗塁成功 2塁"
   },
   {
+    "url": "https://npb.jp/scores/2020/1027/b-f-18/playbyplay.html",
+    "date": "2020-10-27",
+    "home": "B",
+    "road": "F",
+    "inning": "t5",
+    "pitcher": "榊原｜81785134",
+    "catchers": [
+      "頓宮｜81085138"
+    ],
+    "batter": "平沼｜01605132",
+    "runners": [
+      "西川｜21225133"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "1",
+    "RoB": "1--",
+    "credit": 1,
+    "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁失敗",
+    "catcher": "頓宮｜81085138",
+    "ytext": "一塁走者 〔西川｜1000100〕 :盗塁を試みるもアウト 2アウト"
+  },
+  {
     "url": "https://npb.jp/scores/2020/1027/h-m-19/playbyplay.html",
     "date": "2020-10-27",
     "home": "H",
