@@ -4,7 +4,7 @@
       "id": "DB-G-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1027/db-g-21/index.html",
-        "status": "（横　浜）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1027/db-g-21/playbyplay.html",
@@ -58,14 +58,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-D-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1027/t-d-22/index.html",
-        "status": "（甲子園）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1027/t-d-22/playbyplay.html",
@@ -89,6 +89,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "2アウト｜1・3塁｜｜｜（走者・〔マルテ｜63365138〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1027/t-d-22/playbyplay.html",
+            "date": "2020-10-27",
+            "home": "T",
+            "road": "D",
+            "inning": "b8",
+            "pitcher": "又吉｜61265139",
+            "catchers": [
+              "木下拓｜31735132"
+            ],
+            "batter": "マルテ｜63365138",
+            "runners": [
+              "植田｜01305130"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔植田｜01305130〕）二塁盗塁失敗"
           }
         ]
       },
@@ -117,16 +140,39 @@
             "base": 2,
             "outs": 2,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-27",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102702/text",
+            "title": "10月27日（火） 阪神 vs. 中日 22回戦",
+            "home": "T",
+            "road": "D",
+            "gameNo": "22",
+            "inning": "b8",
+            "batter": "マルテ｜1900002",
+            "state": "二死1塁",
+            "text": "一塁走者 〔植田｜1400172〕 :盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "又吉｜1300063",
+            "catcher": "木下拓｜1500076",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "植田｜1400172"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-S-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1027/c-s-21/index.html",
-        "status": "（マツダスタジアム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1027/c-s-21/playbyplay.html",
@@ -196,6 +242,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔塩見｜71975136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1027/c-s-21/playbyplay.html",
+            "date": "2020-10-27",
+            "home": "C",
+            "road": "S",
+            "inning": "b8",
+            "pitcher": "長谷川｜11615134",
+            "catchers": [
+              "中村｜51255118"
+            ],
+            "batter": "鈴木誠｜81785137",
+            "runners": [
+              "田中広｜61965139"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔田中広｜61965139〕）二塁盗塁成功"
           }
         ]
       },
@@ -270,16 +339,39 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-27",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102703/text",
+            "title": "10月27日（火） 広島 vs. ヤクルト 21回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "21",
+            "inning": "b8",
+            "batter": "鈴木 誠也｜1200069",
+            "state": "一死1塁",
+            "text": "空振り三振に倒れるもスタートを切っていた一塁走者 〔田中広｜1300059〕 が盗塁成功 2アウト2塁",
+            "pitcher": "長谷川｜1600169",
+            "catcher": "中村｜900044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "田中広｜1300059"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-E-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1027/l-e-20/index.html",
-        "status": "（メットライフ）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1027/l-e-20/playbyplay.html",
@@ -304,6 +396,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔スパンジェンバーグ｜23525151〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1027/l-e-20/playbyplay.html",
+            "date": "2020-10-27",
+            "home": "L",
+            "road": "E",
+            "inning": "b8",
+            "pitcher": "牧田｜41445133",
+            "catchers": [
+              "下妻｜01705137",
+              "田中貴｜31235130"
+            ],
+            "batter": "メヒア｜83385139",
+            "runners": [
+              "熊代｜21725133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔熊代｜21725133〕）二塁盗塁成功"
           }
         ]
       },
@@ -332,9 +448,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-27",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102704/text",
+            "title": "10月27日（火） 西武 vs. 楽天 20回戦",
+            "home": "L",
+            "road": "E",
+            "gameNo": "20",
+            "inning": "b8",
+            "batter": "メヒア｜1400010",
+            "state": "二死1塁",
+            "text": "一塁走者 〔熊代｜1000153〕 :盗塁成功 2塁",
+            "pitcher": "牧田｜1000149",
+            "catcher": "田中貴｜1400107",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "熊代｜1000153"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -579,14 +718,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "H-M-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1027/h-m-19/index.html",
-        "status": "（PayPayドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1027/h-m-19/playbyplay.html",
@@ -640,7 +779,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
