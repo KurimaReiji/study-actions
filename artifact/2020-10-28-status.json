@@ -77,6 +77,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1028/db-g-22/playbyplay.html",
+            "date": "2020-10-28",
+            "home": "DB",
+            "road": "G",
+            "inning": "b8",
+            "pitcher": "高梨｜91095134",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "ロペス｜93195137",
+            "runners": [
+              "大和｜61465112"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "0アウト｜1・3塁｜｜｜（走者・〔大和｜61465112〕）二塁盗塁成功"
           }
         ]
       },
@@ -160,7 +183,7 @@
       "id": "T-D-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1028/t-d-23/index.html",
-        "status": "（甲子園）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1028/t-d-23/playbyplay.html",
@@ -170,7 +193,8 @@
             "inning": "b1",
             "pitcher": "勝野｜21525138",
             "catchers": [
-              "木下拓｜31735132"
+              "木下拓｜31735132",
+              "郡司｜21925151"
             ],
             "batter": "マルテ｜63365138",
             "runners": [
@@ -214,14 +238,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-S-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1028/c-s-22/index.html",
-        "status": "（マツダスタジアム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1028/c-s-22/playbyplay.html",
@@ -321,14 +345,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-E-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1028/l-e-21/index.html",
-        "status": "（メットライフ）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1028/l-e-21/playbyplay.html",
@@ -571,14 +595,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-F-19",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1028/b-f-19/index.html",
-        "status": "（京セラD大阪）\n                    6回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1028/b-f-19/playbyplay.html",
@@ -678,14 +702,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "H-M-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1028/h-m-20/index.html",
-        "status": "（PayPayドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1028/h-m-20/playbyplay.html",
@@ -786,7 +810,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
