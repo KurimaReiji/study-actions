@@ -4,7 +4,7 @@
       "id": "DB-G-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1029/db-g-23/index.html",
-        "status": "（横　浜）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1029/db-g-23/playbyplay.html",
@@ -58,14 +58,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-D-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1029/t-d-24/index.html",
-        "status": "（甲子園）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1029/t-d-24/playbyplay.html",
@@ -351,6 +351,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "0アウト｜1・3塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1029/f-b-20/playbyplay.html",
+            "date": "2020-10-29",
+            "home": "F",
+            "road": "B",
+            "inning": "b10",
+            "pitcher": "比嘉｜81085131",
+            "catchers": [
+              "伏見｜61065137"
+            ],
+            "batter": "中田｜61065116",
+            "runners": [
+              "西川｜21225133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
           }
         ]
       },
@@ -379,6 +402,29 @@
             "base": 2,
             "outs": 0,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-29",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102904/text",
+            "title": "10月29日（木） 日本ハム vs. オリックス 20回戦",
+            "home": "F",
+            "road": "B",
+            "gameNo": "20",
+            "inning": "b10",
+            "batter": "中田 翔｜800054",
+            "state": "一死1塁",
+            "text": "一塁走者 〔西川｜1000100〕 :盗塁成功　1塁走者 〔西川｜1000100〕 はさらに3塁まで進塁 3塁",
+            "pitcher": "比嘉｜1000010",
+            "catcher": "伏見｜1200100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -633,7 +679,7 @@
       "id": "H-M-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1029/h-m-21/index.html",
-        "status": "（PayPayドーム）\n                    6回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1029/h-m-21/playbyplay.html",
@@ -687,7 +733,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
