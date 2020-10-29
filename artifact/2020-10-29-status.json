@@ -77,6 +77,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔西川｜71475132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1029/c-s-23/playbyplay.html",
+            "date": "2020-10-29",
+            "home": "C",
+            "road": "S",
+            "inning": "b6",
+            "pitcher": "梅野｜51355134",
+            "catchers": [
+              "古賀｜01705134"
+            ],
+            "batter": "鈴木誠｜81785137",
+            "runners": [
+              "大盛｜21325138"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔大盛｜21325138〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1029/c-s-23/playbyplay.html",
+            "date": "2020-10-29",
+            "home": "C",
+            "road": "S",
+            "inning": "t7",
+            "pitcher": "島内｜31935138",
+            "catchers": [
+              "會澤｜31135114"
+            ],
+            "batter": "山田哲｜91895133",
+            "runners": [
+              "塩見｜71975136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔塩見｜71975136〕）二塁盗塁成功"
           }
         ]
       },
@@ -128,6 +174,52 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-29",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102903/text",
+            "title": "10月29日（木） 広島 vs. ヤクルト 23回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "23",
+            "inning": "b6",
+            "batter": "鈴木 誠也｜1200069",
+            "state": "一死1塁",
+            "text": "一塁走者 〔大盛｜1800079〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "梅野｜1600076",
+            "catcher": "古賀｜1600078",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "大盛｜1800079"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-29",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102903/text",
+            "title": "10月29日（木） 広島 vs. ヤクルト 23回戦",
+            "home": "C",
+            "road": "S",
+            "gameNo": "23",
+            "inning": "t7",
+            "batter": "山田 哲人｜1000132",
+            "state": "一死1塁",
+            "text": "一塁走者 〔塩見｜1700087〕 :盗塁成功 2塁",
+            "pitcher": "島内｜1800073",
+            "catcher": "會澤｜700050",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "塩見｜1700087"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -138,11 +230,59 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1029/f-b-20/index.html",
         "status": "（札幌ドーム）\n                    5回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1029/f-b-20/playbyplay.html",
+            "date": "2020-10-29",
+            "home": "F",
+            "road": "B",
+            "inning": "b6",
+            "pitcher": "田嶋｜41045136",
+            "catchers": [
+              "伏見｜61065137"
+            ],
+            "batter": "中田｜61065116",
+            "runners": [
+              "西川｜21225133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "0アウト｜1・3塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020102904/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-10-29",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020102904/text",
+            "title": "10月29日（木） 日本ハム vs. オリックス 20回戦",
+            "home": "F",
+            "road": "B",
+            "gameNo": "20",
+            "inning": "b6",
+            "batter": "中田 翔｜800054",
+            "state": "無死1,3塁",
+            "text": "一塁走者 〔西川｜1000100〕 :盗塁成功 2,3塁",
+            "pitcher": "田嶋｜1700109",
+            "catcher": "伏見｜1200100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1-3"
+          }
+        ],
         "status": false
       }
     },
