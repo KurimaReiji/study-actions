@@ -126,7 +126,7 @@
       "id": "C-S-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1029/c-s-23/index.html",
-        "status": "（マツダスタジアム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1029/c-s-23/playbyplay.html",
@@ -320,14 +320,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "F-B-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1029/f-b-20/index.html",
-        "status": "（札幌ドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1029/f-b-20/playbyplay.html",
@@ -427,14 +427,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-E-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1029/l-e-22/index.html",
-        "status": "（メットライフ）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1029/l-e-22/playbyplay.html",
@@ -672,7 +672,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
