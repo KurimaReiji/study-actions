@@ -51,6 +51,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔松原｜21825134〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/g-s-20/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "G",
+            "road": "S",
+            "inning": "t5",
+            "pitcher": "今村｜31335135",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "長岡｜51455151",
+            "runners": [
+              "廣岡｜21625132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔廣岡｜21625132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/g-s-20/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "G",
+            "road": "S",
+            "inning": "t5",
+            "pitcher": "今村｜31335135",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "坂口｜21925117",
+            "runners": [
+              "塩見｜71975136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔塩見｜71975136〕）二塁盗塁成功"
           }
         ]
       },
@@ -102,6 +148,52 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103001/text",
+            "title": "10月30日（金） 巨人 vs. ヤクルト 20回戦",
+            "home": "G",
+            "road": "S",
+            "gameNo": "20",
+            "inning": "t5",
+            "batter": "長岡 秀樹｜1900028",
+            "state": "一死1塁",
+            "text": "一塁走者 〔廣岡｜1500041〕 :盗塁成功 2塁",
+            "pitcher": "今村｜1100038",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "廣岡｜1500041"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103001/text",
+            "title": "10月30日（金） 巨人 vs. ヤクルト 20回戦",
+            "home": "G",
+            "road": "S",
+            "gameNo": "20",
+            "inning": "t5",
+            "batter": "坂口 智隆｜20199",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔塩見｜1700087〕 :盗塁成功 2,3塁",
+            "pitcher": "今村｜1100038",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "塩見｜1700087"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -303,6 +395,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/f-b-21/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "F",
+            "road": "B",
+            "inning": "t5",
+            "pitcher": "マルティネス｜33735136",
+            "catchers": [
+              "鶴岡｜71275117"
+            ],
+            "batter": "西野｜91495130",
+            "runners": [
+              "佐野｜91995130"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔佐野｜91995130〕）二塁盗塁失敗"
           }
         ]
       },
