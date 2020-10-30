@@ -14,7 +14,8 @@
             "inning": "b2",
             "pitcher": "歳内｜61765135",
             "catchers": [
-              "中村｜51255118"
+              "中村｜51255118",
+              "古賀｜01705134"
             ],
             "batter": "大城｜21325136",
             "runners": [
@@ -37,7 +38,8 @@
             "inning": "b3",
             "pitcher": "歳内｜61765135",
             "catchers": [
-              "中村｜51255118"
+              "中村｜51255118",
+              "古賀｜01705134"
             ],
             "batter": "坂本｜51955114",
             "runners": [
@@ -97,6 +99,29 @@
             "RoB": "1-3",
             "credit": "1",
             "text": "2アウト｜1・3塁｜｜｜（走者・〔塩見｜71975136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/g-s-20/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "G",
+            "road": "S",
+            "inning": "t8",
+            "pitcher": "高梨｜91095134",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "西浦｜91095139",
+            "runners": [
+              "山崎｜33135132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔山崎｜33135132〕）二塁盗塁成功"
           }
         ]
       },
@@ -194,6 +219,29 @@
             "base": 2,
             "outs": 2,
             "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103001/text",
+            "title": "10月30日（金） 巨人 vs. ヤクルト 20回戦",
+            "home": "G",
+            "road": "S",
+            "gameNo": "20",
+            "inning": "t8",
+            "batter": "西浦 直亨｜1300095",
+            "state": "無死1塁",
+            "text": "一塁走者 〔山崎｜1500044〕 :積極的に初球から走って盗塁成功 2塁",
+            "pitcher": "高梨｜1600100",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "山崎｜1500044"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -250,6 +298,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔近本｜71075138〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/db-t-21/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "DB",
+            "road": "T",
+            "inning": "t10",
+            "pitcher": "三嶋｜41245137",
+            "catchers": [
+              "戸柱｜41245132"
+            ],
+            "batter": "梅野｜21325139",
+            "runners": [
+              "熊谷｜81585136"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "0",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "0アウト｜1塁｜｜｜（走者・〔熊谷｜81585136〕）二塁盗塁失敗"
           }
         ]
       },
@@ -301,6 +372,30 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103002/text",
+            "title": "10月30日（金） ＤｅＮＡ vs. 阪神 21回戦",
+            "home": "DB",
+            "road": "T",
+            "gameNo": "21",
+            "inning": "t10",
+            "batter": "梅野 隆太郎｜1300073",
+            "state": "無死1塁",
+            "text": "一塁走者 〔熊谷｜1700079〕 :盗塁を試みるもアウト 1アウト",
+            "pitcher": "三嶋｜1200049",
+            "catcher": "戸柱｜1500064",
+            "pickoff": "1塁けん制:ランナー 〔熊谷｜1700079〕 スタート",
+            "credit": 0,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "熊谷｜1700079"
+            ],
+            "base": 2,
+            "outs": 0,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -320,7 +415,8 @@
             "inning": "t1",
             "pitcher": "ロドリゲス｜33935151",
             "catchers": [
-              "木下拓｜31735132"
+              "木下拓｜31735132",
+              "郡司｜21925151"
             ],
             "batter": "長野｜91995131",
             "runners": [
@@ -404,7 +500,8 @@
             "inning": "t5",
             "pitcher": "マルティネス｜33735136",
             "catchers": [
-              "鶴岡｜71275117"
+              "鶴岡｜71275117",
+              "清水｜61965130"
             ],
             "batter": "西野｜91495130",
             "runners": [
@@ -427,7 +524,8 @@
             "inning": "t7",
             "pitcher": "マルティネス｜33735136",
             "catchers": [
-              "鶴岡｜71275117"
+              "鶴岡｜71275117",
+              "清水｜61965130"
             ],
             "batter": "松井佑｜71475131",
             "runners": [
@@ -450,7 +548,8 @@
             "inning": "t8",
             "pitcher": "福田｜11615138",
             "catchers": [
-              "鶴岡｜71275117"
+              "鶴岡｜71275117",
+              "清水｜61965130"
             ],
             "batter": "大城｜11515132",
             "runners": [
@@ -595,6 +694,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔周東｜21925136〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/l-h-21/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "L",
+            "road": "H",
+            "inning": "t8",
+            "pitcher": "宮川｜51855151",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "柳町｜73175151",
+            "runners": [
+              "甲斐｜91595133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔甲斐｜91595133〕）二塁盗塁成功"
           }
         ]
       },
@@ -646,22 +768,45 @@
             "base": 2,
             "outs": 1,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103005/text",
+            "title": "10月30日（金） 西武 vs. ソフトバンク 21回戦",
+            "home": "L",
+            "road": "H",
+            "gameNo": "21",
+            "inning": "t8",
+            "batter": "柳町 達｜1900104",
+            "state": "二死1塁",
+            "text": "一塁走者 〔甲斐｜1000176〕 :盗塁成功 2塁",
+            "pitcher": "宮川｜1900061",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "甲斐｜1000176"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-E-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1030/m-e-22/index.html",
-        "status": "（ZOZOマリン）\n                    4回裏",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020103006/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     }
   ],
