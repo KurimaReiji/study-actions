@@ -321,6 +321,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔熊谷｜81585136〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/db-t-21/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "DB",
+            "road": "T",
+            "inning": "t10",
+            "pitcher": "三嶋｜41245137",
+            "catchers": [
+              "戸柱｜41245132"
+            ],
+            "batter": "近本｜71075138",
+            "runners": [
+              "小幡｜31535138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔小幡｜31535138〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/db-t-21/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "DB",
+            "road": "T",
+            "inning": "t10",
+            "pitcher": "三嶋｜41245137",
+            "catchers": [
+              "戸柱｜41245132"
+            ],
+            "batter": "島田｜91995136",
+            "runners": [
+              "近本｜71075138"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔近本｜71075138〕）二塁盗塁成功"
           }
         ]
       },
@@ -396,6 +442,52 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103002/text",
+            "title": "10月30日（金） ＤｅＮＡ vs. 阪神 21回戦",
+            "home": "DB",
+            "road": "T",
+            "gameNo": "21",
+            "inning": "t10",
+            "batter": "近本 光司｜1800065",
+            "state": "二死1塁",
+            "text": "一塁走者 〔小幡｜1800066〕 :盗塁成功 2塁",
+            "pitcher": "三嶋｜1200049",
+            "catcher": "戸柱｜1500064",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "小幡｜1800066"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103002/text",
+            "title": "10月30日（金） ＤｅＮＡ vs. 阪神 21回戦",
+            "home": "DB",
+            "road": "T",
+            "gameNo": "21",
+            "inning": "t10",
+            "batter": "島田 海吏｜1700080",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔近本｜1800065〕 :盗塁成功 2,3塁",
+            "pitcher": "三嶋｜1200049",
+            "catcher": "戸柱｜1500064",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "近本｜1800065"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
@@ -405,7 +497,7 @@
       "id": "D-C-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1030/d-c-21/index.html",
-        "status": "（ナゴヤドーム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1030/d-c-21/playbyplay.html",
@@ -467,7 +559,7 @@
       "id": "F-B-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1030/f-b-21/index.html",
-        "status": "（札幌ドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1030/f-b-21/playbyplay.html",
@@ -640,14 +732,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-H-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1030/l-h-21/index.html",
-        "status": "（メットライフ）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1030/l-h-21/playbyplay.html",
