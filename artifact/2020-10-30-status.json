@@ -4,7 +4,7 @@
       "id": "G-S-20",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1030/g-s-20/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1030/g-s-20/playbyplay.html",
@@ -122,6 +122,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔山崎｜33135132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/g-s-20/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "G",
+            "road": "S",
+            "inning": "t10",
+            "pitcher": "ビエイラ｜93795151",
+            "catchers": [
+              "大城｜21325136"
+            ],
+            "batter": "西浦｜91095139",
+            "runners": [
+              "山崎｜33135132"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔山崎｜33135132〕）二塁盗塁成功"
           }
         ]
       },
@@ -242,16 +265,39 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103001/text",
+            "title": "10月30日（金） 巨人 vs. ヤクルト 20回戦",
+            "home": "G",
+            "road": "S",
+            "gameNo": "20",
+            "inning": "t10",
+            "batter": "西浦 直亨｜1300095",
+            "state": "一死1塁",
+            "text": "一塁走者 〔山崎｜1500044〕 :盗塁成功 2塁",
+            "pitcher": "ビエイラ｜1900136",
+            "catcher": "大城｜1700044",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "山崎｜1500044"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "DB-T-21",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1030/db-t-21/index.html",
-        "status": "（横　浜）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1030/db-t-21/playbyplay.html",
@@ -490,7 +536,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -552,7 +598,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
