@@ -418,6 +418,52 @@
             "RoB": "1--",
             "credit": "1",
             "text": "1アウト｜1塁｜｜｜（走者・〔佐野｜91995130〕）二塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/f-b-21/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "F",
+            "road": "B",
+            "inning": "t7",
+            "pitcher": "マルティネス｜33735136",
+            "catchers": [
+              "鶴岡｜71275117"
+            ],
+            "batter": "松井佑｜71475131",
+            "runners": [
+              "安達｜31135135"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔安達｜31135135〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1030/f-b-21/playbyplay.html",
+            "date": "2020-10-30",
+            "home": "F",
+            "road": "B",
+            "inning": "t8",
+            "pitcher": "福田｜11615138",
+            "catchers": [
+              "鶴岡｜71275117"
+            ],
+            "batter": "大城｜11515132",
+            "runners": [
+              "T-岡田｜61365112"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔T-岡田｜61365112〕）二塁盗塁失敗"
           }
         ]
       },
@@ -446,6 +492,52 @@
             ],
             "base": 2,
             "outs": 1,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103004/text",
+            "title": "10月30日（金） 日本ハム vs. オリックス 21回戦",
+            "home": "F",
+            "road": "B",
+            "gameNo": "21",
+            "inning": "t7",
+            "batter": "松井 佑介｜900409",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔安達｜1100105〕 :すかさず初球から走って盗塁成功 2,3塁",
+            "pitcher": "マルティネス｜1800002",
+            "catcher": "鶴岡｜20225",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "安達｜1100105"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-10-30",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020103004/text",
+            "title": "10月30日（金） 日本ハム vs. オリックス 21回戦",
+            "home": "F",
+            "road": "B",
+            "gameNo": "21",
+            "inning": "t8",
+            "batter": "大城 滉二｜1500128",
+            "state": "二死1塁",
+            "text": "一塁走者 〔Ｔ－岡田｜600024〕 :盗塁を試みるもアウト 3アウトチェンジ",
+            "pitcher": "福田｜1800096",
+            "catcher": "鶴岡｜20225",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "Ｔ－岡田｜600024"
+            ],
+            "base": 2,
+            "outs": 2,
             "RoB": "1--"
           }
         ],
