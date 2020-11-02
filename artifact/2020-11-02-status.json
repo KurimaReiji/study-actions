@@ -14,7 +14,8 @@
             "inning": "b4",
             "pitcher": "生田目｜41245138",
             "catchers": [
-              "清水｜61965130"
+              "清水｜61965130",
+              "宇佐見｜61365132"
             ],
             "batter": "メヒア｜83385139",
             "runners": [
@@ -37,7 +38,8 @@
             "inning": "b5",
             "pitcher": "生田目｜41245138",
             "catchers": [
-              "清水｜61965130"
+              "清水｜61965130",
+              "宇佐見｜61365132"
             ],
             "batter": "木村｜41745114",
             "runners": [
@@ -56,54 +58,7 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020110201/text",
-        "attempts": [
-          {
-            "date": "2020-11-02",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020110201/text",
-            "title": "11月2日（月） 西武 vs. 日本ハム 22回戦",
-            "home": "L",
-            "road": "F",
-            "gameNo": "22",
-            "inning": "b4",
-            "batter": "メヒア｜1400010",
-            "state": "二死1,3塁",
-            "text": "一塁走者スタート！その間に三塁走者 〔中村｜12101〕 が本塁突入を試みるもタッチアウト 3アウトチェンジ",
-            "pitcher": "生田目｜1800092",
-            "catcher": "清水｜1400118",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "中村｜12101"
-            ],
-            "base": 2,
-            "outs": 2,
-            "RoB": "1-3"
-          },
-          {
-            "date": "2020-11-02",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020110201/text",
-            "title": "11月2日（月） 西武 vs. 日本ハム 22回戦",
-            "home": "L",
-            "road": "F",
-            "gameNo": "22",
-            "inning": "b5",
-            "batter": "木村 文紀｜700078",
-            "state": "無死2塁",
-            "text": "バントを試みるも空振り！二塁走者 〔呉｜1500105〕 は塁を飛び出しておりアウト 1アウト",
-            "pitcher": "生田目｜1800092",
-            "catcher": "清水｜1400118",
-            "credit": 1,
-            "sb": "",
-            "cs": "CS",
-            "runners": [
-              "呉｜1500105"
-            ],
-            "base": 3,
-            "outs": 0,
-            "RoB": "-2-"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     }
