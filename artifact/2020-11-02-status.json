@@ -4,7 +4,7 @@
       "id": "L-F-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1102/l-f-22/index.html",
-        "status": "（メットライフ）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1102/l-f-22/playbyplay.html",
@@ -53,13 +53,106 @@
             "RoB": "-2-",
             "credit": "1",
             "text": "0アウト｜2塁｜｜｜（走者・〔呉｜21325132〕）三塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1102/l-f-22/playbyplay.html",
+            "date": "2020-11-02",
+            "home": "L",
+            "road": "F",
+            "inning": "t9",
+            "pitcher": "ギャレット｜03305151",
+            "catchers": [
+              "森｜91495139"
+            ],
+            "batter": "中田｜61065116",
+            "runners": [
+              "西川｜21225133"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔西川｜21225133〕）二塁盗塁成功"
           }
         ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020110201/text",
-        "attempts": [],
-        "status": false
+        "attempts": [
+          {
+            "date": "2020-11-02",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110201/text",
+            "title": "11月2日（月） 西武 vs. 日本ハム 22回戦",
+            "home": "L",
+            "road": "F",
+            "gameNo": "22",
+            "inning": "b4",
+            "batter": "メヒア｜1400010",
+            "state": "二死1,3塁",
+            "text": "一塁走者スタート！その間に三塁走者 〔中村｜12101〕 が本塁突入を試みるもタッチアウト 3アウトチェンジ",
+            "pitcher": "生田目｜1800092",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "中村｜12101"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
+          },
+          {
+            "date": "2020-11-02",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110201/text",
+            "title": "11月2日（月） 西武 vs. 日本ハム 22回戦",
+            "home": "L",
+            "road": "F",
+            "gameNo": "22",
+            "inning": "b5",
+            "batter": "木村 文紀｜700078",
+            "state": "無死2塁",
+            "text": "バントを試みるも空振り！二塁走者 〔呉｜1500105〕 は塁を飛び出しておりアウト 1アウト",
+            "pitcher": "生田目｜1800092",
+            "catcher": "清水｜1400118",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "呉｜1500105"
+            ],
+            "base": 3,
+            "outs": 0,
+            "RoB": "-2-"
+          },
+          {
+            "date": "2020-11-02",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110201/text",
+            "title": "11月2日（月） 西武 vs. 日本ハム 22回戦",
+            "home": "L",
+            "road": "F",
+            "gameNo": "22",
+            "inning": "t9",
+            "batter": "中田 翔｜800054",
+            "state": "二死1塁",
+            "text": "一塁走者 〔西川｜1000100〕 :盗塁成功 2塁",
+            "pitcher": "ギャレット｜1900152",
+            "catcher": "森｜1300100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "西川｜1000100"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
+          }
+        ],
+        "status": "Final"
       }
     }
   ],
