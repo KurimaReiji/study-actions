@@ -1,10 +1,18 @@
 [
   {
     "catcher": "森",
-    "csPct": "0.307",
+    "csPct": "0.303",
     "cs": 27,
-    "sb": 61,
+    "sb": 62,
     "team": "L",
+    "league": "pacific"
+  },
+  {
+    "catcher": "清水",
+    "csPct": "0.200",
+    "cs": 14,
+    "sb": 56,
+    "team": "F",
     "league": "pacific"
   },
   {
@@ -20,14 +28,6 @@
     "csPct": "0.294",
     "cs": 20,
     "sb": 48,
-    "team": "F",
-    "league": "pacific"
-  },
-  {
-    "catcher": "清水",
-    "csPct": "0.176",
-    "cs": 12,
-    "sb": 56,
     "team": "F",
     "league": "pacific"
   },

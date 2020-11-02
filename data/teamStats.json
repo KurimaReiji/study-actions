@@ -5,18 +5,18 @@
       "league": "Pacific",
       "name": "Nippon-Ham Fighters",
       "batting": {
-        "sb": 73,
+        "sb": 74,
         "cs": 23,
-        "csb": 70,
+        "csb": 71,
         "ccs": 19,
-        "sbPct": "0.787"
+        "sbPct": "0.789"
       },
       "fielding": {
         "sb": 121,
-        "cs": 39,
+        "cs": 41,
         "csb": 119,
-        "ccs": 34,
-        "csPct": "0.222"
+        "ccs": 36,
+        "csPct": "0.232"
       }
     },
     {
@@ -63,17 +63,17 @@
       "name": "Seibu Lions",
       "batting": {
         "sb": 81,
-        "cs": 37,
+        "cs": 39,
         "csb": 81,
-        "ccs": 30,
-        "sbPct": "0.730"
+        "ccs": 32,
+        "sbPct": "0.717"
       },
       "fielding": {
-        "sb": 75,
+        "sb": 76,
         "cs": 34,
-        "csb": 74,
+        "csb": 75,
         "ccs": 32,
-        "csPct": "0.302"
+        "csPct": "0.299"
       }
     },
     {
@@ -233,16 +233,16 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 675,
-        "sb": 487,
-        "cs": 188,
-        "sbPct": "0.748"
+        "attempt": 678,
+        "sb": 488,
+        "cs": 190,
+        "sbPct": "0.746"
       },
       "fielding": {
-        "attempt": 675,
-        "sb": 487,
-        "cs": 188,
-        "csPct": "0.252"
+        "attempt": 678,
+        "sb": 488,
+        "cs": 190,
+        "csPct": "0.254"
       }
     },
     {
@@ -263,5 +263,5 @@
       }
     }
   ],
-  "updated": "2020-11-01"
+  "updated": "2020-11-02"
 }
