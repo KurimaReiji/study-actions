@@ -264,7 +264,7 @@
       "id": "B-E-22",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1103/b-e-22/index.html",
-        "status": "（京セラD大阪）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1103/b-e-22/playbyplay.html",
@@ -336,6 +336,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "2アウト｜1塁｜｜｜（走者・〔小深田｜61965151〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1103/b-e-22/playbyplay.html",
+            "date": "2020-11-03",
+            "home": "B",
+            "road": "E",
+            "inning": "t9",
+            "pitcher": "漆原｜11315138",
+            "catchers": [
+              "伏見｜61065137"
+            ],
+            "batter": "小郷｜81385138",
+            "runners": [
+              "銀次｜71375112"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔銀次｜71375112〕）二塁盗塁成功"
           }
         ]
       },
@@ -410,9 +433,32 @@
             "base": 2,
             "outs": 2,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-11-03",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110306/text",
+            "title": "11月3日（火） オリックス vs. 楽天 22回戦",
+            "home": "B",
+            "road": "E",
+            "gameNo": "22",
+            "inning": "t9",
+            "batter": "小郷 裕哉｜1800123",
+            "state": "二死1塁",
+            "text": "一塁走者 〔銀次｜600020〕 :盗塁成功 2塁",
+            "pitcher": "漆原｜1800105",
+            "catcher": "伏見｜1200100",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "銀次｜600020"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
