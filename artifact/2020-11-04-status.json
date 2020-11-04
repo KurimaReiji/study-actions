@@ -403,7 +403,7 @@
       "id": "B-E-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1104/b-e-23/index.html",
-        "status": "（京セラD大阪）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1104/b-e-23/playbyplay.html",
@@ -458,7 +458,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
