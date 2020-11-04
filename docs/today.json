@@ -1,5 +1,30 @@
 [
   {
+    "url": "https://npb.jp/scores/2020/1104/d-db-23/playbyplay.html",
+    "date": "2020-11-04",
+    "home": "D",
+    "road": "DB",
+    "inning": "b5",
+    "pitcher": "中川｜21225136",
+    "catchers": [
+      "伊藤光｜81185116"
+    ],
+    "batter": "高橋｜91095135",
+    "runners": [
+      "阿部｜61165132"
+    ],
+    "sb": "",
+    "cs": "CS",
+    "base": "2",
+    "ds": "",
+    "outs": "2",
+    "RoB": "1--",
+    "credit": 0,
+    "text": "2アウト｜1塁｜｜｜（走者・〔阿部｜61165132〕）二塁盗塁失敗",
+    "catcher": "伊藤光｜81185116",
+    "ytext": "1塁けん制:ランナー 〔阿部｜1500078〕 スタート\n一塁走者 〔阿部｜1500078〕 :盗塁を試みるもアウト 3アウトチェンジ"
+  },
+  {
     "url": "https://npb.jp/scores/2020/1104/c-g-23/playbyplay.html",
     "date": "2020-11-04",
     "home": "C",
