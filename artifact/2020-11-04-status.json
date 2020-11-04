@@ -4,7 +4,7 @@
       "id": "D-DB-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1104/d-db-23/index.html",
-        "status": "（ナゴヤドーム）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1104/d-db-23/playbyplay.html",
@@ -59,27 +59,27 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "T-S-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1104/t-s-23/index.html",
-        "status": "（甲子園）\n                    5回表",
+        "status": "Final",
         "attempts": []
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020110402/text",
         "attempts": [],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-G-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1104/c-g-23/index.html",
-        "status": "（マツダスタジアム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1104/c-g-23/playbyplay.html",
@@ -89,7 +89,8 @@
             "inning": "b1",
             "pitcher": "髙橋｜61965138",
             "catchers": [
-              "岸田｜91595136"
+              "岸田｜91595136",
+              "炭谷｜91995112"
             ],
             "batter": "田中広｜61965139",
             "runners": [
@@ -112,7 +113,8 @@
             "inning": "b2",
             "pitcher": "髙橋｜61965138",
             "catchers": [
-              "岸田｜91595136"
+              "岸田｜91595136",
+              "炭谷｜91995112"
             ],
             "batter": "菊池涼｜61565135",
             "runners": [
@@ -225,14 +227,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "L-F-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1104/l-f-24/index.html",
-        "status": "（メットライフ）\n                    3回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1104/l-f-24/playbyplay.html",
@@ -333,14 +335,14 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "M-H-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1104/m-h-23/index.html",
-        "status": "（ZOZOマリン）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1104/m-h-23/playbyplay.html",
@@ -394,7 +396,7 @@
             "RoB": "-2-"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
