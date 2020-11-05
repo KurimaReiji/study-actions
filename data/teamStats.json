@@ -31,11 +31,11 @@
         "sbPct": "0.736"
       },
       "fielding": {
-        "sb": 87,
-        "cs": 28,
-        "csb": 86,
-        "ccs": 27,
-        "csPct": "0.239"
+        "sb": 89,
+        "cs": 30,
+        "csb": 88,
+        "ccs": 28,
+        "csPct": "0.241"
       }
     },
     {
@@ -43,11 +43,11 @@
       "league": "Pacific",
       "name": "Lotte Marines",
       "batting": {
-        "sb": 84,
+        "sb": 85,
         "cs": 31,
-        "csb": 82,
+        "csb": 83,
         "ccs": 28,
-        "sbPct": "0.745"
+        "sbPct": "0.748"
       },
       "fielding": {
         "sb": 80,
@@ -81,18 +81,18 @@
       "league": "Central",
       "name": "DeNA Baystars",
       "batting": {
-        "sb": 29,
-        "cs": 13,
-        "csb": 29,
-        "ccs": 11,
-        "sbPct": "0.725"
+        "sb": 30,
+        "cs": 14,
+        "csb": 30,
+        "ccs": 12,
+        "sbPct": "0.714"
       },
       "fielding": {
         "sb": 72,
-        "cs": 37,
+        "cs": 38,
         "csb": 68,
-        "ccs": 32,
-        "csPct": "0.320"
+        "ccs": 33,
+        "csPct": "0.327"
       }
     },
     {
@@ -100,18 +100,18 @@
       "league": "Central",
       "name": "Yakult Swallows",
       "batting": {
-        "sb": 68,
+        "sb": 73,
         "cs": 40,
-        "csb": 63,
+        "csb": 65,
         "ccs": 36,
-        "sbPct": "0.636"
+        "sbPct": "0.644"
       },
       "fielding": {
-        "sb": 78,
+        "sb": 79,
         "cs": 23,
-        "csb": 77,
+        "csb": 78,
         "ccs": 18,
-        "csPct": "0.189"
+        "csPct": "0.188"
       }
     },
     {
@@ -119,11 +119,11 @@
       "league": "Pacific",
       "name": "ORIX Buffaloes",
       "batting": {
-        "sb": 91,
-        "cs": 37,
-        "csb": 89,
-        "ccs": 34,
-        "sbPct": "0.724"
+        "sb": 93,
+        "cs": 39,
+        "csb": 91,
+        "ccs": 35,
+        "sbPct": "0.722"
       },
       "fielding": {
         "sb": 68,
@@ -139,17 +139,17 @@
       "name": "Chunichi Dragons",
       "batting": {
         "sb": 32,
-        "cs": 20,
+        "cs": 21,
         "csb": 31,
-        "ccs": 17,
-        "sbPct": "0.646"
+        "ccs": 18,
+        "sbPct": "0.633"
       },
       "fielding": {
-        "sb": 56,
-        "cs": 35,
-        "csb": 54,
-        "ccs": 33,
-        "csPct": "0.379"
+        "sb": 57,
+        "cs": 36,
+        "csb": 55,
+        "ccs": 34,
+        "csPct": "0.382"
       }
     },
     {
@@ -164,11 +164,11 @@
         "sbPct": "0.776"
       },
       "fielding": {
-        "sb": 62,
+        "sb": 63,
         "cs": 28,
-        "csb": 60,
+        "csb": 61,
         "ccs": 21,
-        "csPct": "0.259"
+        "csPct": "0.256"
       }
     },
     {
@@ -184,10 +184,29 @@
       },
       "fielding": {
         "sb": 50,
-        "cs": 27,
+        "cs": 28,
         "csb": 49,
-        "ccs": 21,
-        "csPct": "0.300"
+        "ccs": 22,
+        "csPct": "0.310"
+      }
+    },
+    {
+      "team": "T",
+      "league": "Central",
+      "name": "Hanshin Tigers",
+      "batting": {
+        "sb": 80,
+        "cs": 32,
+        "csb": 77,
+        "ccs": 27,
+        "sbPct": "0.740"
+      },
+      "fielding": {
+        "sb": 51,
+        "cs": 21,
+        "csb": 46,
+        "ccs": 18,
+        "csPct": "0.281"
       }
     },
     {
@@ -196,10 +215,10 @@
       "name": "Yomiuri Giants",
       "batting": {
         "sb": 79,
-        "cs": 30,
+        "cs": 31,
         "csb": 78,
-        "ccs": 26,
-        "sbPct": "0.750"
+        "ccs": 27,
+        "sbPct": "0.743"
       },
       "fielding": {
         "sb": 48,
@@ -210,38 +229,19 @@
       }
     },
     {
-      "team": "T",
-      "league": "Central",
-      "name": "Hanshin Tigers",
-      "batting": {
-        "sb": 79,
-        "cs": 32,
-        "csb": 76,
-        "ccs": 27,
-        "sbPct": "0.738"
-      },
-      "fielding": {
-        "sb": 46,
-        "cs": 21,
-        "csb": 44,
-        "ccs": 18,
-        "csPct": "0.290"
-      }
-    },
-    {
       "league": "Pacific",
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 688,
-        "sb": 497,
-        "cs": 191,
+        "attempt": 693,
+        "sb": 500,
+        "cs": 193,
         "sbPct": "0.748"
       },
       "fielding": {
-        "attempt": 688,
-        "sb": 497,
-        "cs": 191,
+        "attempt": 693,
+        "sb": 500,
+        "cs": 193,
         "csPct": "0.252"
       }
     },
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 517,
-        "sb": 350,
-        "cs": 167,
-        "sbPct": "0.700"
+        "attempt": 527,
+        "sb": 357,
+        "cs": 170,
+        "sbPct": "0.698"
       },
       "fielding": {
-        "attempt": 517,
-        "sb": 350,
-        "cs": 167,
-        "csPct": "0.300"
+        "attempt": 527,
+        "sb": 357,
+        "cs": 170,
+        "csPct": "0.302"
       }
     }
   ],
-  "updated": "2020-11-04"
+  "updated": "2020-11-05"
 }
