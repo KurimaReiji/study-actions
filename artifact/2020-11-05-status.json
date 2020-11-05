@@ -381,7 +381,31 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020110504/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-11-05",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110504/text",
+            "title": "11月5日（木） ロッテ vs. ソフトバンク 24回戦",
+            "home": "M",
+            "road": "H",
+            "gameNo": "24",
+            "inning": "b6",
+            "batter": "清田 育宏｜1000016",
+            "state": "一死1塁",
+            "text": "一塁走者 〔和田｜1700098〕 :盗塁成功 2塁",
+            "pitcher": "東浜｜1200106",
+            "catcher": "甲斐｜1000176",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "和田｜1700098"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
@@ -459,6 +483,29 @@
             "RoB": "-2-",
             "credit": "1",
             "text": "1アウト｜2塁｜｜｜（走者・〔佐野｜91995130〕）三塁盗塁失敗"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1105/b-e-24/playbyplay.html",
+            "date": "2020-11-05",
+            "home": "B",
+            "road": "E",
+            "inning": "b8",
+            "pitcher": "牧田｜41445133",
+            "catchers": [
+              "田中貴｜31235130"
+            ],
+            "batter": "中川｜51255138",
+            "runners": [
+              "福田｜01605136"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1-3",
+            "credit": "1",
+            "text": "2アウト｜1・3塁｜｜｜（走者・〔福田｜01605136〕）二塁盗塁成功"
           }
         ]
       },
@@ -534,6 +581,29 @@
             "base": 3,
             "outs": 1,
             "RoB": "-2-"
+          },
+          {
+            "date": "2020-11-05",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110505/text",
+            "title": "11月5日（木） オリックス vs. 楽天 24回戦",
+            "home": "B",
+            "road": "E",
+            "gameNo": "24",
+            "inning": "b8",
+            "batter": "中川 圭太｜1800104",
+            "state": "二死1,3塁",
+            "text": "一塁走者 〔福田｜1700111〕 :積極的に初球から走って盗塁成功 2,3塁",
+            "pitcher": "牧田｜1000149",
+            "catcher": "田中貴｜1400107",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "福田｜1700111"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1-3"
           }
         ],
         "status": false
