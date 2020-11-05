@@ -4,7 +4,7 @@
       "id": "D-DB-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1105/d-db-24/index.html",
-        "status": "（ナゴヤドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1105/d-db-24/playbyplay.html",
@@ -150,7 +150,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -167,7 +167,8 @@
             "inning": "b1",
             "pitcher": "金久保｜51555136",
             "catchers": [
-              "嶋｜01905114"
+              "嶋｜01905114",
+              "西田｜41245133"
             ],
             "batter": "糸原｜81185134",
             "runners": [
@@ -340,11 +341,59 @@
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1105/c-g-24/index.html",
         "status": "（マツダスタジアム）\n                    5回裏",
-        "attempts": []
+        "attempts": [
+          {
+            "url": "https://npb.jp/scores/2020/1105/c-g-24/playbyplay.html",
+            "date": "2020-11-05",
+            "home": "C",
+            "road": "G",
+            "inning": "t9",
+            "pitcher": "フランスア｜53955136",
+            "catchers": [
+              "會澤｜31135114"
+            ],
+            "batter": "岡本｜11515130",
+            "runners": [
+              "増田大｜51855132"
+            ],
+            "sb": "",
+            "cs": "CS",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔増田大｜51855132〕）二塁盗塁失敗"
+          }
+        ]
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020110503/text",
-        "attempts": [],
+        "attempts": [
+          {
+            "date": "2020-11-05",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110503/text",
+            "title": "11月5日（木） 広島 vs. 巨人 24回戦",
+            "home": "C",
+            "road": "G",
+            "gameNo": "24",
+            "inning": "t9",
+            "batter": "岡本 和真｜1400101",
+            "state": "一死1塁",
+            "text": "一塁走者 〔増田大｜1500054〕 :盗塁を試みるもアウト 2アウト",
+            "pitcher": "フランスア｜1600035",
+            "catcher": "會澤｜700050",
+            "credit": 1,
+            "sb": "",
+            "cs": "CS",
+            "runners": [
+              "増田大｜1500054"
+            ],
+            "base": 2,
+            "outs": 1,
+            "RoB": "1--"
+          }
+        ],
         "status": false
       }
     },
@@ -352,7 +401,7 @@
       "id": "M-H-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1105/m-h-24/index.html",
-        "status": "（ZOZOマリン）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1105/m-h-24/playbyplay.html",
@@ -406,14 +455,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-E-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1105/b-e-24/index.html",
-        "status": "（京セラD大阪）\n                    5回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1105/b-e-24/playbyplay.html",
@@ -606,7 +655,7 @@
             "RoB": "1-3"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
