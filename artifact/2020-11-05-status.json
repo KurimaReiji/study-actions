@@ -157,7 +157,7 @@
       "id": "T-S-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1105/t-s-24/index.html",
-        "status": "（甲子園）\n                    3回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1105/t-s-24/playbyplay.html",
@@ -333,14 +333,14 @@
             "RoB": "12-"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "C-G-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1105/c-g-24/index.html",
-        "status": "（マツダスタジアム）\n                    5回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1105/c-g-24/playbyplay.html",
