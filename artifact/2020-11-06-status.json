@@ -4,7 +4,7 @@
       "id": "D-S-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1106/d-s-24/index.html",
-        "status": "（ナゴヤドーム）\n                    4回表",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1106/d-s-24/playbyplay.html",
@@ -105,7 +105,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
