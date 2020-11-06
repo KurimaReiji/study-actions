@@ -156,31 +156,7 @@
       },
       "yahoo": {
         "url": "https://baseball.yahoo.co.jp/npb/game/2020110602/text",
-        "attempts": [
-          {
-            "date": "2020-11-06",
-            "url": "https://baseball.yahoo.co.jp/npb/game/2020110602/text",
-            "title": "11月6日（金） オリックス vs. 日本ハム 24回戦",
-            "home": "B",
-            "road": "F",
-            "gameNo": "24",
-            "inning": "t2",
-            "batter": "杉谷 拳士｜900070",
-            "state": "二死1塁",
-            "text": "一塁走者 〔中島卓也｜900069〕 :盗塁成功 2塁",
-            "pitcher": "宮城｜1900087",
-            "catcher": "頓宮｜1800099",
-            "credit": 1,
-            "sb": "SB",
-            "cs": "",
-            "runners": [
-              "中島卓也｜900069"
-            ],
-            "base": 2,
-            "outs": 2,
-            "RoB": "1--"
-          }
-        ],
+        "attempts": [],
         "status": false
       }
     }
