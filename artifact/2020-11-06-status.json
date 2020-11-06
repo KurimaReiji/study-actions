@@ -112,7 +112,7 @@
       "id": "E-L-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1106/e-l-23/index.html",
-        "status": "（楽天生命パーク）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1106/e-l-23/playbyplay.html",
@@ -212,14 +212,14 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
       "id": "B-F-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1106/b-f-24/index.html",
-        "status": "（京セラD大阪）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1106/b-f-24/playbyplay.html",
@@ -229,7 +229,8 @@
             "inning": "t2",
             "pitcher": "宮城｜71875151",
             "catchers": [
-              "頓宮｜81085138"
+              "頓宮｜81085138",
+              "山崎勝｜71475113"
             ],
             "batter": "杉谷｜81785118",
             "runners": [
@@ -252,7 +253,8 @@
             "inning": "t6",
             "pitcher": "吉田凌｜13315132",
             "catchers": [
-              "頓宮｜81085138"
+              "頓宮｜81085138",
+              "山崎勝｜71475113"
             ],
             "batter": "杉谷｜81785118",
             "runners": [
@@ -319,7 +321,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
