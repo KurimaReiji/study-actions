@@ -4,7 +4,7 @@
       "id": "G-S-23",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1107/g-s-23/index.html",
-        "status": "（東京ドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1107/g-s-23/playbyplay.html",
@@ -104,7 +104,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     },
     {
@@ -348,6 +348,29 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔中川｜51255138〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1107/m-b-24/playbyplay.html",
+            "date": "2020-11-07",
+            "home": "M",
+            "road": "B",
+            "inning": "t8",
+            "pitcher": "澤村｜81985133",
+            "catchers": [
+              "田村｜41945137"
+            ],
+            "batter": "紅林｜91995151",
+            "runners": [
+              "宗｜11815130"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "1",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "1アウト｜1塁｜｜｜（走者・〔宗｜11815130〕）二塁盗塁成功"
           }
         ]
       },
@@ -421,6 +444,29 @@
             ],
             "base": 2,
             "outs": 0,
+            "RoB": "1--"
+          },
+          {
+            "date": "2020-11-07",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110705/text",
+            "title": "11月7日（土） ロッテ vs. オリックス 24回戦",
+            "home": "M",
+            "road": "B",
+            "gameNo": "24",
+            "inning": "t8",
+            "batter": "紅林 弘太郎｜1900088",
+            "state": "一死1塁",
+            "text": "空振り三振に倒れるもスタートを切っていた一塁走者 〔宗｜1400196〕 が盗塁成功 2アウト2塁",
+            "pitcher": "澤村｜1000083",
+            "catcher": "田村｜1200096",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "宗｜1400196"
+            ],
+            "base": 2,
+            "outs": 1,
             "RoB": "1--"
           }
         ],
