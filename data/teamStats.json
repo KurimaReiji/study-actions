@@ -44,17 +44,17 @@
       "name": "Lotte Marines",
       "batting": {
         "sb": 87,
-        "cs": 31,
+        "cs": 32,
         "csb": 85,
-        "ccs": 28,
-        "sbPct": "0.752"
+        "ccs": 29,
+        "sbPct": "0.746"
       },
       "fielding": {
         "sb": 82,
-        "cs": 33,
+        "cs": 34,
         "csb": 79,
-        "ccs": 27,
-        "csPct": "0.255"
+        "ccs": 28,
+        "csPct": "0.262"
       }
     },
     {
@@ -63,17 +63,17 @@
       "name": "Seibu Lions",
       "batting": {
         "sb": 85,
-        "cs": 39,
+        "cs": 40,
         "csb": 85,
-        "ccs": 32,
-        "sbPct": "0.726"
+        "ccs": 33,
+        "sbPct": "0.720"
       },
       "fielding": {
         "sb": 79,
-        "cs": 35,
+        "cs": 36,
         "csb": 78,
-        "ccs": 33,
-        "csPct": "0.297"
+        "ccs": 34,
+        "csPct": "0.304"
       }
     },
     {
@@ -100,11 +100,11 @@
       "league": "Central",
       "name": "Yakult Swallows",
       "batting": {
-        "sb": 73,
+        "sb": 74,
         "cs": 42,
-        "csb": 65,
+        "csb": 66,
         "ccs": 38,
-        "sbPct": "0.631"
+        "sbPct": "0.635"
       },
       "fielding": {
         "sb": 80,
@@ -202,11 +202,11 @@
         "sbPct": "0.736"
       },
       "fielding": {
-        "sb": 48,
+        "sb": 49,
         "cs": 25,
-        "csb": 46,
+        "csb": 47,
         "ccs": 24,
-        "csPct": "0.343"
+        "csPct": "0.338"
       }
     },
     {
@@ -233,16 +233,16 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 704,
+        "attempt": 706,
         "sb": 510,
-        "cs": 194,
-        "sbPct": "0.751"
+        "cs": 196,
+        "sbPct": "0.749"
       },
       "fielding": {
-        "attempt": 704,
+        "attempt": 706,
         "sb": 510,
-        "cs": 194,
-        "csPct": "0.249"
+        "cs": 196,
+        "csPct": "0.251"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 531,
-        "sb": 358,
+        "attempt": 532,
+        "sb": 359,
         "cs": 173,
-        "sbPct": "0.694"
+        "sbPct": "0.695"
       },
       "fielding": {
-        "attempt": 531,
-        "sb": 358,
+        "attempt": 532,
+        "sb": 359,
         "cs": 173,
-        "csPct": "0.306"
+        "csPct": "0.305"
       }
     }
   ],
-  "updated": "2020-11-07"
+  "updated": "2020-11-08"
 }
