@@ -14,7 +14,8 @@
             "inning": "t5",
             "pitcher": "中村稔｜01205138",
             "catchers": [
-              "佐藤｜71075151"
+              "佐藤｜71075151",
+              "細川｜71475115"
             ],
             "batter": "渡邉｜81685139",
             "runners": [
@@ -28,6 +29,30 @@
             "RoB": "1--",
             "credit": "1",
             "text": "0アウト｜1塁｜｜｜（走者・〔平沼｜01605132〕）二塁盗塁成功"
+          },
+          {
+            "url": "https://npb.jp/scores/2020/1109/m-f-24/playbyplay.html",
+            "date": "2020-11-09",
+            "home": "M",
+            "road": "F",
+            "inning": "t8",
+            "pitcher": "東條｜21225132",
+            "catchers": [
+              "佐藤｜71075151",
+              "細川｜71475115"
+            ],
+            "batter": "西川｜21225133",
+            "runners": [
+              "中島卓也｜11215118"
+            ],
+            "sb": "SB",
+            "cs": "",
+            "base": "2",
+            "ds": "",
+            "outs": "2",
+            "RoB": "1--",
+            "credit": "1",
+            "text": "2アウト｜1塁｜｜｜（走者・〔中島卓也｜11215118〕）二塁盗塁成功"
           }
         ]
       },
@@ -57,6 +82,29 @@
             "base": 2,
             "outs": 0,
             "RoB": "1--"
+          },
+          {
+            "date": "2020-11-09",
+            "url": "https://baseball.yahoo.co.jp/npb/game/2020110902/text",
+            "title": "11月9日（月） ロッテ vs. 日本ハム 24回戦",
+            "home": "M",
+            "road": "F",
+            "gameNo": "24",
+            "inning": "t8",
+            "batter": "西川 遥輝｜1000100",
+            "state": "二死1塁",
+            "text": "一塁走者 〔中島卓也｜900069〕 :盗塁成功 2塁",
+            "pitcher": "東條｜1500120",
+            "catcher": "佐藤｜1900081",
+            "credit": 1,
+            "sb": "SB",
+            "cs": "",
+            "runners": [
+              "中島卓也｜900069"
+            ],
+            "base": 2,
+            "outs": 2,
+            "RoB": "1--"
           }
         ],
         "status": false
@@ -66,7 +114,7 @@
       "id": "H-L-24",
       "npbjp": {
         "url": "https://npb.jp/scores/2020/1109/h-l-24/index.html",
-        "status": "（PayPayドーム）\n                    4回裏",
+        "status": "Final",
         "attempts": [
           {
             "url": "https://npb.jp/scores/2020/1109/h-l-24/playbyplay.html",
@@ -120,7 +168,7 @@
             "RoB": "1--"
           }
         ],
-        "status": false
+        "status": "Final"
       }
     }
   ],
