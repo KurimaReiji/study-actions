@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://npb.jp/scores/2020/1109/m-f-24/playbyplay.html",
+    "date": "2020-11-09",
+    "home": "M",
+    "road": "F",
+    "inning": "t5",
+    "pitcher": "中村稔｜01205138",
+    "catchers": [
+      "佐藤｜71075151"
+    ],
+    "batter": "渡邉｜81685139",
+    "runners": [
+      "平沼｜01605132"
+    ],
+    "sb": "SB",
+    "cs": "",
+    "base": "2",
+    "ds": "",
+    "outs": "0",
+    "RoB": "1--",
+    "credit": "1",
+    "text": "0アウト｜1塁｜｜｜（走者・〔平沼｜01605132〕）二塁盗塁成功",
+    "catcher": "佐藤｜71075151"
+  },
+  {
     "url": "https://npb.jp/scores/2020/1109/h-l-24/playbyplay.html",
     "date": "2020-11-09",
     "home": "H",
