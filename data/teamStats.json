@@ -5,11 +5,11 @@
       "league": "Pacific",
       "name": "Nippon-Ham Fighters",
       "batting": {
-        "sb": 78,
+        "sb": 80,
         "cs": 23,
-        "csb": 75,
+        "csb": 76,
         "ccs": 19,
-        "sbPct": "0.798"
+        "sbPct": "0.800"
       },
       "fielding": {
         "sb": 122,
@@ -50,11 +50,11 @@
         "sbPct": "0.746"
       },
       "fielding": {
-        "sb": 82,
+        "sb": 84,
         "cs": 34,
-        "csb": 79,
-        "ccs": 28,
-        "csPct": "0.262"
+        "csb": 80,
+        "ccs": 27,
+        "csPct": "0.252"
       }
     },
     {
@@ -65,15 +65,15 @@
         "sb": 85,
         "cs": 40,
         "csb": 85,
-        "ccs": 33,
-        "sbPct": "0.720"
+        "ccs": 32,
+        "sbPct": "0.726"
       },
       "fielding": {
-        "sb": 79,
+        "sb": 80,
         "cs": 36,
-        "csb": 78,
+        "csb": 79,
         "ccs": 34,
-        "csPct": "0.304"
+        "csPct": "0.301"
       }
     },
     {
@@ -157,11 +157,11 @@
       "league": "Pacific",
       "name": "SoftBank Hawks",
       "batting": {
-        "sb": 98,
+        "sb": 99,
         "cs": 32,
-        "csb": 97,
+        "csb": 98,
         "ccs": 28,
-        "sbPct": "0.776"
+        "sbPct": "0.778"
       },
       "fielding": {
         "sb": 63,
@@ -233,16 +233,16 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 706,
-        "sb": 510,
+        "attempt": 709,
+        "sb": 513,
         "cs": 196,
-        "sbPct": "0.749"
+        "sbPct": "0.750"
       },
       "fielding": {
-        "attempt": 706,
-        "sb": 510,
+        "attempt": 709,
+        "sb": 513,
         "cs": 196,
-        "csPct": "0.251"
+        "csPct": "0.250"
       }
     },
     {
@@ -263,5 +263,5 @@
       }
     }
   ],
-  "updated": "2020-11-08"
+  "updated": "2020-11-09"
 }
