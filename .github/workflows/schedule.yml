@@ -2,7 +2,7 @@ name: Collect today's SB on schedule
 
 on:
   schedule:
-    - cron: '5,35 10-14 * 7-11 *'
+    - cron: '35 11-14 9,10,13 7-11 *'
 
 jobs:
   build:
