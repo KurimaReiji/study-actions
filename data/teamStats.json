@@ -107,11 +107,11 @@
         "sbPct": "0.635"
       },
       "fielding": {
-        "sb": 80,
+        "sb": 81,
         "cs": 24,
-        "csb": 79,
+        "csb": 80,
         "ccs": 19,
-        "csPct": "0.194"
+        "csPct": "0.192"
       }
     },
     {
@@ -176,11 +176,11 @@
       "league": "Central",
       "name": "Hiroshima Carp",
       "batting": {
-        "sb": 63,
+        "sb": 64,
         "cs": 32,
-        "csb": 61,
+        "csb": 62,
         "ccs": 28,
-        "sbPct": "0.685"
+        "sbPct": "0.689"
       },
       "fielding": {
         "sb": 50,
@@ -195,18 +195,18 @@
       "league": "Central",
       "name": "Yomiuri Giants",
       "batting": {
-        "sb": 79,
+        "sb": 80,
         "cs": 32,
-        "csb": 78,
+        "csb": 79,
         "ccs": 28,
-        "sbPct": "0.736"
+        "sbPct": "0.738"
       },
       "fielding": {
         "sb": 49,
-        "cs": 25,
+        "cs": 26,
         "csb": 47,
-        "ccs": 24,
-        "csPct": "0.338"
+        "ccs": 25,
+        "csPct": "0.347"
       }
     },
     {
@@ -215,17 +215,17 @@
       "name": "Hanshin Tigers",
       "batting": {
         "sb": 80,
-        "cs": 32,
+        "cs": 33,
         "csb": 77,
-        "ccs": 27,
-        "sbPct": "0.740"
+        "ccs": 28,
+        "sbPct": "0.733"
       },
       "fielding": {
-        "sb": 51,
+        "sb": 52,
         "cs": 21,
-        "csb": 46,
+        "csb": 47,
         "ccs": 18,
-        "csPct": "0.281"
+        "csPct": "0.277"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 532,
-        "sb": 359,
-        "cs": 173,
+        "attempt": 535,
+        "sb": 361,
+        "cs": 174,
         "sbPct": "0.695"
       },
       "fielding": {
-        "attempt": 532,
-        "sb": 359,
-        "cs": 173,
+        "attempt": 535,
+        "sb": 361,
+        "cs": 174,
         "csPct": "0.305"
       }
     }
   ],
-  "updated": "2020-11-09"
+  "updated": "2020-11-10"
 }
