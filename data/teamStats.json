@@ -82,10 +82,10 @@
       "name": "DeNA Baystars",
       "batting": {
         "sb": 30,
-        "cs": 14,
+        "cs": 15,
         "csb": 30,
-        "ccs": 12,
-        "sbPct": "0.714"
+        "ccs": 13,
+        "sbPct": "0.698"
       },
       "fielding": {
         "sb": 72,
@@ -139,17 +139,17 @@
       "name": "Chunichi Dragons",
       "batting": {
         "sb": 33,
-        "cs": 21,
+        "cs": 22,
         "csb": 32,
-        "ccs": 18,
-        "sbPct": "0.640"
+        "ccs": 19,
+        "sbPct": "0.627"
       },
       "fielding": {
         "sb": 57,
-        "cs": 37,
+        "cs": 39,
         "csb": 55,
-        "ccs": 35,
-        "csPct": "0.389"
+        "ccs": 37,
+        "csPct": "0.402"
       }
     },
     {
@@ -177,17 +177,17 @@
       "name": "Hiroshima Carp",
       "batting": {
         "sb": 64,
-        "cs": 32,
+        "cs": 34,
         "csb": 62,
-        "ccs": 28,
-        "sbPct": "0.689"
+        "ccs": 30,
+        "sbPct": "0.674"
       },
       "fielding": {
         "sb": 50,
-        "cs": 28,
+        "cs": 29,
         "csb": 49,
-        "ccs": 22,
-        "csPct": "0.310"
+        "ccs": 23,
+        "csPct": "0.319"
       }
     },
     {
@@ -222,10 +222,10 @@
       },
       "fielding": {
         "sb": 52,
-        "cs": 21,
+        "cs": 22,
         "csb": 47,
-        "ccs": 18,
-        "csPct": "0.277"
+        "ccs": 19,
+        "csPct": "0.288"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 535,
+        "attempt": 539,
         "sb": 361,
-        "cs": 174,
-        "sbPct": "0.695"
+        "cs": 178,
+        "sbPct": "0.689"
       },
       "fielding": {
-        "attempt": 535,
+        "attempt": 539,
         "sb": 361,
-        "cs": 174,
-        "csPct": "0.305"
+        "cs": 178,
+        "csPct": "0.311"
       }
     }
   ],
-  "updated": "2020-11-10"
+  "updated": "2020-11-11"
 }
