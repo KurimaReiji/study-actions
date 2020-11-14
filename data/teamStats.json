@@ -81,18 +81,18 @@
       "league": "Central",
       "name": "DeNA Baystars",
       "batting": {
-        "sb": 30,
+        "sb": 31,
         "cs": 15,
-        "csb": 30,
+        "csb": 31,
         "ccs": 13,
-        "sbPct": "0.698"
+        "sbPct": "0.705"
       },
       "fielding": {
         "sb": 72,
-        "cs": 38,
+        "cs": 39,
         "csb": 68,
-        "ccs": 33,
-        "csPct": "0.327"
+        "ccs": 34,
+        "csPct": "0.333"
       }
     },
     {
@@ -196,17 +196,17 @@
       "name": "Yomiuri Giants",
       "batting": {
         "sb": 80,
-        "cs": 32,
+        "cs": 33,
         "csb": 79,
-        "ccs": 28,
-        "sbPct": "0.738"
+        "ccs": 29,
+        "sbPct": "0.731"
       },
       "fielding": {
-        "sb": 49,
+        "sb": 50,
         "cs": 26,
-        "csb": 47,
+        "csb": 48,
         "ccs": 25,
-        "csPct": "0.347"
+        "csPct": "0.342"
       }
     },
     {
@@ -250,18 +250,18 @@
       "name": "League Total",
       "team": "Z",
       "batting": {
-        "attempt": 539,
-        "sb": 361,
-        "cs": 178,
-        "sbPct": "0.689"
+        "attempt": 541,
+        "sb": 362,
+        "cs": 179,
+        "sbPct": "0.688"
       },
       "fielding": {
-        "attempt": 539,
-        "sb": 361,
-        "cs": 178,
-        "csPct": "0.311"
+        "attempt": 541,
+        "sb": 362,
+        "cs": 179,
+        "csPct": "0.312"
       }
     }
   ],
-  "updated": "2020-11-11"
+  "updated": "2020-11-14"
 }

@@ -9,8 +9,8 @@
   },
   {
     "catcher": "戸柱",
-    "csPct": "0.343",
-    "cs": 24,
+    "csPct": "0.352",
+    "cs": 25,
     "sb": 46,
     "team": "DB",
     "league": "central"
@@ -152,19 +152,19 @@
     "league": "central"
   },
   {
+    "catcher": "炭谷",
+    "csPct": "0.313",
+    "cs": 5,
+    "sb": 11,
+    "team": "G",
+    "league": "central"
+  },
+  {
     "catcher": "A.マルティネス",
     "csPct": "0.188",
     "cs": 3,
     "sb": 13,
     "team": "D",
-    "league": "central"
-  },
-  {
-    "catcher": "炭谷",
-    "csPct": "0.333",
-    "cs": 5,
-    "sb": 10,
-    "team": "G",
     "league": "central"
   },
   {
