@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/KurimaReiji/study-actions#readme",
   "dependencies": {
-    "ejs": "^3.1.5",
+    "ejs": "^3.1.7",
     "puppeteer-core": "^5.2.1"
   },
   "devDependencies": {}
